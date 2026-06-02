@@ -1,0 +1,233 @@
+{
+  "url": "https://www.groupon.com/deals/the-spa-club-3?redemptionLocationId=a7c29df9-0008-ba48-8804-018721a36a35",
+  "title": "General Admission for Full-Day Korean-Style Jjimjilbang Spa w/ Complimentary Amenities - Up to 41% Off",
+  "subtitle": null,
+  "merchant_name": "The SPA Club - New York, NY",
+  "category_breadcrumbs": [
+    "local",
+    "beauty-and-spas",
+    "spa",
+    "bath-house"
+  ],
+  "pricing_options": [
+    {
+      "label": "One Spa Day Admission | Valid Any Day (Excludes Federal Holidays)",
+      "original_price": 90.0,
+      "deal_price": 63.0,
+      "discount_pct": 37.0,
+      "limited_sale_price": 56.7,
+      "limited_sale_label": "Extra $6.30 off, today only",
+      "promo_price": 51.03,
+      "promo_code": "RELAX",
+      "sold_quantity": "25,000+",
+      "structured_fields": [
+        {
+          "label": "Duration",
+          "value": "1 day"
+        },
+        {
+          "label": "Number of People",
+          "value": "1 person"
+        },
+        {
+          "label": "Expires",
+          "value": "90 days after purchase"
+        },
+        {
+          "label": "WHAT'S INCLUDED",
+          "value": [
+            "Spa loungewear",
+            "Personal locker for shoes and belongings",
+            "Access to dry saunas",
+            "Access to salt cave",
+            "Access to red-clay cave",
+            "Access to bathhouses",
+            "Access to steam sauna rooms",
+            "Toiletries",
+            "Bathing areas",
+            "Towels",
+            "Sleeping rooms",
+            "Lounging areas",
+            "Wi-Fi"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Two Spa Day Admission | Valid Any Day (Excludes Federal Holidays)",
+      "original_price": 180.0,
+      "deal_price": 119.0,
+      "discount_pct": 41.0,
+      "limited_sale_price": 107.1,
+      "limited_sale_label": "Extra $11.90 off, today only",
+      "promo_price": 96.39,
+      "promo_code": "RELAX",
+      "sold_quantity": "1,000+",
+      "structured_fields": [
+        {
+          "label": "Duration",
+          "value": "1 day"
+        },
+        {
+          "label": "Number of People",
+          "value": "2 people"
+        },
+        {
+          "label": "Expires",
+          "value": "90 days after purchase"
+        },
+        {
+          "label": "WHAT'S INCLUDED",
+          "value": [
+            "Spa loungewear",
+            "Personal locker for shoes and belongings",
+            "Access to dry saunas",
+            "Access to salt cave",
+            "Access to red-clay cave",
+            "Access to bathhouses",
+            "Access to steam sauna rooms",
+            "Toiletries",
+            "Bathing areas",
+            "Towels",
+            "Sleeping rooms",
+            "Lounging areas",
+            "Wi-Fi"
+          ]
+        }
+      ]
+    }
+  ],
+  "highlights_html": "",
+  "highlights_text": null,
+  "about_deal_html": "<div style=\"font-family: -apple-system, default; max-width: 850px; margin: 0 auto; padding: 20px\">\n    <div style=\"display:flex; flex-wrap:wrap; gap:10px; margin-bottom:25px\">\n        <span style=\"display:inline-flex; align-items:center; gap:7px; white-space:nowrap; background-color:rgba(255,255,255,0.85); border:1px solid #e7e8e9; border-radius:8px; padding:6px 10px; box-shadow:0 1px 2px rgba(0,0,0,0.06);\">\n            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" style=\"max-width: 100%\" height=\"17\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"flex-shrink:0; color:#1c7b22;\">\n                <path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10zM9 12l2 2 4-4\"></path>\n            </svg>\n            <span style=\"font-size:12px; font-weight:800; color:#1c7b22;\">Licensed Professionals</span>\n        </span>\n        <span style=\"display:inline-flex; align-items:center; gap:7px; white-space:nowrap; background-color:rgba(255,255,255,0.85); border:1px solid #e7e8e9; border-radius:8px; padding:6px 10px; box-shadow:0 1px 2px rgba(0,0,0,0.06);\">\n            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" style=\"max-width: 100%\" height=\"17\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"flex-shrink:0; color:#1c7b22;\">\n                <circle cx=\"12\" cy=\"12\" r=\"3\" stroke=\"currentColor\" stroke-width=\"1.5\"></circle>\n                <circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"currentColor\" stroke-width=\"1.5\"></circle>\n                <path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"1.5\" d=\"M12 3v3M12 18v3M3 12h3M18 12h3\"></path>\n            </svg>\n            <span style=\"font-size:12px; font-weight:800; color:#1c7b22;\">Jjimjilbang Spa Amenities</span>\n        </span>\n        <span style=\"display:inline-flex; align-items:center; gap:7px; white-space:nowrap; background-color:rgba(255,255,255,0.85); border:1px solid #e7e8e9; border-radius:8px; padding:6px 10px; box-shadow:0 1px 2px rgba(0,0,0,0.06);\">\n            <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" style=\"max-width: 100%\" height=\"17\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"flex-shrink:0; color:#1c7b22;\">\n                <path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M12 2l3 6 6 1-4 4 1 6-6-3-6 3 1-6-4-4 6-1z\"></path>\n            </svg>\n            <span style=\"font-size:12px; font-weight:800; color:#1c7b22;\">4.5 Star</span>\n        </span>\n    </div>\n    <h1 style=\"margin: 0 0 10px 0; font-size: 28px; font-weight: 800; color: #111827; letter-spacing: -0.02em\">Pass to a Traditional Korean Jjimjilbang Spa</h1>\n    <p style=\"margin: 0 0 30px 0; font-size: 16px; color: #6b7280; line-height: 1.5\">Are you ready to unwind and pamper yourself in the heart of NYC? Grab a general admission pass to this luxurious spot that rejuvenates your body and mind, leaving you refreshed. At The Spa Club, a team of professionals combines their experience with relaxing amenities to create your ultimate Korean-style jjimjilbang experience.</p>\n    <h2 style=\"font-size: 22px; font-weight: 800; margin: 0 0 20px 0; color: #111827\">Why You'll Love It</h2>\n    <section style=\"display:flex;flex-direction:column;gap:8px;color:#111827;margin:0 0 26px 0;\">\n        <div style=\"display:flex;gap:6px;align-items:flex-start\">\n            <span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span>\n            <div style=\"flex:1\">\n                <p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\">Healing Clay &amp; Salt Rooms:</strong> Experience the Red Clay Room and traditional Jjimjilnbang, which use eco-friendly materials to radiate bio-infrared rays that purify the body, or visit the Himalayan Salt Room to help warm bones and support hormonal health.</p>\n            </div>\n        </div>\n        <div style=\"display:flex;gap:6px;align-items:flex-start\">\n            <span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span>\n            <div style=\"flex:1\">\n                <p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\">Advanced Sauna &amp; Bathing:</strong> Boost cardiovascular health and immunity in the Dry Sauna, or retreat to the clothing-optional Bath Area (swimsuits permitted) for a thorough, rejuvenating rinse and soak.</p>\n            </div>\n        </div>\n        <div style=\"display:flex;gap:6px;align-items:flex-start\">\n            <span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span>\n            <div style=\"flex:1\">\n                <p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\">Full Recovery Access:</strong> Enjoy peaceful Recovery Rooms for quiet naps, steam saunas, and lounging areas designed for complete physical and mental restoration.</p>\n            </div>\n        </div>\n        <div style=\"display:flex;gap:6px;align-items:flex-start\">\n            <span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span>\n            <div style=\"flex:1\">\n                <p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\">Hassle-Free Amenities:</strong> Your pass includes complimentary spa loungewear, a personal locker, toiletries, towels, and Wi-Fi, ensuring you have everything needed for a seamless escape.</p>\n            </div>\n        </div>\n        <div style=\"display:flex;gap:6px;align-items:flex-start\">\n            <span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span>\n            <div style=\"flex:1\">\n                <p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\"> All-Day Entry:</strong> With no appointment required for general admission, you can visit at your leisure any day (excluding federal holidays) to enjoy a full day of tranquility.</p>\n            </div>\n        </div>\n    </section>\n    <h2 style=\"font-size: 22px; font-weight: 800; margin: 0 0 15px 0; color: #111827\">Plan Your Treatment</h2>\n    <div style=\"border-top: 1px solid #e5e7eb\">\n        <details style=\"border-bottom: 1px solid #e5e7eb\" open=\"\">\n            <summary style=\"list-style: none; cursor: pointer; padding: 20px 0; display: flex; align-items: center; justify-content: space-between; outline: none\">\n                <div style=\"display: flex; align-items: center; gap: 15px\">\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" style=\"max-width: 100%\" height=\"20\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"flex-shrink:0; color:#111827;\">\n                        <path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M9 11l3 3L22 4M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11\"></path>\n                    </svg>\n                    <span style=\"font-size: 18px; font-weight: 800; color: #111827\">What's Included</span>\n                </div>\n                <div style=\"width: 28px; height: 28px; border: 1px solid #d1d5db; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; color: #111827\">+</div>\n            </summary>\n            <div style=\"padding: 0 0 25px 35px; color: #4b5563; font-size: 15px; line-height: 1.6\">\n                <ul style=\"margin: 0; padding: 0; list-style-type: disc;\">\n                    <li><strong>General Spa Day Admission for One or Two:</strong> Valid any day excluding federal holidays. Features access to the Red Clay Room, Himalayan Salt Room, Dry Saunas, Steam Rooms, Bathhouses, and tranquil sleeping/lounging areas.</li>\n                    <li><strong>Convenience Package:</strong> Includes complimentary facial mask & spa loungewear, a personal locker for shoes and belongings, fresh towels, toiletries, and Wi-Fi access throughout the facility.</li>\n                    <li><strong>Optional Enhancements:</strong> Food, beverages, and specialty spa treatments are available for an additional fee.</li>\n                </ul>\n            </div>\n        </details>\n        <details style=\"border-bottom: 1px solid #e5e7eb\">\n            <summary style=\"list-style: none; cursor: pointer; padding: 20px 0; display: flex; align-items: center; justify-content: space-between; outline: none\">\n                <div style=\"display: flex; align-items: center; gap: 15px\">\n                    <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" style=\"max-width: 100%\" height=\"20\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"flex-shrink:0; color:#111827;\">\n                        <rect x=\"3\" y=\"5\" width=\"18\" style=\"max-width: 100%\" height=\"16\" rx=\"2\" stroke=\"currentColor\" stroke-width=\"1.5\"></rect>\n                        <path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"1.5\" d=\"M3 9h18M8 3v4M16 3v4\"></path>\n                    </svg>\n                    <span style=\"font-size: 18px; font-weight: 800; color: #111827\">Booking &amp; House Rules</span>\n                </div>\n                <div style=\"width: 28px; height: 28px; border: 1px solid #d1d5db; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; color: #111827\">+</div>\n            </summary>\n            <div style=\"padding: 0 0 25px 35px; color: #4b5563; font-size: 15px; line-height: 1.6\">\n                <h3>Before your appointment</h3>\n                <ul>\n                    <li>Appointment is required only for treatments such as body massage, Korean body scrub, and Facials.</li>\n                    <li>Please wait 24 hours after purchase before redeeming your voucher at The Spa Club.</li>\n                    <li>The bath area is a clothing-optional space; you may bring a bathing suit if preferred. Proper swim attire is required if wearing a swimsuit.</li>\n                    <li>Bring a valid government issued photo ID.</li>\n                    <li>As a barefoot facility, sandals and flip flops are not allowed. Enjoy the experience of the heated floor</li>\n                    <li>All guests must shower and rinse before and in between using the hot tub.</li>\n                    <li>Children under the age of 10 are not permitted under any circumstance. Minors 17 and under must be accompanied by an adult at all times of the same gender to supervise them in the locker room.</li>\n                    <li>To maintain hygiene, street clothes and underwear are not permitted. Wear the provided uniform for the coed area.</li>\n                </ul>\n                <h3>After your appointment</h3>\n                <ul>\n                    <li>The Spa Club enforces a zero-tolerance policy towards sexual behavior. Any guest found engaging in such behavior will be immediately escorted off the premises without a refund and may be permanently banned from the spa.</li>\n                </ul>\n            </div>\n        </details>\n    </div>\n    <h2 style=\"font-size: 22px; font-weight: 800; margin: 35px 0 15px 0; color: #111827;\">How It Works</h2>\n<div style=\"margin-bottom: 30px;\">\n    <div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 12px; font-size: 15px; color: #4b5563;\">\n        <span style=\"font-weight: 800; color: #111827; flex-shrink: 0; min-width: 18px;\">1.</span>\n        <span style=\"flex: 1; line-height: 1.4;\">\n            <strong style=\"color: #111827;\">Grab the deal</strong> \u2014 purchase your spa day pass on Groupon.\n        </span>\n    </div>\n    <div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 12px; font-size: 15px; color: #4b5563;\">\n        <span style=\"font-weight: 800; color: #111827; flex-shrink: 0; min-width: 18px;\">2.</span>\n        <span style=\"flex: 1; line-height: 1.4;\">\n            <strong style=\"color: #111827;\">No Booking Required</strong> \u2014 Just show up whenever you're ready.\n        </span>\n    </div>\n    <div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 12px; font-size: 15px; color: #4b5563;\">\n        <span style=\"font-weight: 800; color: #111827; flex-shrink: 0; min-width: 18px;\">3.</span>\n        <span style=\"flex: 1; line-height: 1.4;\">\n            <strong style=\"color: #111827;\">Redeem</strong> \u2014 present your Groupon voucher upon arrival at the spa.\n        </span>\n    </div>\n    <div style=\"display: flex; align-items: flex-start; gap: 10px; margin-bottom: 12px; font-size: 15px; color: #4b5563;\">\n        <span style=\"font-weight: 800; color: #111827; flex-shrink: 0; min-width: 18px;\">4.</span>\n        <span style=\"flex: 1; line-height: 1.4;\">\n            <strong style=\"color: #111827;\">Enjoy</strong> \u2014 experience a rejuvenated you.\n        </span>\n    </div>\n</div>\n    <h2 style=\"font-size: 22px; font-weight: 800; margin: 35px 0 15px 0; color: #111827\">About the Practitioner</h2>\n    <p style=\"font-size: 15px; line-height: 1.6; color: #374151; margin: 0 0 30px 0\">The SPA Club offers a premium Korean-inspired wellness experience with 15,000 sq. ft. of specialty baths, unique saunas, and relaxation lounges, combining tradition with modern technology for ultimate relaxation and rejuvenation.</p>\n</div>",
+  "about_deal_text": "Licensed Professionals \n         \n         \n             \n                  \n                  \n                  \n             \n             Jjimjilbang Spa Amenities \n         \n         \n             \n                  \n             \n             4.5 Star \n         \n     \n     Pass to a Traditional Korean Jjimjilbang Spa \n     Are you ready to unwind and pamper yourself in the heart of NYC? Grab a general admission pass to this luxurious spot that rejuvenates your body and mind, leaving you refreshed. At The Spa Club, a team of professionals combines their experience with relaxing amenities to create your ultimate Korean-style jjimjilbang experience. \n     Why You'll Love It \n     \n         \n             \u2713 \n             \n                  Healing Clay &amp; Salt Rooms:  Experience the Red Clay Room and traditional Jjimjilnbang, which use eco-friendly materials to radiate bio-infrared rays that purify the body, or visit the Himalayan Salt Room to help warm bones and support hormonal health. \n             \n         \n         \n             \u2713 \n             \n                  Advanced Sauna &amp; Bathing:  Boost cardiovascular health and immunity in the Dry Sauna, or retreat to the clothing-optional Bath Area (swimsuits permitted) for a thorough, rejuvenating rinse and soak. \n             \n         \n         \n             \u2713 \n             \n                  Full Recovery Access:  Enjoy peaceful Recovery Rooms for quiet naps, steam saunas, and lounging areas designed for complete physical and mental restoration. \n             \n         \n         \n             \u2713 \n             \n                  Hassle-Free Amenities:  Your pass includes complimentary spa loungewear, a personal locker, toiletries, towels, and Wi-Fi, ensuring you have everything needed for a seamless escape. \n             \n         \n         \n             \u2713 \n             \n                   All-Day Entry:  With no appointment required for general admission, you can visit at your leisure any day (excluding federal holidays) to enjoy a full day of tranquility. \n             \n         \n     \n     Plan Your Treatment \n     \n         \n             \n                 \n                     \n                          \n                     \n                     What's Included \n                 \n                 + \n             \n             \n                 \n                      General Spa Day Admission for One or Two:  Valid any day excluding federal holidays. Features access to the Red Clay Room, Himalayan Salt Room, Dry Saunas, Steam Rooms, Bathhouses, and tranquil sleeping/lounging areas. \n                      Convenience Package:  Includes complimentary facial mask & spa loungewear, a personal locker for shoes and belongings, fresh towels, toiletries, and Wi-Fi access throughout the facility. \n                      Optional Enhancements:  Food, beverages, and specialty spa treatments are available for an additional fee. \n                 \n             \n         \n         \n             \n                 \n                     \n                          \n                          \n                     \n                     Booking &amp; House Rules \n                 \n                 + \n             \n             \n                 Before your appointment \n                 \n                     Appointment is required only for treatments such as body massage, Korean body scrub, and Facials. \n                     Please wait 24 hours after purchase before redeeming your voucher at The Spa Club. \n                     The bath area is a clothing-optional space; you may bring a bathing suit if preferred. Proper swim attire is required if wearing a swimsuit. \n                     Bring a valid government issued photo ID. \n                     As a barefoot facility, sandals and flip flops are not allowed. Enjoy the experience of the heated floor \n                     All guests must shower and rinse before and in between using the hot tub. \n                     Children under the age of 10 are not permitted under any circumstance. Minors 17 and under must be accompanied by an adult at all times of the same gender to supervise them in the locker room. \n                     To maintain hygiene, street clothes and underwear are not permitted. Wear the provided uniform for the coed area. \n                 \n                 After your appointment \n                 \n                     The Spa Club enforces a zero-tolerance policy towards sexual behavior. Any guest found engaging in such behavior will be immediately escorted off the premises without a refund and may be permanently banned from the spa. \n                 \n             \n         \n     \n     How It Works \n \n     \n         1. \n         \n             Grab the deal  \u2014 purchase your spa day pass on Groupon.\n         \n     \n     \n         2. \n         \n             No Booking Required  \u2014 Just show up whenever you're ready.\n         \n     \n     \n         3. \n         \n             Redeem  \u2014 present your Groupon voucher upon arrival at the spa.\n         \n     \n     \n         4. \n         \n             Enjoy  \u2014 experience a rejuvenated you.\n         \n     \n \n     About the Practitioner \n     The SPA Club offers a premium Korean-inspired wellness experience with 15,000 sq. ft. of specialty baths, unique saunas, and relaxation lounges, combining tradition with modern technology for ultimate relaxation and rejuvenation.",
+  "highlights": [
+    "Not valid on Federal Holidays."
+  ],
+  "fine_print": [
+    "Merchant's standard cancellation policy applies (any fees not to exceed Groupon price).",
+    "Limit 10 per person."
+  ],
+  "faqs": [
+    {
+      "question": "What types of spa facilities does The SPA Club offer with the Spa Pass Admission?",
+      "answer": ""
+    },
+    {
+      "question": "What are the available options for the Spa Pass Admission at The SPA Club?",
+      "answer": ""
+    },
+    {
+      "question": "Where is The SPA Club located in New York, NY?",
+      "answer": ""
+    },
+    {
+      "question": "Is there a food or dining option available inside The SPA Club?",
+      "answer": ""
+    },
+    {
+      "question": "Are there any footwear rules guests should know before visiting The SPA Club?",
+      "answer": ""
+    },
+    {
+      "question": "How does locker access work during a Spa Pass Admission at The SPA Club?",
+      "answer": ""
+    }
+  ],
+  "amenities": [
+    "Good for Groups",
+    "Parking",
+    "Cash Only Payment",
+    "Wifi",
+    "Takes Reservations",
+    "Walk-ins Welcome",
+    "Virtual Class"
+  ],
+  "review_count": 4024,
+  "avg_rating": 4.5,
+  "groupon_rating": 4.5,
+  "review_distribution": {
+    "five_star_pct": 75,
+    "four_star_pct": 13,
+    "three_star_pct": 6,
+    "two_star_pct": 2,
+    "one_star_pct": 4
+  },
+  "review_quotes": [
+    {
+      "rating": 5,
+      "text": "Every aspect of spa club was really wonderful. I thoroughly enjoy the staff the food. The layout. It was an all around glorious experience, and I would go back again.",
+      "author": "james"
+    },
+    {
+      "rating": 5,
+      "text": "Un a experiencia \u00fanica excelente servicio",
+      "author": "Ana"
+    },
+    {
+      "rating": 5,
+      "text": "Def going back!!!!",
+      "author": "Juliann"
+    },
+    {
+      "rating": 5,
+      "text": "Love it.",
+      "author": "Zack"
+    },
+    {
+      "rating": 5,
+      "text": "Amazing experience.",
+      "author": "Zack"
+    }
+  ],
+  "badges": [
+    "Best Rated",
+    "Trending",
+    "Popular Gift"
+  ],
+  "urgency_bought": "25,000+",
+  "urgency_message": "1,500+ viewed today",
+  "has_guarantee": false,
+  "is_giftable": true,
+  "image_count": 18,
+  "image_urls": [
+    "https://img.grouponcdn.com/metro_draft_service/3s7YuwCGRTm6zKEA7sAf2deMVCXQ/3s-1382x922/v1/t600x362.webp",
+    "https://img.grouponcdn.com/deal/AQ63uHb4xTa6cJ3Y8y9Y25/3o-1000x932/v1/t600x362.webp",
+    "https://img.grouponcdn.com/metro_draft_service/TiFYCBWZvpUbDMZhdE1Mzkjgbwh/Ti-1382x922/v1/t600x362.webp",
+    "https://img.grouponcdn.com/metro_draft_service/2uYGJ8GtcVLYvNzw5yYXvABvKtKo/2u-3000x1800/v1/t600x362.webp",
+    "https://img.grouponcdn.com/deal/5tBmizbr1f8yzf2fE7JG5u/gX-1000x750/v1/t600x362.webp"
+  ],
+  "has_videos": true,
+  "seo": {
+    "meta_title": "The SPA Club - New York, NY - From $56.70 - New York | Groupon",
+    "meta_description": "General Admission for Full-Day Korean-Style Jjimjilbang Spa w/ Complimentary Amenities - Up to 41% Off",
+    "h1": "General Admission for Full-Day Korean-Style Jjimjilbang Spa w/ Complimentary Amenities - Up to 41% Off",
+    "h2s": [
+      "Amenities",
+      "Why You'll Love It",
+      "Plan Your Treatment",
+      "How It Works",
+      "About the Practitioner",
+      "Why You'll Love It",
+      "Plan Your Treatment",
+      "How It Works",
+      "About the Practitioner",
+      "Need To Know Info",
+      "Frequently Asked Questions",
+      "About The SPA Club - New York, NY"
+    ],
+    "schema_types": [
+      "WebSite",
+      "Organization",
+      "DaySpa",
+      "ProductGroup",
+      "BreadcrumbList",
+      "Review",
+      "FAQPage"
+    ],
+    "noindex": false,
+    "canonical_url": null
+  },
+  "script_count": 169,
+  "error": null
+}

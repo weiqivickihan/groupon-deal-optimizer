@@ -1,0 +1,227 @@
+{
+  "merchant_name": "DeSarge Danceworld",
+  "city": "Chicago",
+  "category": "activities",
+  "competitor_pricing": {
+    "low": 20.0,
+    "high": 125.0,
+    "currency": "USD",
+    "notes": "Chicago-area ballroom/Latin private lesson studios charge $85\u2013$125/hr for private lessons (Duet Dance Studio: $105\u2013$125/hr; Ballroom Dance Chicago: up to $125/hr standard, $175\u2013$235 for master instructor). Group classes at Dance Academy of Salsa run $20/drop-in or $110 for a 4-week course. The market average for private adult dance lessons in Chicago is approximately $50\u2013$85/hr per lessons.com, with the DeSarge Groupon rate of $26.99\u2013$74.99 sitting well below direct competitor retail pricing.",
+    "competitors": [
+      {
+        "name": "Duet Dance Studio Chicago",
+        "price_range": "$95\u2013$125/hr",
+        "source": "https://duetdancestudio.com/private-dance-lessons",
+        "notes": "Award-winning ballroom/Latin/wedding studio. Private lessons for 1 or 2 people: $105\u2013$125/hr depending on package size. Intro lesson: $95."
+      },
+      {
+        "name": "Ballroom Dance Chicago",
+        "price_range": "$105\u2013$235/hr",
+        "source": "https://www.ballroomdancechicago.com/dance-lesson-chicago-faq",
+        "notes": "Private lessons $105\u2013$125/hr standard; competition/master instructor $175\u2013$235/hr. Group private classes $25\u2013$50/person. Located in Lakeview and West Loop."
+      },
+      {
+        "name": "Dance Academy of Salsa (Chicago)",
+        "price_range": "$20\u2013$110",
+        "source": "https://www.danceacademyofsalsa.com/",
+        "notes": "Drop-in group classes: $20/class or 6 for $100. 4-week structured courses: $110/person. Latin dance specialist (salsa, bachata, cha cha). 25 years in business."
+      },
+      {
+        "name": "Chicago Dance Factory (Dance Mystic)",
+        "price_range": "$24.75\u2013$99",
+        "source": "https://www.groupon.com/deals/chicago-dance-factory-1",
+        "notes": "Groupon-listed competitor: 4 private lessons for couple at $99 (claimed $396 value). West Coast swing, ballroom, Latin styles. Based in Chicagoland."
+      },
+      {
+        "name": "Chicago Dance (Downtown)",
+        "price_range": "Not publicly listed",
+        "source": "https://www.chicagodance.com/lessons",
+        "notes": "Downtown Chicago studio offering private lesson packages of 5, 8, and 10 lessons. Pricing not publicly listed online but offers group classes, wedding lessons, and drop-ins."
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": 22,
+    "google_rating": null,
+    "google_review_count": null,
+    "positive_themes": [
+      "Exceptional instructors (Sarge, Carole, Katie): Reviewers across Google, Groupon, Yelp, The Knot, and Facebook consistently praise named instructors for patience, expertise, and ability to make beginners comfortable. Katie specifically called out in multiple Groupon reviews.",
+      "Wedding dance success: Overwhelmingly positive outcomes for couples learning first dances. Multiple reviewers on The Knot and the studio's own site describe successful, memorable wedding routines achieved in just 3\u20135 lessons.",
+      "Beginner-friendly atmosphere: Customers with zero dance experience report feeling at ease immediately and making rapid progress, with instructors adapting to individual learning speeds.",
+      "Strong sense of community: Long-term students and Wheree/Facebook reviews note a welcoming studio culture with open dance sessions and social events that build ongoing engagement.",
+      "Value perception: At least one reviewer (YellowBot/Facebook, 2015) explicitly called DeSarge 'the best value in Chicagoland.'"
+    ],
+    "negative_themes": [
+      "Isolated creative/style complaints: One review on The Knot noted the choreography provided 'was very cheesy,' suggesting a small minority of customers felt the routines were not sophisticated enough for their taste.",
+      "Limited Yelp review volume: Only 22 Yelp reviews for a studio in business since 2007\u20132008, suggesting low Yelp engagement or customers being redirected to Google/Groupon. No Yelp star rating was surfaced in search results.",
+      "Geographic ambiguity: Studio is physically located in Naperville (not Chicago proper), which may cause confusion for Groupon buyers who filter or search by 'Chicago.' No Groupon deal page disclaimer about the Naperville location was visible."
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "Carole is very patient and great for beginners up to seasoned dancers.",
+        "source": "google"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "After just three lessons, it turned out to be way more fun and exciting than we ever expected.",
+        "source": "google"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "Katie was so patient with us and really took the time to learn how we worked.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "We had fun, but the dance that she provided us was very cheesy.",
+        "source": "the_knot"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 26.99,
+    "direct_booking_price": 85.0,
+    "competitor_avg_price": 107.5,
+    "is_good_deal": true,
+    "discount_vs_direct": 68.2,
+    "discount_vs_competitors": 74.9,
+    "original_price_credibility": "credible",
+    "assessment": "The Groupon 'original price' of $85 for a single 50-minute private lesson is credible and well within the Chicago-area market range of $85\u2013$125/hr at comparable ballroom studios. DeSarge's own Nextdoor introductory offer ($99 for 2 privates + 1 group + 1 open dance) and Yelp deal ($110 for 3 privates) both validate that $85/lesson is a real rack rate. At $26.99 for a private lesson + open dance, the Groupon price represents ~69% off direct booking and ~75% off comparable Chicago competitors like Duet Dance Studio or Ballroom Dance Chicago, making it a genuinely strong value \u2014 not an artificially inflated discount. The five-group-class option at $30.99/individual is also well below the $20/single drop-in rate at Dance Academy of Salsa, though that is a different format."
+  },
+  "content_gaps": [
+    {
+      "gap": "Physical location and distance from Chicago proper not disclosed on deal page",
+      "why_it_matters": "The studio is in Naperville (632 Amersale Dr, Suite 104), approximately 30 miles from downtown Chicago. Customers browsing Groupon under 'Chicago' may purchase without realizing the drive, leading to dissatisfaction, refund requests, and negative reviews. One reviewer drove over an hour from Mundelein.",
+      "priority": "high"
+    },
+    {
+      "gap": "Instructor credentials and bios not mentioned",
+      "why_it_matters": "Sarge (Edward Sargent) has 40+ years of experience and international credentials; Carole is a key instructor. The Groupon page description references 'a three-decade veteran' but doesn't name or highlight the instructors' backgrounds, certifications, or international competition history. Credentials are a key purchase driver for this category.",
+      "priority": "high"
+    },
+    {
+      "gap": "No cancellation or rescheduling policy disclosed",
+      "why_it_matters": "Competitors like Ballroom Dance Chicago and Dance Academy of Salsa clearly state 24-hour cancellation policies. Absence of this information on the Groupon page creates post-purchase anxiety and potential disputes, especially for first-time Groupon dance lesson buyers.",
+      "priority": "high"
+    },
+    {
+      "gap": "Scheduling process and availability windows not described",
+      "why_it_matters": "Buyers don't know how far in advance they need to book, how quickly lessons expire after purchase, or what times/days are available. The Groupon fine print only says 'Limit 1 per person' and 'valid only for option purchased' \u2014 no expiration window or booking lead time is mentioned.",
+      "priority": "high"
+    },
+    {
+      "gap": "Dance styles taught are not listed on the deal page",
+      "why_it_matters": "DeSarge teaches ballroom, Latin (salsa, cha cha, samba, etc.), social, and competitive dance. Buyers \u2014 especially those with a specific style in mind (e.g., salsa for a wedding) \u2014 cannot confirm the studio teaches their preferred style before purchasing.",
+      "priority": "medium"
+    },
+    {
+      "gap": "What to wear / what to bring is absent",
+      "why_it_matters": "First-time dance students commonly ask about appropriate footwear and attire. Without guidance, customers may show up in flip-flops or restrictive clothing, negatively affecting their first experience. Competitors like Ballroom Dance Chicago explicitly advise bringing shoes similar to those worn at the event being prepared for.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Group class size and format not specified",
+      "why_it_matters": "The 'five group dance classes' option does not clarify how many students are in a group class, whether partners are required, or what style(s) are taught. This uncertainty may suppress conversion, especially for solo buyers considering the couple's group class option.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Open dance session details (day, time, format) not disclosed",
+      "why_it_matters": "Several Groupon options bundle a private lesson with 'one open dance session,' but there is no description of what the open dance entails, when it occurs, or whether it requires an RSVP. Facebook posts show these sessions are recurring weekly events at $15/person normally, adding perceived deal value if explained.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Before/after photos or video of student results not present",
+      "why_it_matters": "The studio has YouTube content and social media video, but the Groupon page lacks any visual proof of student transformation. For a performance-based service like dance lessons, short video clips of students in action would significantly increase conversion \u2014 especially for wedding choreography buyers.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Parking and accessibility information absent",
+      "why_it_matters": "The studio is in a suburban strip-mall complex (Corner of Rt. 59 and North Aurora Rd., Naperville). Customers unfamiliar with the area benefit from knowing that free parking is available, reducing friction especially for evening/weekend visits.",
+      "priority": "low"
+    },
+    {
+      "gap": "Groupon coupon redemption / first-visit process not explained",
+      "why_it_matters": "No instruction is given on how to redeem the voucher \u2014 whether to call ahead, show mobile voucher, or present printed copy. First-time Groupon users in this category sometimes arrive unprepared, creating awkward first impressions at the studio.",
+      "priority": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "DeSarge Danceworld Official Website",
+      "url": "https://www.desargedanceworld.com/",
+      "accessed_for": "reputation, pricing"
+    },
+    {
+      "title": "DeSarge Danceworld \u2013 About Us",
+      "url": "https://www.desargedanceworld.com/about-us/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "DeSarge Danceworld \u2013 Yelp Listing",
+      "url": "https://www.yelp.com/biz/desarge-danceworld-naperville",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "DeSarge Danceworld \u2013 Groupon Page",
+      "url": "https://www.groupon.com/biz/naperville/desarge-danceworld",
+      "accessed_for": "reputation, pricing"
+    },
+    {
+      "title": "DeSarge Danceworld \u2013 The Knot",
+      "url": "https://www.theknot.com/marketplace/desarge-danceworld-naperville-il-528963",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "DeSarge Danceworld \u2013 Facebook",
+      "url": "https://www.facebook.com/DeSargeDanceworld/",
+      "accessed_for": "reputation, pricing"
+    },
+    {
+      "title": "DeSarge Danceworld \u2013 Nextdoor",
+      "url": "https://nextdoor.com/pages/desarge-danceworld-naperville-il/",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "DeSarge Danceworld \u2013 Wheree.com (Feb 2026)",
+      "url": "https://desarge-danceworld.wheree.com/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "DeSarge Danceworld \u2013 YellowBot",
+      "url": "https://www.yellowbot.com/desarge-dance-world-naperville-il.html",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Duet Dance Studio Chicago \u2013 Private Lessons Pricing",
+      "url": "https://duetdancestudio.com/private-dance-lessons",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Ballroom Dance Chicago \u2013 Private Lessons FAQ & Pricing",
+      "url": "https://www.ballroomdancechicago.com/dance-lesson-chicago-faq",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Dance Academy of Salsa Chicago \u2013 Class Pricing",
+      "url": "https://www.danceacademyofsalsa.com/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Chicago Dance Factory Groupon Deal",
+      "url": "https://www.groupon.com/deals/chicago-dance-factory-1",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Chicago Dance \u2013 Private Lessons",
+      "url": "https://www.chicagodance.com/lessons",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Lessons.com \u2013 Best Dance Classes in Chicago / Pricing Guide",
+      "url": "https://lessons.com/il/chicago/dance-classes/",
+      "accessed_for": "competitor, pricing"
+    }
+  ]
+}

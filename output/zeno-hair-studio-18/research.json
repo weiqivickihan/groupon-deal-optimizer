@@ -1,0 +1,226 @@
+{
+  "merchant_name": "Zeno Hair Studio",
+  "city": "New York City",
+  "category": "health & beauty",
+  "competitor_pricing": {
+    "low": 90.0,
+    "high": 400.0,
+    "currency": "USD",
+    "notes": "NYC mid-tier salons (e.g., Dramatics NYC, Green Room NYC) charge $90\u2013$300 for highlights; upscale salons like One Salon NYC charge $165\u2013$400. Budget-friendly NYC salons start women's haircuts at $55. Zeno's Groupon prices fall well below the mid-market range for combined cut + highlight packages.",
+    "competitors": [
+      {
+        "name": "Dramatics NYC",
+        "price_range": "$90\u2013$300",
+        "source": "https://dramaticsnyc.com/services/hair-coloring-service-prices/partial-highlights/ and /full-highlights/",
+        "notes": "Partial highlights $90\u2013$150; full highlights $150\u2013$300; haircut not included in those prices. Multi-location NYC chain open 7 days."
+      },
+      {
+        "name": "One Salon NYC (Upper East Side)",
+        "price_range": "$165\u2013$400",
+        "source": "https://onesalonnyc.com/",
+        "notes": "Partial/hairline highlights $165\u2013$180; half head balayage/highlights $265\u2013$290; full head highlights $365\u2013$400. Haircut sold separately."
+      },
+      {
+        "name": "Green Room NYC Hair Studio (LES \u2014 103 Allen St)",
+        "price_range": "$55\u2013$85+",
+        "source": "https://www.hairdressr.com/explore/salons/united-states/new-york/nyc",
+        "notes": "Women's haircut from $55; color pricing not publicly listed. Nearby Lower East Side competitor."
+      },
+      {
+        "name": "Roger Markel Salon",
+        "price_range": "$40\u2013$60+ (haircut only)",
+        "source": "https://www.hairdressr.com/explore/salons/united-states/new-york/nyc",
+        "notes": "Women's haircut from $60; highlights pricing not separately listed. Represents affordable end of the market."
+      },
+      {
+        "name": "Love, Dunette (Lower East Side)",
+        "price_range": "$115\u2013$250",
+        "source": "https://www.timeout.com/newyork/health-beauty/the-best-hair-salons-in-nyc",
+        "notes": "Services including balayage, highlights, and haircuts range from ~$115 to $250. Located on the Lower East Side, same neighborhood as Zeno."
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": 4.0,
+    "yelp_review_count": 170,
+    "google_rating": 3.9,
+    "google_review_count": 71,
+    "positive_themes": [
+      "Skilled specific stylists (Gilbert, Kevin, Gary) frequently praised by name \u2014 customers report results exceeding expectations, especially on highlights and haircuts",
+      "Affordable pricing relative to NYC market \u2014 multiple reviewers call it great value for the city",
+      "Keratin treatments are a standout service \u2014 long-term repeat customers specifically return for keratin, with mentions of complimentary head/neck massages during service",
+      "Easy online appointment booking and friendly overall atmosphere noted by multiple reviewers",
+      "High-end European product use and combination of Eastern/Western styling techniques highlighted as a differentiator"
+    ],
+    "negative_themes": [
+      "Color outcomes inconsistent \u2014 some customers report highlights coming out the wrong color (e.g., honey blonde turned platinum without consent), and aggregate feedback on Atly notes 'my highlights didn't come out the color I wanted'",
+      "Unexpected upsell fees \u2014 reviewers flag charges for hair length, toner, and Groupon-specific add-ons (e.g., $50 extra for formaldehyde-free keratin, $30 for long hair) not clearly disclosed upfront",
+      "Front-desk/customer service issues \u2014 at least one reviewer reported a rude interaction with staff (named Gary) specifically around Groupon redemption procedures",
+      "Appointment availability can be difficult \u2014 one reviewer noted it can be 'a little tough' to get an appointment",
+      "Occasional precision issues with cuts \u2014 one reviewer reported bangs cut far shorter than requested"
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "\"OMG!!!! Gilbert is a freaking genius!!!!! IM OBSESSED with my new hair!\"",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "\"I am SO grateful I found this hair salon! They fixed my color and gave me a haircut that was EXACTLY what I wanted.\"",
+        "source": "yelp (via pulsd.com)"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "\"I have been coming here for 8 years since they opened. They do the BEST keratin treatment for my VERY curly curly hair.\"",
+        "source": "google (via Apple Maps)"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "\"Prices are excellent given current going rates in NYC.\"",
+        "source": "google (via birdeye.com)"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "\"i cried about how my hair looked after telling them it was my birthday and they turned my honey blonde hair platinum, never again!\"",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "\"AVOID THIS PLACE!!! Worst hair cut I've had. I asked to cut my bangs below my eye brows, but they came out VERY VERY SHORT above my eye brows.\"",
+        "source": "yelp (via yahoo local)"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "\"Initially quite rude about my Groupon and... once he had marked the Groupon used and I sat down he said that the business would not cut my hair first.\"",
+        "source": "google (via birdeye.com)"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 35.0,
+    "direct_booking_price": null,
+    "competitor_avg_price": 187.5,
+    "is_good_deal": true,
+    "discount_vs_direct": null,
+    "discount_vs_competitors": 81.3,
+    "original_price_credibility": "credible",
+    "assessment": "The Groupon prices appear credible and competitive: $114 for haircut + partial highlights and $156 for haircut + full highlights are substantially below market rates \u2014 Dramatics NYC alone charges $90\u2013$150 for partial highlights alone (without haircut), and One Salon NYC charges $165\u2013$400 for highlights only. The listed 'original' prices of $220 and $320 for those combined packages are broadly consistent with or even conservative relative to mid-to-upscale NYC salon rates. The main caveat is that multiple reviewers report additional fees for hair length and toner that are NOT included in the Groupon price, meaning the true out-of-pocket cost can be higher than advertised \u2014 buyers with long or thick hair should budget for surcharges."
+  },
+  "content_gaps": [
+    {
+      "gap": "No disclosure of hair length/density surcharges on the deal page",
+      "why_it_matters": "Multiple verified reviewers report extra fees of $30\u2013$50+ for longer hair, toner, or formaldehyde-free keratin upgrades \u2014 this is a top complaint and a trust-breaker if not disclosed upfront",
+      "priority": "high"
+    },
+    {
+      "gap": "No stylist profiles, credentials, or 'request a stylist' option mentioned",
+      "why_it_matters": "Reviewers are strongly split by stylist (Gilbert and Kevin praised, others criticized) \u2014 customers want to know who will handle their hair, especially for color work",
+      "priority": "high"
+    },
+    {
+      "gap": "No before/after photo gallery or color portfolio",
+      "why_it_matters": "Color outcome inconsistency is a leading negative theme; photos would build trust and set realistic expectations for highlight results",
+      "priority": "high"
+    },
+    {
+      "gap": "Exact address and neighborhood context missing from deal highlights",
+      "why_it_matters": "Salon is on the Lower East Side (131 Eldridge St) \u2014 some customers may not realize this is the LES, not Midtown; street parking is available but not mentioned, and subway access info is absent",
+      "priority": "medium"
+    },
+    {
+      "gap": "No clarification on what 'partial' vs 'full' highlights includes (foil count, placement zones, toner included or not)",
+      "why_it_matters": "Customers frequently purchase highlights-based deals without knowing the scope \u2014 'partial' in particular varies widely by salon; toner exclusion has caused negative reviews",
+      "priority": "high"
+    },
+    {
+      "gap": "No mention of service duration / time to set aside for appointment",
+      "why_it_matters": "Full highlights + haircut can take 2.5\u20134 hours; customers need to plan accordingly and failing to set expectations leads to rushed appointments or no-shows",
+      "priority": "medium"
+    },
+    {
+      "gap": "Cancellation policy not fully spelled out (24-hour notice requirement absent from current fine print)",
+      "why_it_matters": "The older Groupon deal listing includes '24-hour cancellation notice required' but the current fine print omits this \u2014 customers could be charged for late cancellations unexpectedly",
+      "priority": "medium"
+    },
+    {
+      "gap": "No mention of product lines used (European brand referenced on Yelp/website but not on deal page)",
+      "why_it_matters": "Savvy beauty customers research products for chemical sensitivity or hair health concerns \u2014 especially relevant for chemical treatments like highlights",
+      "priority": "low"
+    },
+    {
+      "gap": "No information on accessibility (ADA compliance, elevator/stairs, etc.)",
+      "why_it_matters": "LES walk-ups are common; customers with mobility concerns need to know if the salon is accessible",
+      "priority": "low"
+    },
+    {
+      "gap": "No mention of whether a consultation is included or required before color services",
+      "why_it_matters": "The salon's own website promotes free consultations, but this is not mentioned on the Groupon page \u2014 could reduce color surprises and negative reviews",
+      "priority": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ZENO HAIR STUDIO - Yelp (170 Reviews)",
+      "url": "https://www.yelp.com/biz/zeno-hair-studio-new-york",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Zeno Hair Studio - BirdEye (71 Reviews, Google aggregated)",
+      "url": "https://reviews.birdeye.com/zeno-hair-studio-170218290215554",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "ZENO HAIR STUDIO \u2014 Groupon Business Page",
+      "url": "https://www.groupon.com/biz/new-york-city/zeno-hair-studio-bowery",
+      "accessed_for": "reputation, pricing"
+    },
+    {
+      "title": "Zeno Hair Studio \u2014 Groupon Deal (Current: haircut/highlights)",
+      "url": "https://www.groupon.com/deals/zeno-hair-studio-18",
+      "accessed_for": "pricing, reputation"
+    },
+    {
+      "title": "Zeno Hair Studio \u2014 Atly Local Reviews",
+      "url": "https://www.atly.com/location/new-york/ZenoHairStudio",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Zeno Hair Studio \u2014 Pulsd NYC Deal Page",
+      "url": "https://pulsd.com/new-york/promotions/zeno-hair-studio-nyc--2",
+      "accessed_for": "reputation, pricing"
+    },
+    {
+      "title": "Zeno Hair Studio \u2014 Yahoo Local / Apple Maps",
+      "url": "https://local.yahoo.com/info-202563291-zeno-hair-studio-new-york/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Dramatics NYC \u2014 Partial Highlights Pricing",
+      "url": "https://dramaticsnyc.com/services/hair-coloring-service-prices/partial-highlights/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Dramatics NYC \u2014 Full Highlights Pricing",
+      "url": "https://dramaticsnyc.com/services/hair-coloring-service-prices/full-highlights/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "One Salon NYC \u2014 Service Price Menu",
+      "url": "https://onesalonnyc.com/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Hairdressr \u2014 Top 31 Best Hair Salons in NYC (2025)",
+      "url": "https://www.hairdressr.com/explore/salons/united-states/new-york/nyc",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Time Out New York \u2014 Best Hair Salons NYC",
+      "url": "https://www.timeout.com/newyork/health-beauty/the-best-hair-salons-in-nyc",
+      "accessed_for": "competitor"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "Yelp rating retrieved as 4.0 stars / 170 reviews from Yelp page title and Yahoo Local aggregator (June 2026 update). Google rating of 3.9 / 71 reviews is sourced from BirdEye, which aggregates Google reviews \u2014 this may not reflect the full Google Maps count. Zeno's own website (zenohairstudio.com) returned no scrapable pricing data. Direct booking prices could not be confirmed from the merchant's own site. Competitor_avg_price ($187.50) is estimated as the midpoint of the Dramatics NYC and One Salon NYC highlight-only ranges (not including haircut), which provides a reasonable market anchor but is not a combined-service average. The 'discount_vs_direct' field is null because no confirmed direct-booking price for Zeno's own menu was retrievable. All review quotes are from verified Groupon redemption reviews or named third-party platforms (Yelp, Google via BirdEye)."
+}

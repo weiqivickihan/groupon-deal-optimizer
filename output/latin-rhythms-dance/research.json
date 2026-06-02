@@ -1,0 +1,203 @@
+{
+  "merchant_name": "Latin Rhythms Dance",
+  "city": "Chicago",
+  "category": "activities",
+  "competitor_pricing": {
+    "low": 20.0,
+    "high": 100.0,
+    "currency": "USD",
+    "notes": "Chicago Latin dance competitors range widely: Dance Academy of Salsa charges $20/class or 6 for $100 (i.e., ~$67 for 4 classes), Dance Center Chicago charges $25/week (~$100/month for 4 classes), and Latin Street Music & Dancing offers structured 4-class and unlimited monthly packages. The Groupon price of $42 for 4 classes is competitive at the low end of the market.",
+    "competitors": [
+      {
+        "name": "Dance Academy of Salsa",
+        "price_range": "$20/class or 6 for $100 (~$67 for 4 classes)",
+        "source": "https://www.danceacademyofsalsa.com/",
+        "notes": "Salsa, Mambo, Bachata, Cha Cha Cha group classes; 25 years in business; available 7 days/week"
+      },
+      {
+        "name": "Dance Center Chicago",
+        "price_range": "$100/month (4 Wednesdays at $25/week)",
+        "source": "https://www.dancecenterchicago.com/performance-class",
+        "notes": "Salsa and Bachata performance team classes; $25/week for months with 4 classes; intermediate/advanced level"
+      },
+      {
+        "name": "Latin Street Music & Dancing",
+        "price_range": "Multiple tiers; 4-class packages and unlimited monthly passes available",
+        "source": "https://www.latinstreetdancing.com/currentclasses/pricing/",
+        "notes": "50+ weekly group classes in Salsa, Bachata, Cumbia and more; structured 4-class and unlimited monthly packages; free parking lot; South Loop location"
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": 68,
+    "google_rating": null,
+    "google_review_count": null,
+    "positive_themes": [
+      "Instructor quality and expertise: Reviewers specifically highlight instructors like Rafael for technical skill and ability to make lessons fun and educational",
+      "Welcoming community atmosphere: Multiple reviews praise the sense of community, with students forming friendships during classes and bimonthly socials",
+      "All-levels accessibility: The structured curriculum caters to everyone from absolute beginners to seasoned pros",
+      "Facility quality: 4,500 sq ft exposed brick studio in Chicago's West Loop praised for its appealing environment",
+      "Long-standing reputation: Studio founded in 2000 with 25+ years in operation, featured on WGN-TV"
+    ],
+    "negative_themes": [
+      "Staff communication issues: Some reviews describe staff responses as unhelpful or dismissive at times",
+      "Enrollment/class placement problems: A few customers mention inconsistent class placement due to enrollment errors",
+      "Beginner class availability: Groupon page notes that 'classes for beginners fill up fast,' which can frustrate new purchasers",
+      "Complicated onboarding: Described on the Groupon page itself as having 'a bit of a complicated starting process'"
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "Instructors at Latin Rhythms are not only passionate about dance; they are also skilled educators.",
+        "source": "wheree.com (aggregated reviews)"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "Several customers appreciate the community aspect, mentioning friendships formed during classes and socials.",
+        "source": "wheree.com (aggregated reviews)"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "There's a bit of a complicated starting process and classes for beginners classes full up fast.",
+        "source": "groupon.com (Groupon buyer review)"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Some reviews note issues with communication from staff, describing responses as unhelpful or dismissive at times.",
+        "source": "wheree.com (aggregated reviews)"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 42.0,
+    "direct_booking_price": null,
+    "competitor_avg_price": 83.5,
+    "is_good_deal": true,
+    "discount_vs_direct": null,
+    "discount_vs_competitors": 49.7,
+    "original_price_credibility": "unknown",
+    "assessment": "At $42 for 4 classes (~$10.50/class), the Groupon price is meaningfully below the Chicago market average of ~$17\u201325/class at comparable Latin dance studios. Direct booking prices at Latin Rhythms are not transparently listed on their website \u2014 the pricing page only describes membership structures without publishing per-class rates, which makes it impossible to verify whether the stated $90 'original price' is a real rack rate or an inflated anchor. The original price of $90 for 4 classes ($22.50/class) is plausible given competitor benchmarks, but cannot be confirmed as the actual walk-in price."
+  },
+  "content_gaps": [
+    {
+      "gap": "Exact class schedule and available time slots",
+      "why_it_matters": "Customers need to know if classes are available when they can attend before purchasing. The studio operates Mon\u2013Thu 5\u201310pm and Sat 10am\u20133pm, which is narrow and not surfaced on the deal page.",
+      "priority": "high"
+    },
+    {
+      "gap": "Direct booking / rack rate price not publicly listed",
+      "why_it_matters": "Without a transparent direct price, buyers cannot verify the 58% discount is real. The merchant's pricing page only discusses membership structures, not per-class rates.",
+      "priority": "high"
+    },
+    {
+      "gap": "Beginner class availability and waitlist warning",
+      "why_it_matters": "A Groupon review explicitly warns that beginner classes fill up fast. Customers who purchase may be unable to redeem promptly. This should be prominently disclosed.",
+      "priority": "high"
+    },
+    {
+      "gap": "Redemption process clarity",
+      "why_it_matters": "The Groupon page itself flags 'a complicated starting process' and requires customers to visit the merchant website post-purchase. Step-by-step instructions would reduce friction and negative reviews.",
+      "priority": "high"
+    },
+    {
+      "gap": "What to wear / footwear requirements",
+      "why_it_matters": "Competitor Latin Street explicitly states that street shoes, rubber soles, and strapless sandals are not allowed and recommends suede/leather studio shoes. Latin Rhythms' deal page mentions nothing about footwear, which could surprise first-timers.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Parking and transit information",
+      "why_it_matters": "The studio is located at 210 N Racine Ave in the West Loop. No parking guidance is given. Customers in Chicago need to know about street parking, nearby lots, or CTA access before committing.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Instructor credentials and bios",
+      "why_it_matters": "Artistic Director Maricza Valent\u00edn has been teaching since 1988 and holds a degree from Columbia College Chicago in dance performance, teaching, and choreography \u2014 a major credibility asset that is buried on the Groupon page and not highlighted visually.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Whether a dance partner is required",
+      "why_it_matters": "Solo buyers need explicit reassurance. The Groupon page does note 'no dance partner required' in fine print, but it is not a visible headline callout. This is a common hesitation point for first-time buyers.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Class size / student-to-instructor ratio",
+      "why_it_matters": "Buyers want to know if they'll get individual attention or be lost in a crowd. No class size data is mentioned on the deal page.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Before/after student progress photos or video",
+      "why_it_matters": "Social proof of student transformation is a strong conversion driver for fitness and dance deals. The deal page relies on text only.",
+      "priority": "low"
+    },
+    {
+      "gap": "Promotional value expiration (90 days)",
+      "why_it_matters": "The promotional value expires 90 days after purchase (per Groupon fine print), but this is not surfaced prominently on the deal page. Combined with classes filling fast, buyers may lose value if not clearly warned.",
+      "priority": "medium"
+    },
+    {
+      "gap": "New customers only restriction",
+      "why_it_matters": "The Groupon listing (via the deal page source) indicates this is 'not valid for clients active within the past 12 months,' but the deal page highlights do not call this out clearly. Existing students may purchase and be denied redemption.",
+      "priority": "high"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Latin Rhythms Dance Studio \u2013 Yelp",
+      "url": "https://www.yelp.com/biz/latin-rhythms-dance-studio-chicago",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Latin Rhythms Academy of Dance & Performance \u2013 Wheree",
+      "url": "https://latin-rhythms-academy-of-dance-performance.wheree.com/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Latin Rhythms Academy \u2013 Official Website",
+      "url": "https://www.latinrhythms.com/",
+      "accessed_for": "pricing, reputation"
+    },
+    {
+      "title": "Latin Rhythms Memberships/Pricing Page",
+      "url": "https://www.latinrhythms.com/pricing/",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Latin Rhythms on Groupon",
+      "url": "https://www.groupon.com/deals/latin-rhythms-dance",
+      "accessed_for": "pricing, reputation"
+    },
+    {
+      "title": "Dance Academy of Salsa \u2013 Official Website",
+      "url": "https://www.danceacademyofsalsa.com/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Dance Center Chicago \u2013 Performance Class Pricing",
+      "url": "https://www.dancecenterchicago.com/performance-class",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Latin Street Music & Dancing \u2013 Pricing",
+      "url": "https://www.latinstreetdancing.com/currentclasses/pricing/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Latin Street Music & Dancing \u2013 Adult Classes",
+      "url": "https://www.latinstreetdancing.com/about-adultclass/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Latin Rhythms: 25 Years of Dance Education \u2013 WGN-TV",
+      "url": "https://wgntv.com/daytime-chicago/latin-rhythms-25-years-of-dance-education-performance-and-community-building/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Latin Rhythms Academy \u2013 Better Business Bureau",
+      "url": "https://www.bbb.org/us/il/chicago/profile/dance-instruction/latin-rhythms-academy-of-dance-performance-0654-90029410",
+      "accessed_for": "reputation"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "Google rating and review count could not be confirmed via search results \u2014 no Google Business Profile data surfaced directly. Yelp shows 68 reviews but the star rating was not returned in snippets. Latin Rhythms' own pricing page does not publish per-class or per-month retail rates, only membership structures, making it impossible to confirm whether the $90 original price is a true rack rate. Competitor pricing benchmarks are based on Dance Academy of Salsa (confirmed $20/class or 6 for $100) and Dance Center Chicago ($25/week for performance team classes); Latin Street pricing tiers were referenced but exact per-package dollar amounts were not fully returned in search snippets. Competitor average of ~$83.50 for a comparable 4-class equivalent is an estimate. The 'new customers only' restriction found in the Groupon fine print is a significant deal limitation not reflected in the provided deal highlights."
+}

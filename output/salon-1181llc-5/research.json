@@ -1,0 +1,232 @@
+{
+  "merchant_name": "Salon 1181llc",
+  "city": "Chicago",
+  "category": "health & beauty",
+  "competitor_pricing": {
+    "low": 70.0,
+    "high": 150.0,
+    "currency": "USD",
+    "notes": "Downtown/Near North Side Chicago upscale salons comparable to Salon 1181's Michigan Avenue positioning charge $70\u2013$150 for women's haircuts with styling. The Groupon price of $75 sits at the very low end of this range, and the listed 'original' price of $150 is within \u2014 but at the absolute ceiling of \u2014 market rate for top-tier downtown Chicago stylists.",
+    "competitors": [
+      {
+        "name": "Art + Science Salon (West Loop / Evanston)",
+        "price_range": "$78\u2013$120+",
+        "source": "https://www.timeout.com/chicago/shopping/best-chicago-hair-salons",
+        "notes": "Stylist sessions start at $78; blowdry add-on from $55. Cut + blowdry bundle would be ~$100\u2013$140."
+      },
+      {
+        "name": "Nomobo Salon (Lincoln Park)",
+        "price_range": "$85\u2013$110",
+        "source": "https://www.timeout.com/chicago/shopping/best-chicago-hair-salons",
+        "notes": "Standard women's haircut with wash and blowdry included starts at $85."
+      },
+      {
+        "name": "Solo Salon (West Loop)",
+        "price_range": "$86\u2013$120",
+        "source": "https://www.timeout.com/chicago/shopping/best-chicago-hair-salons",
+        "notes": "Full cut-and-style from $86; express style from $61. No explicit conditioning treatment mentioned."
+      },
+      {
+        "name": "Marin Hair Co. (Logan Square)",
+        "price_range": "$85\u2013$120",
+        "source": "https://www.timeout.com/chicago/shopping/best-chicago-hair-salons",
+        "notes": "Haircuts begin at $85 with custom nourishing treatments available as add-ons."
+      },
+      {
+        "name": "Touss Hair Salon / Downtown Comparable",
+        "price_range": "$85\u2013$140",
+        "source": "https://www.hairdressr.com/explore/salons/united-states/illinois/chicago/downtown",
+        "notes": "Downtown Chicago women's haircut from $85; higher-end downtown salons (e.g. Paul Chambers) reach $140+."
+      },
+      {
+        "name": "Salon 1181 (direct booking \u2014 own website)",
+        "price_range": "$90 (estimated)",
+        "source": "https://www.hairdressr.com/explore/salons/united-states/illinois/chicago/downtown",
+        "notes": "Hairdressr lists Salon 1181's own walk-in women's haircut price example at $90. Salon website states price varies by hair length and thickness with no hard published rate."
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": 14,
+    "google_rating": 4.9,
+    "google_review_count": 75,
+    "positive_themes": [
+      "Exceptional stylist skill & precision \u2014 Zoe (sole stylist) is consistently praised for her double-cut technique (wet + post-blowdry), attention to detail, and ability to replicate reference photos exactly.",
+      "Active listening & personalized consultation \u2014 Reviewers repeatedly highlight that Zoe listens carefully to what clients want and delivers tailored results, especially valued by clients with difficult or thick hair.",
+      "Warm, welcoming, private atmosphere \u2014 The boutique single-stylist salon environment on Michigan Avenue is described as clean, modern, and comfortable, standing apart from larger, crowded salons.",
+      "Flexible scheduling, including same-day appointments \u2014 Multiple reviews note the ability to book last-minute or on short notice.",
+      "Media & industry recognition \u2014 Expertise.com named Salon 1181 one of Chicago's 30 best salons; founder has been featured in RACKED magazine."
+    ],
+    "negative_themes": [
+      "Occasional dissatisfaction with haircut results \u2014 Some customers reported choppy or unexpected final appearances, and difficulty communicating desired styles effectively.",
+      "Incomplete service delivery under time pressure \u2014 At least one review noted that the blowdry was skipped or abbreviated when the stylist was running short on time, which is a significant concern for a deal explicitly including a blowdry."
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "\"Zoe is the best stylist I have been to in a very long time... far superior to the two stylists I had there.\"",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "\"Zoe does a double cut - one with wet hair, and another after your blow dry to help 'soften' the cut.\"",
+        "source": "yelp"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "\"Zoe was incredibly kind, professional, and is a talented stylist... took time to listen to my hair needs.\"",
+        "source": "yahoo_local"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "\"She was running short on time so she didn't fully do a blow dry for me.\"",
+        "source": "chamberofcommerce_google_review"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Some customers reported dissatisfaction with the final appearance of their haircuts, describing them as choppy or not as expected.",
+        "source": "wheree_ai_summary"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 75.0,
+    "direct_booking_price": 90.0,
+    "competitor_avg_price": 97.0,
+    "is_good_deal": true,
+    "discount_vs_direct": 16.7,
+    "discount_vs_competitors": 22.7,
+    "original_price_credibility": "credible",
+    "assessment": "The $150 original price is technically within market range for a premium Michigan Avenue boutique salon (top downtown salons like Paul Chambers charge $140+ for women's cuts), but it appears to represent the maximum-length/thick-hair tier rather than a typical visit price \u2014 Hairdressr's price example for Salon 1181 itself is $90. At $75, the Groupon price is a genuine bargain versus both the direct booking estimate (~$90) and the downtown Chicago competitor average (~$97 for cut + blowdry + treatment bundles), making it a solid deal. However, the '55% off' framing is somewhat overstated if the realistic direct price for most clients is closer to $90, which yields a true discount of ~17% off direct rather than 55%."
+  },
+  "content_gaps": [
+    {
+      "gap": "No hair length/thickness pricing tiers disclosed",
+      "why_it_matters": "The salon's own website and multiple review sources confirm that price 'varies depending on length and thickness of hair,' yet the deal page shows a flat $75 price. Customers with long or thick hair may face unexpected upcharges at the appointment.",
+      "priority": "high"
+    },
+    {
+      "gap": "No cancellation or rescheduling policy",
+      "why_it_matters": "The fine print is listed as 'none,' leaving customers unaware of what happens if they need to reschedule or cancel. This is a common friction point that increases post-purchase regret and negative reviews.",
+      "priority": "high"
+    },
+    {
+      "gap": "Stylist identity not disclosed (sole practitioner risk)",
+      "why_it_matters": "Virtually all reviews reference a single stylist, Zoe. If Zoe is unavailable or the salon assigns a different person, customers have no clarity. The deal page never mentions that the experience is built around one individual, creating expectation mismatches.",
+      "priority": "high"
+    },
+    {
+      "gap": "Suite/floor access instructions absent",
+      "why_it_matters": "The salon is on the 3rd floor of 520 N Michigan Ave, Suite 119, inside a mall-style building. First-time visitors \u2014 especially Groupon deal buyers \u2014 may struggle to find it. Wayfinding info would reduce no-shows and friction.",
+      "priority": "high"
+    },
+    {
+      "gap": "Parking information not included",
+      "why_it_matters": "Michigan Avenue parking is expensive and confusing. Comparable nearby salons (e.g., Tricoci, GC by George Charles) explicitly list parking options and validation. Absence of this info is a known conversion barrier for downtown Chicago deals.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No before/after photos or portfolio on the deal page",
+      "why_it_matters": "Hair services are highly visual purchases. The deal page only has Groupon review text. Adding style portfolio images (blowouts, cuts, layers) would significantly improve conversion, particularly since Salon 1181 has an active Instagram (@salon1181llc) with 186 posts.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Conditioning treatment product/brand not specified",
+      "why_it_matters": "The deal title includes 'Conditioning Treatment,' but there is no mention of which product is used (e.g., Olaplex, Keratin, deep mask). Customers interested in hair health need this to evaluate value and suitability for their hair type.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Approximate appointment duration not listed",
+      "why_it_matters": "The double-cut technique Zoe uses (wet + post-blowdry) likely takes longer than a standard salon visit. Customers need time estimates to plan their day, especially for a Michigan Avenue location where they may be combining with shopping.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No mention of consultation process or what to bring (inspiration photos, etc.)",
+      "why_it_matters": "Multiple positive reviews cite Zoe's responsiveness to reference photos as a key differentiator. Prompting customers to bring Pinterest boards or photos before their appointment would improve outcomes and satisfaction, reducing the risk of the 'choppy/unexpected' results noted in negative reviews.",
+      "priority": "low"
+    },
+    {
+      "gap": "Staff credentials and media recognition not highlighted on deal page",
+      "why_it_matters": "Salon 1181 is one of Expertise.com's 30 Best Salons in Chicago and has been featured in RACKED magazine \u2014 credibility signals that are entirely absent from the Groupon listing. Including these would increase trust and perceived value.",
+      "priority": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Salon 1181llc \u2014 Groupon Chicago listing",
+      "url": "https://www.groupon.com/biz/chicago/salon-1181llc",
+      "accessed_for": "pricing, reputation, deal details"
+    },
+    {
+      "title": "Salon 1181 Chicago \u2014 Wheree (AI review summary)",
+      "url": "https://salon-1181-chicago.wheree.com/",
+      "accessed_for": "reputation, positive and negative themes"
+    },
+    {
+      "title": "Salon 1181 \u2014 Yelp",
+      "url": "https://www.yelp.com/biz/salon-1181-chicago",
+      "accessed_for": "reputation, yelp review count"
+    },
+    {
+      "title": "Salon 1181 Chicago \u2014 Birdeye (Google reviews aggregate)",
+      "url": "https://reviews.birdeye.com/salon-1181-chicago-170186109791287",
+      "accessed_for": "google rating, google review count, reputation"
+    },
+    {
+      "title": "Salon 1181 Chicago \u2014 Chamber of Commerce / Google Reviews",
+      "url": "https://www.chamberofcommerce.com/business-directory/illinois/chicago/hair-salon/2023521251-salon-1181-chicago",
+      "accessed_for": "reputation, negative themes"
+    },
+    {
+      "title": "Salon 1181 \u2014 Official Website",
+      "url": "https://salon1181.com/",
+      "accessed_for": "pricing, credentials, direct booking reference"
+    },
+    {
+      "title": "Salon 1181 \u2014 Localstylist.com (59 reviews)",
+      "url": "https://localstylist.com/il/chicago/salon-1181-chicago-chicago-illinois",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Salon 1181 \u2014 Yahoo Local",
+      "url": "https://local.yahoo.com/info-226993485-salon-1181-chicago/",
+      "accessed_for": "reputation, review quotes"
+    },
+    {
+      "title": "Salon 1181 \u2014 NiceLocal (Google reviews)",
+      "url": "https://nicelocal.com/chicago/beauty/salon_1181_chicago/",
+      "accessed_for": "reputation, review quotes"
+    },
+    {
+      "title": "20 Best Hair Salons in Chicago \u2014 Time Out Chicago",
+      "url": "https://www.timeout.com/chicago/shopping/best-chicago-hair-salons",
+      "accessed_for": "competitor pricing"
+    },
+    {
+      "title": "10 Best Hair Salons Near Downtown Chicago \u2014 Hairdressr",
+      "url": "https://www.hairdressr.com/explore/salons/united-states/illinois/chicago/downtown",
+      "accessed_for": "competitor pricing, Salon 1181 direct price reference"
+    },
+    {
+      "title": "21 Best Hair Salons in Chicago \u2014 Hairdressr",
+      "url": "https://hairdressr.com/explore/salons/united-states/illinois/chicago",
+      "accessed_for": "competitor pricing"
+    },
+    {
+      "title": "How Much Do Haircuts Cost In 2025 In Chicago \u2014 HaircutNow",
+      "url": "https://haircutnow.com/how-much-do-haircuts-cost-in-2025-in-chicago/",
+      "accessed_for": "competitor pricing, market benchmarks"
+    },
+    {
+      "title": "Women's Haircuts Near Me in Chicago \u2014 Booksy",
+      "url": "https://booksy.com/en-us/s/female-haircut/18229_chicago",
+      "accessed_for": "competitor pricing, market benchmarks"
+    },
+    {
+      "title": "Salon 1181 Chicago \u2014 Salonsrating.com",
+      "url": "https://salonsrating.com/chicago/org-salon-1181-chicago",
+      "accessed_for": "reputation, ratings"
+    }
+  ]
+}

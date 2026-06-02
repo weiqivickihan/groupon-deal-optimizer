@@ -1,0 +1,210 @@
+{
+  "merchant_name": "Heavenly Massage",
+  "city": "Chicago",
+  "category": "spa/wellness",
+  "competitor_pricing": {
+    "low": 85.0,
+    "high": 185.0,
+    "currency": "USD",
+    "notes": "Chicago 60-min Swedish/deep-tissue massages range from ~$60\u2013$90 at budget independents to $130\u2013$185 at premium day spas. Heavenly Massage's Groupon price of $99.99 for 60 min sits above the Booksy market average of $60\u2013$90 but is below or at par with mid-to-premium Chicago day spas ($130\u2013$185) \u2014 and includes aromatherapy and steam shower enhancements that most bare-bones competitors do not bundle.",
+    "competitors": [
+      {
+        "name": "Lang Ocean Spa Thai Bodywork (River North)",
+        "price_range": "$85\u2013$160",
+        "source": "https://www.timeout.com/chicago/health-and-beauty/spas-in-chicago",
+        "notes": "60-min massage sessions $85; 90-min $125; 120-min $160. Includes free hot stone treatment at 90 and 120 min."
+      },
+      {
+        "name": "SpaSpace Chicago (West Loop)",
+        "price_range": "$125\u2013$185",
+        "source": "https://threebestrated.com/spas-in-chicago-il",
+        "notes": "60-min massage $125 (midweek package promo) to $130 regular; 90-min $185 regular. Couples retreat packages from $599 for two. Amenity-rich boutique spa."
+      },
+      {
+        "name": "Pure Serenity Spa (Lincoln Park) \u2014 Groupon competitor",
+        "price_range": "$89\u2013$120 (Groupon deal)",
+        "source": "https://www.groupon.com/deals/pure-serenity-spa-1",
+        "notes": "Groupon-discounted 60-min Swedish or deep-tissue massage from $89, includes free hot stones and pure massage oil. Direct comparison deal on same platform."
+      },
+      {
+        "name": "Booksy Chicago market average",
+        "price_range": "$60\u2013$90",
+        "source": "https://booksy.com/en-us/s/swedish-massage/18229_chicago",
+        "notes": "Platform-wide average for 60-min Swedish massage in Chicago. Does not typically include spa enhancements like aromatherapy or steam rooms."
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": 298,
+    "google_rating": 4.2,
+    "google_review_count": null,
+    "positive_themes": [
+      "Friendly and welcoming staff \u2014 multiple sources describe staff as warm, knowledgeable, and attentive (TrustAnalytica, Yelp snippets, LivingSocial reviews)",
+      "High-quality massage technique \u2014 reviewers specifically praise deep tissue and Swedish massages; Yelp snippet: 'I've been to Heavenly Massage multiple times at this point and have always had a nice experience'",
+      "Cleanliness and atmosphere \u2014 consistently cited as clean, tidy, and relaxing; LivingSocial review notes 'Super clean location!'",
+      "Repeat-worthy experience \u2014 customers mention rebooking specific therapists by name (Emma, Evita, Flora cited by name across Yelp/LivingSocial)",
+      "Couples-friendly private steam room \u2014 explicitly marketed and confirmed in service menu across TripAdvisor and Yelp"
+    ],
+    "negative_themes": [
+      "Inconsistent therapist quality \u2014 TripAdvisor reviewer noted a dramatically worse outcome with a second therapist for injury treatment; therapist skill varies by location and individual",
+      "Tipping friction \u2014 card tips not accepted at front desk; one TripAdvisor reviewer had to leave the building to find an ATM to tip their therapist",
+      "Multi-location confusion \u2014 one reviewer wasted $20 on transportation after being booked at the wrong location",
+      "BBB rating B- \u2014 BBB notes a failure to respond to at least one filed complaint; business is not BBB accredited",
+      "Pricing perception \u2014 a small number of reviewers note the spa feels 'pricey'"
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "Very clean and comfortable looking spa, enjoyed the combo massage and it was priced just rite.",
+        "source": "yelp"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "I've been to Heavenly Massage multiple times at this point and have always had a nice experience.",
+        "source": "yelp"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "Staff are friendly, spa is clean and the massage was relaxing!",
+        "source": "tripadvisor"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "The receptionist... said we don't take cards. I didn't have cash, so I walked across the street to ATM.",
+        "source": "tripadvisor"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "The phone number listed is for a different location. I wasted $20 on UBER to get there only to find out my appointment was for another location.",
+        "source": "tripadvisor"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 99.99,
+    "direct_booking_price": 100.0,
+    "competitor_avg_price": 117.5,
+    "is_good_deal": false,
+    "discount_vs_direct": 0.01,
+    "discount_vs_competitors": 14.9,
+    "original_price_credibility": "inflated",
+    "assessment": "Heavenly Massage's own website lists a 60-min Swedish or deep tissue session at $100.00 \u2014 making the Groupon price of $99.99 effectively a zero-discount deal on the base service, with the 'original price' of $135 appearing significantly inflated (~35% above the website's real rack rate). The aromatherapy and steam shower add-ons bundled into the Groupon listing may account for some of the markup, but the gap between Groupon's stated original price and the actual direct-booking menu price is suspicious and a classic Groupon price inflation pattern. The deal offers modest value vs. mid-tier competitors ($117\u2013$130 range for comparable services), but customers can book direct at essentially the same price and potentially have more scheduling flexibility."
+  },
+  "content_gaps": [
+    {
+      "gap": "No explicit mention of which Chicago location the deal applies to",
+      "why_it_matters": "Heavenly Massage operates multiple Chicago-area locations (1163 N State St, 1221 N State Pkwy, Morton Grove, Mount Prospect, Schaumburg, Orland Park). At least one reviewer was sent to the wrong location. This is a critical trust and logistics issue for Groupon buyers.",
+      "priority": "high"
+    },
+    {
+      "gap": "No cancellation or rescheduling policy stated",
+      "why_it_matters": "Groupon buyers frequently cite frustration with booking flexibility. Without a stated cancellation window or policy, customers may not know what happens if they need to reschedule \u2014 a top source of negative reviews on deal platforms.",
+      "priority": "high"
+    },
+    {
+      "gap": "No clarification on what 'Steam Shower Aroma Enhancement' and 'Aromatherapy' actually include",
+      "why_it_matters": "These are key deal differentiators that justify the price premium over competitors. Customers need to know: Is the steam shower a private room? Is aromatherapy a scented oil choice or a diffuser? CBD oil is in the headline but not in any option description \u2014 what does CBD oil application mean in practice?",
+      "priority": "high"
+    },
+    {
+      "gap": "Actual hands-on service time not disclosed in deal copy",
+      "why_it_matters": "Heavenly Massage's own website discloses that a '60-minute session' includes only 50 minutes of hands-on service (10 minutes for consultation and dressing). This is material information many customers do not expect and could feel misled by.",
+      "priority": "high"
+    },
+    {
+      "gap": "Tipping policy and payment method for tips not disclosed",
+      "why_it_matters": "Multiple reviews flag that card tips are not accepted at the front desk. Customers who don't bring cash may be unable to tip therapists, damaging their experience and the therapist relationship. Proactively noting 'cash tip recommended' sets expectations.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No therapist credential or licensing information",
+      "why_it_matters": "With 19,000+ reviews and a high volume of deals sold, credibility signals like 'all therapists are licensed by the Illinois DFPR' would meaningfully boost conversion, especially for first-time buyers evaluating a Groupon deal.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No parking or transit information",
+      "why_it_matters": "The Gold Coast / Near North Side Chicago location is in a dense urban area. Customers need to know about nearby parking garages, street parking rules, or CTA access to plan their visit \u2014 especially relevant since multiple reviewers mentioned traveling to the location.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No before/after photos or interior spa photos on deal page",
+      "why_it_matters": "Deal pages with environment photos (treatment rooms, steam room, amenities) significantly increase purchase confidence. The Yelp listing shows 82 photos but none appear to be surfaced on the Groupon page.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No mention of couple's private room details (booking process, availability)",
+      "why_it_matters": "Two of the four deal options are for couples, but there is no information about whether the couple's room must be requested specifically, whether it's guaranteed, or how to request it \u2014 a frequent point of confusion in massage Groupon deals.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No expiration window or redemption restrictions in fine print",
+      "why_it_matters": "The deal page lists no fine print. Without knowing the promotional value expiration window, blackout dates, or new-customer restrictions, buyers cannot accurately assess the deal's usability \u2014 which increases chargebacks and negative reviews.",
+      "priority": "high"
+    }
+  ],
+  "sources": [
+    {
+      "title": "HEAVENLY MASSAGE - Yelp (Chicago, 1221 N State Pkwy)",
+      "url": "https://www.yelp.com/biz/heavenly-massage-chicago-2",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Heavenly Massage Day Spa - TripAdvisor Reviews",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g35805-d11609682-Reviews-Heavenly_Massage_Day_Spa-Chicago_Illinois.html",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "4.2 Star Heavenly Massage & Spa Reviews - TrustAnalytica",
+      "url": "https://trustanalytica.org/us/il/chicago/reviews/heavenly-massage-spa",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Heavenly Massage BBB Profile",
+      "url": "https://www.bbb.org/us/il/chicago/profile/spa/heavenly-massage-0654-33004442",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "LivingSocial - Heavenly Massage Chicago Customer Reviews",
+      "url": "https://www.livingsocial.com/biz/chicago/heavenly-massage",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Heavenly Massage Official Services & Pricing Page",
+      "url": "https://heavenlymassage.com/our-services/",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Booksy Chicago - How Much Does Swedish Massage Cost",
+      "url": "https://booksy.com/en-us/s/swedish-massage/18229_chicago",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Timeout Chicago - 23 Best Spas in Chicago (Lang Ocean Spa pricing)",
+      "url": "https://www.timeout.com/chicago/health-and-beauty/spas-in-chicago",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "ThreeBestRated - SpaSpace Chicago Pricing Details",
+      "url": "https://threebestrated.com/spas-in-chicago-il",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Groupon - Pure Serenity Spa Chicago (Competitor Deal)",
+      "url": "https://www.groupon.com/deals/pure-serenity-spa-1",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Groupon - Heavenly Massage Deal Page (Live)",
+      "url": "https://www.groupon.com/deals/heavenly-massage-12",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "TripAdvisor - Heavenly Massage Spa Gurnee (Multi-location reviews)",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g36087-d3539199-Reviews-Heavenly_Massage_Spa-Gurnee_Lake_County_Illinois.html",
+      "accessed_for": "reputation"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "Direct booking prices were confirmed via Heavenly Massage's official website (heavenlymassage.com/our-services), which lists 60-min Swedish and deep tissue at $100 \u2014 closely matching the Groupon price of $99.99 and flagging the stated 'original price' of $135 as likely inflated. The Groupon deal includes steam shower and aromatherapy enhancements not explicitly priced separately on the website, which may account for some of the markup, but the gap remains large. Yelp review count (298) was confirmed from the Chicago Gold Coast listing; however, a specific Yelp star rating for the Chicago location was not surfaced in search results (only a 4.2 star aggregate was found via TrustAnalytica, which aggregates Google reviews). The Groupon rating of 4.6 across 19,456 reviews is plausible given volume of deals sold (25,000+) but Groupon reviews skew positive due to post-redemption solicitation bias. Competitor pricing data is current as of mid-2025/early 2026 based on source dates. Note that Heavenly Massage has multiple Chicago-area locations; pricing may vary by location and the Groupon deal's specific location is unspecified."
+}

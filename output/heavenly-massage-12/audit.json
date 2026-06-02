@@ -1,0 +1,337 @@
+{
+  "url": "https://www.groupon.com/deals/heavenly-massage-12?redemptionLocationId=acf4af41-1b49-bed3-9b7d-016d16c1cabb",
+  "title": "Unwind with a Swedish or Deep-Tissue Massage, Enhanced by Aromatherapy & CBD Oil for Solo or Couples",
+  "subtitle": null,
+  "merchant_name": "Heavenly Massage",
+  "category_breadcrumbs": [
+    "local",
+    "beauty-and-spas",
+    "spa",
+    "bath-house"
+  ],
+  "pricing_options": [
+    {
+      "label": "60-Minute Swedish or Deep-Tissue Massage Session w/ Aromatherapy & Steam Shower Aroma Enhancements",
+      "original_price": 135.0,
+      "deal_price": 99.99,
+      "discount_pct": 33.0,
+      "limited_sale_price": 89.99,
+      "limited_sale_label": "Extra $10 off, today only",
+      "promo_price": 81.49,
+      "promo_code": "RELAX",
+      "sold_quantity": "25,000+",
+      "structured_fields": [
+        {
+          "label": "Duration",
+          "value": "60 minutes"
+        },
+        {
+          "label": "Number of People",
+          "value": "1 person"
+        },
+        {
+          "label": "Expires",
+          "value": "120 days after purchase"
+        },
+        {
+          "label": "WHAT'S INCLUDED",
+          "value": [
+            "Swedish massage",
+            "Deep-tissue massage",
+            "Aromatherapy enhancement",
+            "Steam shower aroma enhancements"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "90-Minute Swedish or Deep-Tissue Massage Session + Aromatherapy & Steam Shower Aroma Enhancements - For 1",
+      "original_price": 175.0,
+      "deal_price": 139.99,
+      "discount_pct": 28.0,
+      "limited_sale_price": 125.99,
+      "limited_sale_label": "Extra $14 off, today only",
+      "promo_price": 113.99,
+      "promo_code": "RELAX",
+      "sold_quantity": "10,000+",
+      "structured_fields": [
+        {
+          "label": "Duration",
+          "value": "90 minutes"
+        },
+        {
+          "label": "Number of People",
+          "value": "1 person"
+        },
+        {
+          "label": "Expires",
+          "value": "120 days after purchase"
+        },
+        {
+          "label": "WHAT'S INCLUDED",
+          "value": [
+            "Swedish massage",
+            "Deep-tissue massage",
+            "Aromatherapy enhancement",
+            "Steam shower aroma enhancements"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "60-Minute Swedish or Deep-Tissue Massage Session for Two w/ Aromatherapy & Steam Shower Aroma Enhancements",
+      "original_price": 270.0,
+      "deal_price": 179.99,
+      "discount_pct": 40.0,
+      "limited_sale_price": 161.99,
+      "limited_sale_label": "Extra $18 off, today only",
+      "promo_price": 146.49,
+      "promo_code": "RELAX",
+      "sold_quantity": "1,000+",
+      "structured_fields": [
+        {
+          "label": "Duration",
+          "value": "60 minutes"
+        },
+        {
+          "label": "Number of People",
+          "value": "2 people"
+        },
+        {
+          "label": "Expires",
+          "value": "120 days after purchase"
+        },
+        {
+          "label": "WHAT'S INCLUDED",
+          "value": [
+            "Swedish massage",
+            "Deep-tissue massage",
+            "Aromatherapy enhancement",
+            "Steam shower aroma enhancements"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "90-Minute Swedish or Deep-Tissue Massage Session for Two w/ Aromatherapy & Steam Shower Aroma Enhancements",
+      "original_price": 350.0,
+      "deal_price": 279.99,
+      "discount_pct": 28.0,
+      "limited_sale_price": 251.99,
+      "limited_sale_label": "Extra $28 off, today only",
+      "promo_price": 227.49,
+      "promo_code": "RELAX",
+      "sold_quantity": "410+",
+      "structured_fields": [
+        {
+          "label": "Duration",
+          "value": "90 minutes"
+        },
+        {
+          "label": "Number of People",
+          "value": "2 people"
+        },
+        {
+          "label": "Expires",
+          "value": "120 days after purchase"
+        },
+        {
+          "label": "WHAT'S INCLUDED",
+          "value": [
+            "Swedish massage",
+            "Deep-tissue massage",
+            "Aromatherapy enhancement",
+            "Steam shower aroma enhancements"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "One 60-Minute Swedish or Deep-Tissue Massage Session + CBD Oil and Aromatherapy - For 1",
+      "original_price": 165.0,
+      "deal_price": 109.99,
+      "discount_pct": 40.0,
+      "limited_sale_price": 98.99,
+      "limited_sale_label": "Extra $11 off, today only",
+      "promo_price": 89.49,
+      "promo_code": "RELAX",
+      "sold_quantity": "50+",
+      "structured_fields": [
+        {
+          "label": "Duration",
+          "value": "60 minutes"
+        },
+        {
+          "label": "Number of People",
+          "value": "1 person"
+        },
+        {
+          "label": "Expires",
+          "value": "120 days after purchase"
+        },
+        {
+          "label": "WHAT'S INCLUDED",
+          "value": [
+            "Swedish massage",
+            "Deep-tissue massage",
+            "CBD oil",
+            "Aromatherapy enhancement"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "One 90-Minute Swedish or Deep-Tissue Massage Session + CBD Oil and Aromatherapy - For 1",
+      "original_price": 205.0,
+      "deal_price": 149.99,
+      "discount_pct": 34.0,
+      "limited_sale_price": 134.99,
+      "limited_sale_label": "Extra $15 off, today only",
+      "promo_price": 121.99,
+      "promo_code": "RELAX",
+      "sold_quantity": "50+",
+      "structured_fields": [
+        {
+          "label": "Duration",
+          "value": "90 minutes"
+        },
+        {
+          "label": "Number of People",
+          "value": "1 person"
+        },
+        {
+          "label": "Expires",
+          "value": "120 days after purchase"
+        },
+        {
+          "label": "WHAT'S INCLUDED",
+          "value": [
+            "Swedish massage",
+            "Deep-tissue massage",
+            "CBD oil",
+            "Aromatherapy enhancement"
+          ]
+        }
+      ]
+    }
+  ],
+  "highlights_html": "",
+  "highlights_text": null,
+  "about_deal_html": "<div style=\"font-family: default; max-width: 850px; margin: 0 auto; padding: 20px\"><div style=\"display:flex; flex-wrap:wrap; gap:10px; margin-bottom:25px\"><span style=\"display:inline-flex; align-items:center; gap:7px; white-space:nowrap; background-color:rgba(255,255,255,0.85); border:1px solid #e7e8e9; border-radius:8px; padding:6px 10px; box-shadow:0 1px 2px rgba(0,0,0,0.06);\"><svg         xmlns=\"http://www.w3.org/2000/svg\"\n        width=\"17\" style=\"max-width: 100%\"\n        height=\"17\"\n        fill=\"none\"\n        viewBox=\"0 0 24 24\"\n        style=\"flex-shrink: 0; color: #1c7b22\"\n      >\n        <circle cx=\"12\" cy=\"9\" r=\"6\" stroke=\"currentColor\" stroke-width=\"1.5\"></circle>\n        <path           stroke=\"currentColor\"\n          stroke-linecap=\"round\"\n          stroke-linejoin=\"round\"\n          stroke-width=\"1.5\"\n          d=\"M8.5 13.5L7 23l5-3 5 3-1.5-9.5\"\n        ></path>\n      </svg><span style=\"font-size:12px; font-weight:800; color:#1c7b22;\">Professional Staff</span></span><span style=\"display:inline-flex; align-items:center; gap:7px; white-space:nowrap; background-color:rgba(255,255,255,0.85); border:1px solid #e7e8e9; border-radius:8px; padding:6px 10px; box-shadow:0 1px 2px rgba(0,0,0,0.06);\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" style=\"max-width: 100%\" height=\"17\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"flex-shrink:0; color:#1c7b22;\"><circle cx=\"12\" cy=\"12\" r=\"3\" stroke=\"currentColor\" stroke-width=\"1.5\"></circle><circle cx=\"12\" cy=\"12\" r=\"9\" stroke=\"currentColor\" stroke-width=\"1.5\"></circle><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"1.5\" d=\"M12 3v3M12 18v3M3 12h3M18 12h3\"></path></svg><span style=\"font-size:12px; font-weight:800; color:#1c7b22;\">Aromatherapy Included</span></span><span style=\"display:inline-flex; align-items:center; gap:7px; white-space:nowrap; background-color:rgba(255,255,255,0.85); border:1px solid #e7e8e9; border-radius:8px; padding:6px 10px; box-shadow:0 1px 2px rgba(0,0,0,0.06);\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"17\" style=\"max-width: 100%\" height=\"17\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"flex-shrink:0; color:#1c7b22;\">\n  <path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M21 10c0 7-9 12-9 12s-9-5-9-12a9 9 0 1 1 18 0z\"></path>\n  <circle cx=\"12\" cy=\"10\" r=\"3\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\"></circle>\n</svg><span style=\"font-size:12px; font-weight:800; color:#1c7b22;\">Multiple Locations</span></span></div><h1 style=\"margin: 0 0 10px 0; font-size: 28px; font-weight: 800; color: #111827; letter-spacing: -0.02em\">Sanctuary Awaits: Swedish or Deep\u2011Tissue Massage, Aromatherapy & Steam Bliss</h1><p style=\"margin: 0 0 30px 0; font-size: 16px; color: #6b7280; line-height: 1.5\">Is chronic neck and back stiffness weighing you down? Escape the daily grind and find your sanctuary with a deeply relaxing massage. At Heavenly Massage, they are known for creating an ultimate sanctuary for unwinding and rejuvenation.</p><h2 style=\"font-size: 22px; font-weight: 800; margin: 0 0 20px 0; color: #111827\">Why You'll Love It</h2><section style=\"display:flex;flex-direction:column;gap:8px;color:#111827;margin:0 0 26px 0;\"><div style=\"display:flex;gap:6px;align-items:flex-start\"><span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span><div style=\"flex:1\"><p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\">Choose your perfect massage:</strong> Select a classic Swedish massage for circulation or a Deep-Tissue massage to target chronic stiffness. </p></div></div><div style=\"display:flex;gap:6px;align-items:flex-start\"><span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span><div style=\"flex:1\"><p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\">Enhanced Relaxation:</strong> Each session includes aromatherapy and a soothing steam shower for a complete sensory escape. </p></div></div><div style=\"display:flex;gap:6px;align-items:flex-start\"><span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span><div style=\"flex:1\"><p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\">Targeted Relief:</strong> Experience rapid stroke techniques designed for instant tension release in areas like the neck and lower back. </p></div></div><div style=\"display:flex;gap:6px;align-items:flex-start\"><span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span><div style=\"flex:1\"><p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\">Optional CBD Oil:</strong> Enhance your massage with CBD oil for additional relaxation benefits. </p></div></div><div style=\"display:flex;gap:6px;align-items:flex-start\"><span style=\"flex-shrink:0;margin-top:2px;color:#111827;font-size:16px;font-weight:700\">\u2713</span><div style=\"flex:1\"><p style=\"font-size:14px;line-height:20px;margin:0\"><strong style=\"font-weight:700\">Couples or Solo:</strong> Enjoy a serene experience alone or share a moment of tranquility with a partner. </p></div></div></section><h2 style=\"font-size: 22px; font-weight: 800; margin: 0 0 15px 0; color: #111827\">Plan Your Treatment</h2>\n<div style=\"border-top: 1px solid #e5e7eb\"> \n  <details style=\"border-bottom: 1px solid #e5e7eb\">\n    <summary style=\"list-style: none; cursor: pointer; padding: 20px 0; display: flex; align-items: center; justify-content: space-between; outline: none\">\n      <div style=\"display: flex; align-items: center; gap: 15px\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" style=\"max-width: 100%\" height=\"20\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"flex-shrink:0; color:#111827;\"><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M9 11l3 3L22 4M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11\"></path></svg>\n        <span style=\"font-size: 18px; font-weight: 800; color: #111827\">Choose Your Massage Modality &amp; Duration</span>\n      </div>\n      <div style=\"width: 28px; height: 28px; border: 1px solid #d1d5db; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; color: #111827\">+</div>\n    </summary>\n    <div style=\"padding: 0 0 25px 35px; color: #4b5563; font-size: 15px; line-height: 1.6\">\n      <p style=\"margin: 0 0 5px 0; font-weight: 800; color: #111827\">60-Minute Swedish or Deep-Tissue Massage for 1 or 2</p>\n      <p style=\"margin: 0 0 12px 0\">Includes Aromatherapy &amp; Steam Shower Aroma Enhancements.</p>\n      <p style=\"margin: 0 0 5px 0; font-weight: 800; color: #111827\">90-Minute Swedish or Deep-Tissue Massage for 1 or 2</p>\n      <p style=\"margin: 0 0 12px 0\">Includes Aromatherapy &amp; Steam Shower Aroma Enhancements.</p>\n      <p style=\"margin: 0 0 5px 0; font-weight: 800; color: #111827\">60-Minute Swedish or Deep-Tissue Massage Session</p>\n      <p style=\"margin: 0 0 12px 0\">Includes CBD Oil and Aromatherapy.</p>\n      <p style=\"margin: 0 0 5px 0; font-weight: 800; color: #111827\">90-Minute Swedish or Deep-Tissue Massage Session</p>\n      <p style=\"margin: 0 0 12px 0\">Includes CBD Oil and Aromatherapy.</p>\n      <p style=\"margin: 0; font-size: 13px; color: #6b7280\">Therapists: all licensed LMTs \u00b7 Private treatment rooms \u00b7 Hands-on time slightly less than total session length (industry standard).</p>\n    </div>\n  </details>\n  <details style=\"border-bottom: 1px solid #e5e7eb\">\n    <summary style=\"list-style: none; cursor: pointer; padding: 20px 0; display: flex; align-items: center; justify-content: space-between; outline: none\">\n      <div style=\"display: flex; align-items: center; gap: 15px\">\n        <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" style=\"max-width: 100%\" height=\"20\" fill=\"none\" viewBox=\"0 0 24 24\" style=\"flex-shrink:0; color:#111827;\"><rect x=\"3\" y=\"5\" width=\"18\" style=\"max-width: 100%\" height=\"16\" rx=\"2\" stroke=\"currentColor\" stroke-width=\"1.5\"></rect><path stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"1.5\" d=\"M3 9h18M8 3v4M16 3v4\"></path></svg>\n        <span style=\"font-size: 18px; font-weight: 800; color: #111827\">Booking &amp; Aftercare</span>\n      </div>\n      <div style=\"width: 28px; height: 28px; border: 1px solid #d1d5db; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; font-size: 18px; color: #111827\">+</div>\n    </summary>\n    <div style=\"padding: 0 0 25px 35px; color: #4b5563; font-size: 15px; line-height: 1.6\">\n      <p style=\"margin: 0 0 5px 0; font-weight: 800; color: #111827\">Before your appointment</p>\n      <p style=\"margin: 0 0 15px 0\">Arrive 10-15 minutes early to check in and prepare for your session. Communicate any specific areas of tension or preferences to your therapist.</p>      \n      <p style=\"margin: 0 0 5px 0; font-weight: 800; color: #111827\">After your appointment</p>\n      <p style=\"margin: 0 0 15px 0\">Drink plenty of water to help flush toxins released during the massage. Enjoy the lingering sense of calm and rejuvenation.</p>    \n      <p style=\"margin: 0 0 5px 0; font-weight: 800; color: #111827\">Available add-ons</p>\n      <p style=\"margin: 0 0 15px 0\">Aromatherapy \u00b7 Steam Shower Aroma Enhancements \u00b7 CBD oil</p>      \n      <p style=\"margin: 0; font-size: 13px; color: #6b7280\">Gratuity not included.</p>\n    </div>\n  </details>\n</div><h2 style=\"font-size: 22px; font-weight: 800; margin: 35px 0 15px 0; color: #111827\">How It Works</h2>\n<div style=\"margin-bottom: 30px\">\n    <div style=\"display: flex; gap: 10px; margin-bottom: 10px; font-size: 15px; color: #4b5563\">\n        <span style=\"font-weight: 800; color: #111827; white-space: nowrap; min-width: 15px;\">1.</span>\n        <span><strong style=\"color: #111827\">Grab Your Deal</strong> \u2014 Purchase your Groupon voucher to lock in the price.</span>\n    </div>\n    <div style=\"display: flex; gap: 10px; margin-bottom: 10px; font-size: 15px; color: #4b5563\">\n        <span style=\"font-weight: 800; color: #111827; white-space: nowrap; min-width: 15px;\">2.</span>\n        <span><strong style=\"color: #111827\">Book Your Appointment</strong> \u2014 Call or book online; advance booking is recommended for weekends and gifting peaks.</span>\n    </div>\n    <div style=\"display: flex; gap: 10px; margin-bottom: 10px; font-size: 15px; color: #4b5563\">\n        <span style=\"font-weight: 800; color: #111827; white-space: nowrap; min-width: 15px;\">3.</span>\n        <span><strong style=\"color: #111827\">Arrive Relaxed</strong> \u2014 Get there 10 minutes early to complete the intake form and discuss pressure preferences.</span>\n    </div>\n    <div style=\"display: flex; gap: 10px; margin-bottom: 10px; font-size: 15px; color: #4b5563\">\n        <span style=\"font-weight: 800; color: #111827; white-space: nowrap; min-width: 15px;\">4.</span>\n        <span><strong style=\"color: #111827\">Show Up &amp; Redeem</strong> \u2014 Present your voucher at check-in. The therapist confirms preferences before the session begins.</span>\n    </div>\n    <div style=\"display: flex; gap: 10px; margin-bottom: 10px; font-size: 15px; color: #4b5563\">\n        <span style=\"font-weight: 800; color: #111827; white-space: nowrap; min-width: 15px;\">5.</span>\n        <span><strong style=\"color: #111827\">Unwind &amp; Reboot</strong> \u2014 Hydrate, take it easy for the rest of the day, and consider booking your next session before you leave.</span>\n    </div>\n</div>\n  </div><h2 style=\"font-size: 22px; font-weight: 800; margin: 35px 0 15px 0; color: #111827\">About the Practitioner</h2><p style=\"font-size: 15px; line-height: 1.6; color: #374151; margin: 0 0 30px 0\">Founded by Jim Bakopoulos, Heavenly Massage offers a serene and therapeutic escape across five convenient Illinois locations\u2014Morton Grove, Mount Prospect, Chicago, Schaumburg, and Orland Park. Licensed practitioners specialise in Swedish, Deep\u2011Tissue, and other massage techniques tailored to individual needs, ensuring every session promotes relaxation, replenishment, and rejuvenation. With a focus on creating a calming environment and expert care, Heavenly Massage makes it easy to discover lasting wellness and smooth stress relief close to home.</p><div style=\"background-color: #f8f9fa; padding: 20px;\">\n        <h4 style=\"margin-top: 0; color: #111827;\"><b>Explore More Ways to Relax</b></h4>\n        <div style=\"display: flex; flex-wrap: wrap; gap: 20px;\">\n            <div style=\"flex: 1; min-width: 200px;\">\n                <h5 style=\"margin-bottom: 10px; color: #666;\"><B>Massage Packages</B></h5>\n                <ul style=\"padding-left: 20px; font-size: 14px;\">\n                    <li><a href=\"https://www.groupon.com/deals/heavenly-massage-13\" style=\"text-decoration: none; color: #4a90e2;\" rel=\"nofollow\">Massage Session for Two (60/90 Min)</a></li>\n                    <li><a href=\"https://www.groupon.com/deals/heavenly-massage-22\" style=\"text-decoration: none; color: #4a90e2;\" rel=\"nofollow\">CBD Oil Massages</a></li>\n                </ul>\n            </div>\n            <div style=\"flex: 1; min-width: 200px;\">\n                <h5 style=\"margin-bottom: 10px; color: #666;\"><b>Spa & Beauty</b></h5>\n                <ul style=\"padding-left: 20px; font-size: 14px;\">\n                    <li><a href=\"https://www.groupon.com/deals/heavenly-massage-14\" style=\"text-decoration: none; color: #4a90e2;\" rel=\"nofollow\">Full Spa Day Packages</a></li>\n                    <li><a href=\"https://www.groupon.com/deals/heavenly-massage-19\" style=\"text-decoration: none; color: #4a90e2;\" rel=\"nofollow\">Massage & Facial Combos</a></li>\n                    <li><a href=\"https://www.groupon.com/deals/heavenly-massage-23\" style=\"text-decoration: none; color: #4a90e2;\" rel=\"nofollow\">Hydra Peel Facial Session</a></li>\n                    <li><a href=\"https://www.groupon.com/deals/heavenly-massage-18\" style=\"text-decoration: none; color: #4a90e2;\" rel=\"nofollow\">Custom Manicure & Pedicure</a></li>\n                </ul>\n            </div>\n            <div style=\"flex: 1; min-width: 200px;\">\n                <h5 style=\"margin-bottom: 10px; color: #666;\"><b>Detox & Wellness</b></h5>\n                <ul style=\"padding-left: 20px; font-size: 14px;\">\n                    <li><a href=\"https://www.groupon.com/deals/heavenly-massage-28\" style=\"text-decoration: none; color: #4a90e2;\" rel=\"nofollow\">Detox Mud Wrap & Sugar Scrub</a></li>\n                    <li><a href=\"https://www.groupon.com/deals/heavenly-massage-27\" style=\"text-decoration: none; color: #4a90e2;\" rel=\"nofollow\">Pampering Packages</a></li>\n                </ul>\n            </div>\n        </div>\n    </div>",
+  "about_deal_text": "Professional Staff            Aromatherapy Included    \n    \n    \n  Multiple Locations    Sanctuary Awaits: Swedish or Deep\u2011Tissue Massage, Aromatherapy & Steam Bliss  Is chronic neck and back stiffness weighing you down? Escape the daily grind and find your sanctuary with a deeply relaxing massage. At Heavenly Massage, they are known for creating an ultimate sanctuary for unwinding and rejuvenation.  Why You'll Love It    \u2713    Choose your perfect massage:  Select a classic Swedish massage for circulation or a Deep-Tissue massage to target chronic stiffness.      \u2713    Enhanced Relaxation:  Each session includes aromatherapy and a soothing steam shower for a complete sensory escape.      \u2713    Targeted Relief:  Experience rapid stroke techniques designed for instant tension release in areas like the neck and lower back.      \u2713    Optional CBD Oil:  Enhance your massage with CBD oil for additional relaxation benefits.      \u2713    Couples or Solo:  Enjoy a serene experience alone or share a moment of tranquility with a partner.      Plan Your Treatment \n  \n   \n     \n       \n            \n         Choose Your Massage Modality &amp; Duration \n       \n       + \n     \n     \n       60-Minute Swedish or Deep-Tissue Massage for 1 or 2 \n       Includes Aromatherapy &amp; Steam Shower Aroma Enhancements. \n       90-Minute Swedish or Deep-Tissue Massage for 1 or 2 \n       Includes Aromatherapy &amp; Steam Shower Aroma Enhancements. \n       60-Minute Swedish or Deep-Tissue Massage Session \n       Includes CBD Oil and Aromatherapy. \n       90-Minute Swedish or Deep-Tissue Massage Session \n       Includes CBD Oil and Aromatherapy. \n       Therapists: all licensed LMTs \u00b7 Private treatment rooms \u00b7 Hands-on time slightly less than total session length (industry standard). \n     \n   \n   \n     \n       \n              \n         Booking &amp; Aftercare \n       \n       + \n     \n     \n       Before your appointment \n       Arrive 10-15 minutes early to check in and prepare for your session. Communicate any specific areas of tension or preferences to your therapist.       \n       After your appointment \n       Drink plenty of water to help flush toxins released during the massage. Enjoy the lingering sense of calm and rejuvenation.     \n       Available add-ons \n       Aromatherapy \u00b7 Steam Shower Aroma Enhancements \u00b7 CBD oil       \n       Gratuity not included. \n     \n   \n  How It Works \n \n     \n         1. \n          Grab Your Deal  \u2014 Purchase your Groupon voucher to lock in the price. \n     \n     \n         2. \n          Book Your Appointment  \u2014 Call or book online; advance booking is recommended for weekends and gifting peaks. \n     \n     \n         3. \n          Arrive Relaxed  \u2014 Get there 10 minutes early to complete the intake form and discuss pressure preferences. \n     \n     \n         4. \n          Show Up &amp; Redeem  \u2014 Present your voucher at check-in. The therapist confirms preferences before the session begins. \n     \n     \n         5. \n          Unwind &amp; Reboot  \u2014 Hydrate, take it easy for the rest of the day, and consider booking your next session before you leave. \n     \n \n    About the Practitioner  Founded by Jim Bakopoulos, Heavenly Massage offers a serene and therapeutic escape across five convenient Illinois locations\u2014Morton Grove, Mount Prospect, Chicago, Schaumburg, and Orland Park. Licensed practitioners specialise in Swedish, Deep\u2011Tissue, and other massage techniques tailored to individual needs, ensuring every session promotes relaxation, replenishment, and rejuvenation. With a focus on creating a calming environment and expert care, Heavenly Massage makes it easy to discover lasting wellness and smooth stress relief close to home.  \n          Explore More Ways to Relax  \n         \n             \n                  Massage Packages  \n                 \n                      Massage Session for Two (60/90 Min)  \n                      CBD Oil Massages  \n                 \n             \n             \n                  Spa & Beauty  \n                 \n                      Full Spa Day Packages  \n                      Massage & Facial Combos  \n                      Hydra Peel Facial Session  \n                      Custom Manicure & Pedicure  \n                 \n             \n             \n                  Detox & Wellness  \n                 \n                      Detox Mud Wrap & Sugar Scrub  \n                      Pampering Packages",
+  "highlights": [],
+  "fine_print": [],
+  "faqs": [
+    {
+      "question": "What is a Swedish massage?",
+      "answer": ""
+    },
+    {
+      "question": "What is a Deep-Tissue massage?",
+      "answer": ""
+    },
+    {
+      "question": "What are the benefits of aromatherapy?",
+      "answer": ""
+    },
+    {
+      "question": "Can I choose my massage type?",
+      "answer": ""
+    },
+    {
+      "question": "Are there options for couples?",
+      "answer": ""
+    },
+    {
+      "question": "What are the operating hours?",
+      "answer": ""
+    }
+  ],
+  "amenities": [],
+  "review_count": 19457,
+  "avg_rating": 4.6,
+  "groupon_rating": 4.6,
+  "review_distribution": {
+    "five_star_pct": 80,
+    "four_star_pct": 11,
+    "three_star_pct": 4,
+    "two_star_pct": 2,
+    "one_star_pct": 3
+  },
+  "review_quotes": [
+    {
+      "rating": 5,
+      "text": "I had a very relaxing time and highly recommend this place. Great customer service, clean facilities, and booking is just a phone call away.",
+      "author": "Cintya"
+    },
+    {
+      "rating": 5,
+      "text": "Bought a pedicure for my daughter and she said it was very relaxing and professional. Her feet look great.",
+      "author": "kelly"
+    },
+    {
+      "rating": 5,
+      "text": "This was worth every dime.  The staff took pride in there service.",
+      "author": "monica"
+    },
+    {
+      "rating": 5,
+      "text": "They were amazing. I will be back.",
+      "author": "Elijha"
+    },
+    {
+      "rating": 5,
+      "text": "They're all nice, and friendly.  The place is a good massage spa place.",
+      "author": "Emer"
+    }
+  ],
+  "badges": [
+    "Best Rated",
+    "Popular Gift"
+  ],
+  "urgency_bought": "25,000+",
+  "urgency_message": "Selling fast!",
+  "has_guarantee": false,
+  "is_giftable": true,
+  "image_count": 13,
+  "image_urls": [
+    "https://img.grouponcdn.com/deal/2yL9y8LLJEFknwmhRB4iQxXFE3g6/2y-5398x3239/v1/t600x362.webp",
+    "https://img.grouponcdn.com/deal/3rsdCv5VZSUQZ7F2fH2DhBDH3e5X/3r-6219x3731/v1/t600x362.webp",
+    "https://img.grouponcdn.com/deal/3sBVGpJ5SDr5ZSNunfWKdsZocMW5/3s-5595x3357/v1/t600x362.webp",
+    "https://img.grouponcdn.com/deal/jYw71yjQqwWYt6ptWEHFSH18PW5/jY-4336x2602/v1/t600x362.webp",
+    "https://img.grouponcdn.com/deal/4Aq9VjX3ux7LdygnqKGvFpER1XuZ/4A-5826x3496/v1/t600x362.webp"
+  ],
+  "has_videos": true,
+  "seo": {
+    "meta_title": "Heavenly Massage - From $89.99 | Groupon",
+    "meta_description": "Unwind with a Swedish or Deep-Tissue Massage, Enhanced by Aromatherapy & CBD Oil for Solo or Couples",
+    "h1": "Unwind with a Swedish or Deep-Tissue Massage, Enhanced by Aromatherapy & CBD Oil for Solo or Couples",
+    "h2s": [
+      "Why You'll Love It",
+      "Plan Your Treatment",
+      "How It Works",
+      "About the Practitioner",
+      "Why You'll Love It",
+      "Plan Your Treatment",
+      "How It Works",
+      "About the Practitioner",
+      "Need To Know Info",
+      "About Heavenly Massage",
+      "Where To Redeem",
+      "Customer Photos & Videos"
+    ],
+    "schema_types": [
+      "WebSite",
+      "Organization",
+      "DaySpa",
+      "ProductGroup",
+      "BreadcrumbList",
+      "Review",
+      "FAQPage"
+    ],
+    "noindex": false,
+    "canonical_url": null
+  },
+  "script_count": 167,
+  "error": null
+}

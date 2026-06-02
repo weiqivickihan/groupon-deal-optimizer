@@ -1,0 +1,211 @@
+{
+  "merchant_name": "Harumi Salon",
+  "city": "New York City",
+  "category": "health & beauty",
+  "competitor_pricing": {
+    "low": 49.0,
+    "high": 145.0,
+    "currency": "USD",
+    "notes": "In Manhattan, standalone blow-dry services at dedicated blowout bars (Blo, Dreamdry) start at $49\u2013$55. Combined conditioning treatments + blow-dry at boutique salons range from ~$75 to $145+, with premium Japanese-technique salons on the higher end. Deep conditioning as a standalone add-on runs $25\u2013$45 at value salons like Dramatics NYC.",
+    "competitors": [
+      {
+        "name": "Blo Blow Dry Bar",
+        "price_range": "$49+",
+        "source": "https://blog.refineryhotelnewyork.com/best-blowouts-manhattan/",
+        "notes": "Blowout (wash + style) only, no conditioning treatment included. Nine Manhattan locations."
+      },
+      {
+        "name": "Dreamdry (Rachel Zoe)",
+        "price_range": "$50",
+        "source": "https://blog.refineryhotelnewyork.com/best-blowouts-manhattan/",
+        "notes": "Wash and blow-dry only; Kerastase conditioning masques available as paid add-ons."
+      },
+      {
+        "name": "Dramatics NYC",
+        "price_range": "$25\u2013$45 (treatment add-on)",
+        "source": "https://dramaticsnyc.com/services/hair-treatment-service-prices/conditioning-treatments/",
+        "notes": "Deep conditioning sold as an add-on to any hair service; blow-dry and haircut priced separately."
+      },
+      {
+        "name": "DevaChan Salon",
+        "price_range": "$50 (DevaCurl Transformation) + $75\u2013$95 cut",
+        "source": "https://blog.refineryhotelnewyork.com/best-blowouts-manhattan/",
+        "notes": "Cleansing, conditioning, and expert curl styling bundled; cut priced separately. Soho and UWS locations."
+      },
+      {
+        "name": "Matono Salon (Japanese specialty)",
+        "price_range": "$50 blow-dry add-on to treatment",
+        "source": "https://matono.salon/services",
+        "notes": "Premium 5-step MILBON-brand deep conditioning treatments with optional $50 blow-dry upcharge; full service comparable to Harumi likely $100\u2013$150+."
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": 4.5,
+    "yelp_review_count": 71,
+    "google_rating": null,
+    "google_review_count": null,
+    "positive_themes": [
+      "Personalized, attentive consultation: Multiple reviewers across Yelp and Pulsd emphasize that Harumi spends significant time understanding exactly what the client wants before starting.",
+      "Gentle, skilled technique: Reviewers specifically highlight that blow-drying is done without burning or excessive pulling, unlike some competing salons.",
+      "Lasting results and great value: Customers note the conditioning treatment extends hair health and shine for months, and that prices (even direct) are competitive for NYC.",
+      "Warm, welcoming atmosphere: The salon is consistently described as intimate, peaceful, and comfortable despite its no-frills appearance."
+    ],
+    "negative_themes": [
+      "Limited hours and availability: Yelp listing shows the salon operates only Mon/Wed/Fri and Sun \u2014 no Tuesday, Thursday, or Saturday hours \u2014 which severely limits scheduling flexibility.",
+      "Building entry confusion: Several Yelp reviewers note the need to know a specific intercom code (pressing unit 503 + green button) to enter the building, which is not disclosed on the deal page.",
+      "Low review volume on Yelp: With only 71 Yelp reviews vs. 1,141 Groupon reviews, most of the merchant's reputation is built entirely within Groupon's closed ecosystem, limiting independent verification."
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "\"What I love about Harumi is that she will dedicate a good amount of time on you and will not be in any rush.\"",
+        "source": "yelp / pulsd"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "\"The blow out was nice, no pulling, no burning me with a super hot blow dryer.\"",
+        "source": "yelp"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "\"She made it look amazing \u2014 so soft I couldn't believe it was my hair.\"",
+        "source": "yelp"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "\"SUPER attentive, she will give you the cut you ASK for, not a rushed job!!!\"",
+        "source": "yelp / pulsd"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "\"The trick to getting into the building is by pressing her number which is 503 and press the green button immediately after.\"",
+        "source": "yelp (practical friction, not a complaint per se, but flags a real access issue)"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 47.0,
+    "direct_booking_price": null,
+    "competitor_avg_price": 95.0,
+    "is_good_deal": true,
+    "discount_vs_direct": null,
+    "discount_vs_competitors": 50.5,
+    "original_price_credibility": "credible",
+    "assessment": "The Groupon prices ($47 for conditioning + blow-dry; $65 for cut + conditioning + blow-dry) are genuinely below-market for Manhattan, where equivalent bundled services at comparable boutique salons range from $75\u2013$145+. The stated original prices ($90 and $130) are plausible for a boutique NYC salon with a 15+ year Japanese-trained stylist and premium MILBON products, and are consistent with historical Pulsd deals that listed the same service bundle at $105\u2013$120 value. There is no strong evidence of artificial price inflation. The 53\u201355% discount represents real savings, especially given the 4.8 Groupon rating and 1,000+ units sold signal."
+  },
+  "content_gaps": [
+    {
+      "gap": "Building entry instructions not disclosed",
+      "why_it_matters": "Multiple Yelp reviewers flag that first-time visitors don't know how to enter the building (requires pressing intercom unit 503 + green button). A customer arriving for the first time without this info could be stuck outside, causing frustration and late arrivals.",
+      "priority": "high"
+    },
+    {
+      "gap": "Exact salon address and neighborhood not shown on deal page",
+      "why_it_matters": "Groupon shows multiple Harumi Salon locations (373 Broadway, 478 6th Ave, 22 W 14th St). Customers need to know which specific location this deal applies to before purchasing.",
+      "priority": "high"
+    },
+    {
+      "gap": "Operating hours not listed",
+      "why_it_matters": "Harumi Salon operates only Mon/Wed/Fri and Sun \u2014 an unusual schedule with no Tue/Thu/Sat. Customers expecting weekend Saturday availability will be misled if this is not disclosed upfront.",
+      "priority": "high"
+    },
+    {
+      "gap": "New customers only restriction not prominently flagged",
+      "why_it_matters": "Fine print on other Harumi Groupon/Pulsd deals specifies 'new clients only.' If this applies here (deal page shows no fine print), returning customers who purchase may be turned away, damaging trust and generating refund requests.",
+      "priority": "high"
+    },
+    {
+      "gap": "MILBON product details and treatment steps not explained",
+      "why_it_matters": "The deal title prominently features MILBON products as a selling point, but provides no description of what MILBON is, what the treatment involves (number of steps, application process, duration), or why it's superior. Educated hair-care consumers will want this.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Service duration / appointment length not specified",
+      "why_it_matters": "Customers need to know how long to block in their schedule. Deep conditioning treatments typically require 60\u201390+ minutes; a haircut + treatment + blow-dry could easily be 90\u2013120 minutes. No time estimate is given.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Stylist credentials and background not detailed on page",
+      "why_it_matters": "The highlight copy says 'highly-trained and professional stylist' but does not mention Harumi's 15+ years of experience or Tokyo training background \u2014 information that exists on Pulsd and would significantly increase conversion.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Before/after photos of actual client results",
+      "why_it_matters": "The deal page has no visual proof of results. For a hair service, before/after imagery is a primary conversion driver. Instagram (@harumi_salon) has 100 posts that could be leveraged.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Cancellation and rescheduling policy",
+      "why_it_matters": "No fine print is listed on this deal at all. Customers will want to know the rescheduling window, cancellation policy, and whether the Groupon promotional value expiry (typically 120 days per other Harumi deals) applies.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Hair length or hair type surcharge policy",
+      "why_it_matters": "Many NYC salons charge extra for long, thick, or textured hair. No mention of potential surcharges could lead to surprise costs at checkout and negative reviews.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Parking and transit directions",
+      "why_it_matters": "The 14th St location is accessible but parking in that area is difficult. Mentioning nearby subway lines (1/2/3, F/M, L, N/Q/R/W at 14th St) would reduce friction for first-time visitors.",
+      "priority": "low"
+    },
+    {
+      "gap": "What to bring / how to arrive (clean vs. dirty hair)",
+      "why_it_matters": "Customers don't know whether to arrive with clean hair or if a shampoo is included in the service. This is a common pre-appointment question for conditioning treatments.",
+      "priority": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "HARUMI SALON - Updated May 2026 - Yelp",
+      "url": "https://www.yelp.com/biz/harumi-salon-new-york-3",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Harumi Salon - Groupon Business Page (Manhattan - 22 W 14th St)",
+      "url": "https://www.groupon.com/biz/manhattan/harumi-salon-grosvenor-house-condominiums",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Harumi Salon - Groupon Deal Page",
+      "url": "https://www.groupon.com/deals/harumi-salon-2",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "$55 5 Star Yelp Rated Haircut, Deep Conditioning Treatment, Style & Blow-out | Harumi Salon | Pulsd NYC",
+      "url": "https://pulsd.com/new-york/promotions/harumi-salon-tribeca",
+      "accessed_for": "reputation, pricing"
+    },
+    {
+      "title": "$39 Haircut, Conditioning Treatment, Style & Blow-out | Harumi Salon | Pulsd NYC",
+      "url": "https://pulsd.com/new-york/promotions/hair-salon-tribeca-harumi-salon",
+      "accessed_for": "reputation, pricing"
+    },
+    {
+      "title": "Harumi Salon - Yellow Pages (service menu with prices)",
+      "url": "https://www.yellowpages.com/new-york-ny/mip/harumi-salon-512230357",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "The Best Blowouts in Manhattan | Refinery Times",
+      "url": "https://blog.refineryhotelnewyork.com/best-blowouts-manhattan/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Conditioning Treatments | $25\u2013$45 \u2013 Dramatics NYC",
+      "url": "https://dramaticsnyc.com/services/hair-treatment-service-prices/conditioning-treatments/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Services \u2014 Luxury Haircare - Matono Salon",
+      "url": "https://matono.salon/services",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Harumi Salon Instagram",
+      "url": "https://www.instagram.com/harumi_salon/",
+      "accessed_for": "reputation"
+    }
+  ]
+}

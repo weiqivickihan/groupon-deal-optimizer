@@ -1,0 +1,214 @@
+{
+  "merchant_name": "Merrick Tire Center",
+  "city": "New York City",
+  "category": "automotive",
+  "competitor_pricing": {
+    "low": 100.0,
+    "high": 249.0,
+    "currency": "USD",
+    "notes": "In New York, the average professional AC recharge (R-134a) runs $132\u2013$396, with a state average of $231. National chains like Firestone charge $100\u2013$200, Midas ~$150, Jiffy Lube $80\u2013$150, and Valvoline $75\u2013$250. The Groupon price of $160 sits at the lower-mid range for NYC, but the listed 'original' price of $300 is at the high end of the market.",
+    "competitors": [
+      {
+        "name": "Firestone Complete Auto Care",
+        "price_range": "$100\u2013$200",
+        "source": "https://motoroomph.com/cost-to-recharge-car-ac/",
+        "notes": "AC recharge includes inspection of compressor, belts, and pipes; evacuates old refrigerant and recharges. Multiple NYC-area locations."
+      },
+      {
+        "name": "Midas",
+        "price_range": "$150",
+        "source": "https://motoroomph.com/cost-to-recharge-car-ac/",
+        "notes": "Standard AC recharge with visual inspection; location-based coupons may apply. NYC-area locations available."
+      },
+      {
+        "name": "Pep Boys (Queens Village, NY)",
+        "price_range": "$149\u2013$249",
+        "source": "https://autorepairlebanontn.com/how-much-does-it-cost-to-recharge-a-car-ac/",
+        "notes": "Deluxe A/C recharge includes performance check. Location at 208-22 Jamaica Ave, Queens Village, NY 11428 \u2014 close to Merrick Tire Center."
+      },
+      {
+        "name": "Jiffy Lube",
+        "price_range": "$80\u2013$150",
+        "source": "https://motoroomph.com/cost-to-recharge-car-ac/",
+        "notes": "Price varies by franchise; not all locations offer AC recharge. Discounts sometimes available online."
+      },
+      {
+        "name": "NYC Market Average (R-134a recharge)",
+        "price_range": "$132\u2013$396",
+        "source": "https://costwhale.com/cost/ac-recharge/ny",
+        "notes": "New York state average is $231 per service \u2014 32% above the national average of $175. Urban NYC locations may skew even higher."
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": 3,
+    "google_rating": null,
+    "google_review_count": null,
+    "positive_themes": [
+      "Friendly, honest staff: Multiple reviewers across Google and CARFAX highlight staff transparency and willingness to explain work before starting \u2014 'The staff were very friendly, honest, and took the time to explain everything clearly.'",
+      "Fair and reasonable pricing: Aggregated review summaries consistently note pricing is competitive or below average for the Queens/Jamaica area \u2014 'All their prices and services are clearly listed so no games here.'",
+      "Fast, efficient service: Customers on CARFAX and Google report quick turnaround on walk-in and appointment services, with cars completed and customers called when ready.",
+      "Positive Groupon experience: At least one verified CARFAX reviewer noted the Groupon service was honored honestly without hidden catches \u2014 'I was really impressed the management and workers were honest and friendly.'",
+      "Women-friendly environment: A loc8nearme reviewer noted the shop is respectful of women customers and they observed other women receiving service there too."
+    ],
+    "negative_themes": [
+      "Wait time inconsistency: Some reviewers mention extended waits, particularly for walk-in visits; one CARFAX reviewer noted 'a little bit of a wait' for a same-day wheel alignment.",
+      "Prioritization complaints: One Yelp reviewer via Roadtrippers reported being passed over based on service cost \u2014 'They value money over who was there first! So if you have an expensive issue, go there and they'll put you in front of everybody else!'",
+      "Very low Yelp review volume: Only 3 Yelp reviews found, making the Yelp signal very thin and not statistically reliable."
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "Great service and fair prices! Friendly staff and honest work. Highly recommend this place.",
+        "source": "google"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "Most of the services usually have lot of catches if someone purchased through Groupon but I was really impressed the management and workers were honest and friendly.",
+        "source": "carfax"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "Friendly and honest mechanics that took me in right away for oil change. Smaller shop that has the feel of a friendly neighborhood mechanic.",
+        "source": "yelp"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "They value money over who was there first! So if you have an expensive issue, go there and they'll put you in front of everybody else!",
+        "source": "yelp"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 160.0,
+    "direct_booking_price": null,
+    "competitor_avg_price": 175.0,
+    "is_good_deal": true,
+    "discount_vs_direct": null,
+    "discount_vs_competitors": 8.6,
+    "original_price_credibility": "inflated",
+    "assessment": "The Groupon price of $160 is a legitimate value \u2014 it sits below the NYC state average of $231 for R-134a AC recharge and undercuts major chains like Firestone ($100\u2013$200) and Pep Boys ($149\u2013$249) at the lower bound while including vacuum service and freon. However, the 'original price' of $300 is credibility-challenged: that figure sits at the very top of the NYC market range ($132\u2013$396) and exceeds what most independent shops or chains charge for the same R-134a service; it is likely inflated to manufacture the appearance of a larger discount. The deal is genuinely competitive vs. the market, but the 52% discount framing is misleading."
+  },
+  "content_gaps": [
+    {
+      "gap": "No mention of refrigerant compatibility \u2014 deal specifies R-134a only (up to 1 lb), but many vehicles 2015+ require R-1234yf",
+      "why_it_matters": "Customers with newer vehicles could arrive expecting service and be turned away or charged extra; R-1234yf recharges cost $200\u2013$400+. This is likely the single biggest source of post-purchase complaints.",
+      "priority": "high"
+    },
+    {
+      "gap": "No specification of what 'AC repair' includes beyond recharge \u2014 no clarity on whether leak detection, UV dye test, compressor inspection, or system diagnostics are part of the service",
+      "why_it_matters": "Customers may assume a full diagnostic is included. 'Repair' implies fixing a fault, but the deal may only cover recharge + vacuum. Unmet expectations drive negative reviews.",
+      "priority": "high"
+    },
+    {
+      "gap": "No appointment or scheduling instructions on the deal page",
+      "why_it_matters": "Merrick Tire Center appears to serve walk-ins and appointments; without clear booking instructions, Groupon buyers may show up without notice and face waits \u2014 a known complaint theme.",
+      "priority": "high"
+    },
+    {
+      "gap": "No address, map, or neighborhood context on the deal page",
+      "why_it_matters": "The shop is in Jamaica, Queens (118-02 Merrick Blvd) \u2014 not Manhattan. NYC buyers may assume the shop is in a central borough. Omitting this causes surprise and low satisfaction.",
+      "priority": "high"
+    },
+    {
+      "gap": "No technician credentials or certifications listed (e.g., ASE certification)",
+      "why_it_matters": "Customers booking AC service want confidence in technical expertise. The merchant website mentions being part of 'Professional Auto Service' network, but this is absent from the deal page.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No indication of vehicle eligibility (make/model/year restrictions)",
+      "why_it_matters": "Certain vehicles (hybrids, EVs, luxury brands) may require specialized AC service or different refrigerant oils. Without this, customers with ineligible vehicles will be disappointed.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No before/after service photos or shop interior photos on the deal page",
+      "why_it_matters": "Visual trust signals increase conversion rates, especially for auto services where customers are handing over their car. Shop is noted as clean and organized in reviews but this is not conveyed on the page.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Parking availability not mentioned on deal page",
+      "why_it_matters": "Parking is available on-site per third-party review data \u2014 a meaningful differentiator for NYC customers who often struggle with parking. Mentioning this reduces anxiety.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No estimated service duration",
+      "why_it_matters": "AC recharge typically takes 60\u201390 minutes; customers need to plan their day. Lack of time estimate increases uncertainty and potential no-shows.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Fine print says 'Limit 1 per table' \u2014 likely a Groupon template error meant for restaurant deals",
+      "why_it_matters": "This confusing language in the fine print erodes trust and professionalism; it should read 'Limit 1 per visit' or similar automotive-appropriate language.",
+      "priority": "low"
+    },
+    {
+      "gap": "No mention of the 2-year / 24,000-mile warranty that Merrick Tire Center advertises on their own website",
+      "why_it_matters": "This is a strong differentiator that could significantly boost deal conversion \u2014 customers paying for AC service want to know the work is backed by a warranty.",
+      "priority": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "MERRICK TIRE CENTER - Yelp",
+      "url": "https://www.yelp.com/biz/merrick-tire-center-jamaica",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Merrick Tire Center Official Website",
+      "url": "https://merricktirecenter.com/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Merrick Tire Center - CARFAX Reviews",
+      "url": "https://www.carfax.com/Reviews-Merrick-Tire-Center-Jamaica-NY_NN0QVKNEDT",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Merrick Tire Center - Wheree.com Aggregated Reviews",
+      "url": "https://merrick-tire-center.wheree.com/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Merrick Tire Center - Roadtrippers",
+      "url": "https://maps.roadtrippers.com/us/ny/services/merrick-tire-center",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "How Much Does Car AC Recharge Cost in New York? (2024) - CostWhale",
+      "url": "https://costwhale.com/cost/ac-recharge/ny",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Car AC Recharge Costs: 2025 Prices - Absolute Auto Repair",
+      "url": "https://autorepairlebanontn.com/how-much-does-it-cost-to-recharge-a-car-ac/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "How Much Does It Cost to Recharge Car AC? - Motoroomph",
+      "url": "https://motoroomph.com/cost-to-recharge-car-ac/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "How Much Does an A/C Recharge Cost? - Jerry",
+      "url": "https://jerry.ai/car-repair/estimates/ac-recharge-replacement/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "AC Recharge Cost - Synchrony",
+      "url": "https://www.synchrony.com/blog/automotive/ac-recharge-cost",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Pep Boys Queens Village, NY",
+      "url": "https://www.pepboys.com/stores/ny/queens-village/208-22-jamaica-ave",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Merrick Tire Center - Goodyear Dealer Profile",
+      "url": "https://www.goodyear.com/en_US/location/Jamaica-NY-11434-US-000118116",
+      "accessed_for": "reputation"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "Yelp review count for Merrick Tire Center is very low (only 3 reviews found), limiting statistical reliability of that signal. No confirmed standalone Google rating or review count was found in search results \u2014 only CARFAX shows 4.8/5 from 192 verified service reviews, which is the strongest reputation data point. The merchant's direct booking price for the specific AC recharge service was not publicly listed on their website, so direct discount vs. direct price cannot be calculated. Competitor pricing is sourced from national chain benchmarks and NY-specific cost databases rather than local Queens independent shop quotes, which may skew slightly low vs. actual neighborhood pricing. The 'original price' of $300 is plausible for a full-service NYC shop but is at the top of market range for R-134a only; credibility as a true pre-discount price is uncertain. The deal is limited to R-134a (up to 1 lb) which is a critical compatibility limitation not surfaced in the deal copy."
+}

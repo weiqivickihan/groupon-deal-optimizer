@@ -1,0 +1,221 @@
+{
+  "merchant_name": "Arthur Murray Dance Studio",
+  "city": "Washington DC area (Alexandria, VA)",
+  "category": "activities",
+  "competitor_pricing": {
+    "low": 45.0,
+    "high": 115.0,
+    "currency": "USD",
+    "notes": "Private dance lessons in Alexandria/DC area run $50\u2013$115 per hour for individual sessions. Alexandria Ballroom charges $100 per single 45-min lesson; Art of Ballroom Dance charges $95 per 60-min lesson. The Groupon package ($59 for 2 private + 1 group + 1 practice) undercuts all local competitors significantly on a per-session basis.",
+    "competitors": [
+      {
+        "name": "Alexandria Ballroom",
+        "price_range": "$100 per single lesson / $475 for 5-lesson package",
+        "source": "https://www.alexandriaballroom.com/private-lessons",
+        "notes": "45-minute private lessons by appointment; $100 per single session, $475 for a 5-lesson package (45-min each)"
+      },
+      {
+        "name": "Art of Ballroom Dance (Alexandria, VA)",
+        "price_range": "$95 per 60-min lesson; $450 for 5-lesson plan; $850 for 10-lesson plan",
+        "source": "https://www.artofballroomdance.com/rates-for-dance-lessons",
+        "notes": "Individual private ballroom lessons at $95/hr; bulk plans offer discounts; also charges a $19/hr studio fee on top"
+      },
+      {
+        "name": "Metropolitan School of the Arts (Alexandria, VA)",
+        "price_range": "$42 per 30-min / $79 per 60-min private lesson",
+        "source": "https://metropolitanarts.org/move/",
+        "notes": "Private dance instruction by certified instructors; half-hour and full-hour rates available"
+      },
+      {
+        "name": "Lessons.com market rate (Alexandria area)",
+        "price_range": "$50\u2013$85 per hour (adults); $50\u2013$150/hr for wedding lessons",
+        "source": "https://lessons.com/va/alexandria/dance-classes/",
+        "notes": "Aggregated market rate for adult private dance lessons in the Alexandria, VA area"
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": 16,
+    "google_rating": null,
+    "google_review_count": null,
+    "positive_themes": [
+      "Instructor quality and personalized attention \u2014 multiple reviewers highlight specific instructors by name (Clara, Avery, Dalton, Suvda) as patient, skilled, and warm; customers feel individually coached",
+      "Wedding dance preparation \u2014 consistently praised for helping couples craft custom, confidence-building wedding first dances; described as one of the best wedding prep experiences by multiple reviewers",
+      "Fun, welcoming studio atmosphere \u2014 reviewers describe an energetic, supportive environment suitable for all skill levels, including complete beginners",
+      "Perceived value \u2014 Groupon customers repeatedly note they felt they received strong value, with one reviewer calling the deal 'very good'"
+    ],
+    "negative_themes": [
+      "Upsell pressure \u2014 multiple reviewers note the Groupon session is used as a lead-gen funnel to sell larger, more expensive dance packages; one reviewer noted it 'does result in marketing to sell dance packages'",
+      "Sales culture embedded in lessons \u2014 Indeed employee reviews confirm instructors are expected to pitch and sell packages, which can feel off-putting to customers who just want to enjoy lessons"
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "Our teacher, Avery, was so wonderful, really getting to know us and help us craft an easy yet beautiful wedding first dance.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "Grea place, great energy and great teachers! Clara was our instructor and she is phenomenal!",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "The entire staff at Arthur Murray on Duke Street in Alexandria are some of the kindest and most supportive people we've worked with.",
+        "source": "threebestrated.com"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Does result in marketing to sell dance packages.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "It's also a big sales job just to warn those who aren't comfortable in those roles.",
+        "source": "indeed (employee review)"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 59.0,
+    "direct_booking_price": null,
+    "competitor_avg_price": 85.0,
+    "is_good_deal": true,
+    "discount_vs_direct": null,
+    "discount_vs_competitors": 30.6,
+    "original_price_credibility": "inflated",
+    "assessment": "At $59 for 2 private lessons + 1 group class + 1 practice session, the Groupon price is a genuine bargain versus market rates: individual private lessons in Alexandria run $79\u2013$115/hr at comparable studios, making the implied per-session value compelling. However, the listed 'original price' of $250 is not verifiable from Arthur Murray Alexandria's public pricing (no menu is published), and $250 for this introductory bundle is almost certainly inflated to manufacture the 79% discount optic \u2014 a common Groupon pattern. The real discount vs. actual competitor single-lesson rates is still meaningful (~30\u201340%), but buyers should know the Groupon is explicitly an introductory offer designed to convert them to high-priced packages (which can run into hundreds or thousands of dollars)."
+  },
+  "content_gaps": [
+    {
+      "gap": "No lesson duration specified",
+      "why_it_matters": "Customers cannot assess value without knowing if private lessons are 30, 45, or 60 minutes each \u2014 this is the single most important pricing comparison variable",
+      "priority": "high"
+    },
+    {
+      "gap": "No dance styles listed for the Groupon package",
+      "why_it_matters": "The studio teaches 29+ styles (ballroom, swing, Latin, country western, etc.) but the deal page does not specify which styles are available in the intro package, leaving customers uncertain about fit",
+      "priority": "high"
+    },
+    {
+      "gap": "Upsell/sales pitch not disclosed",
+      "why_it_matters": "Multiple reviews confirm attendees are pitched expensive long-term packages at their lesson; transparency would reduce post-visit negative sentiment and buyer surprise, especially for deal-seekers who have no intention of committing to ongoing lessons",
+      "priority": "high"
+    },
+    {
+      "gap": "Exact studio address and parking details",
+      "why_it_matters": "The Groupon page vaguely states 'patrons can find places to park in the area' but provides no specifics; the studio appears to have relocated (Yelp lists 6489 Little River Turnpike; official site lists 3223 Duke St Suite B1) \u2014 address ambiguity will cause confusion",
+      "priority": "high"
+    },
+    {
+      "gap": "Instructor credentials and certification info",
+      "why_it_matters": "Competitors like Dance Studio Lioudmila and Art of Ballroom actively showcase instructor credentials; Arthur Murray's deal page only says 'trained instructors,' which is vague and does not inspire confidence in comparison",
+      "priority": "medium"
+    },
+    {
+      "gap": "Whether the deal is per person or per couple",
+      "why_it_matters": "A major audience segment is wedding couples; it is entirely unclear if $59 covers one person or both partners \u2014 this ambiguity could deter the most motivated buyer segment",
+      "priority": "high"
+    },
+    {
+      "gap": "Voucher expiration / redemption window",
+      "why_it_matters": "Fine print does not state how long the voucher is valid; this is a common source of customer frustration and disputes on Groupon deals",
+      "priority": "medium"
+    },
+    {
+      "gap": "What to wear / what to bring",
+      "why_it_matters": "First-time dance students often don't know whether to bring dance shoes, wear specific attire, or arrive early; this practical info reduces friction and no-shows",
+      "priority": "medium"
+    },
+    {
+      "gap": "No before/after testimonial photos or video",
+      "why_it_matters": "The merchant website references a video about dance lessons but nothing appears on the Groupon page; visual social proof is highly persuasive for a performance-based activity",
+      "priority": "medium"
+    },
+    {
+      "gap": "Group class schedule / frequency not specified",
+      "why_it_matters": "The package includes 1 group class but no information on when group classes are held, how large they are, or what style is taught \u2014 customers may find scheduling difficult post-purchase",
+      "priority": "medium"
+    },
+    {
+      "gap": "Cancellation / rescheduling policy details",
+      "why_it_matters": "Fine print only says 'merchant's standard cancellation policy applies' with no specifics; customers who need to reschedule will be uncertain about their rights and potential fees",
+      "priority": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Arthur Murray Dance Centers - Yelp Alexandria",
+      "url": "https://www.yelp.com/biz/arthur-murray-dance-centers-alexandria-2",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Arthur Murray Dance Studio DC - Groupon Business Page",
+      "url": "https://www.groupon.com/biz/alexandria/arthur-murray-dance-studio-dc",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Arthur Murray Dance Studio (Quaker Hill) - Groupon Business Page",
+      "url": "https://www.groupon.com/biz/alexandria/arthur-murray-dance-studio-quaker-hill",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Arthur Murray Alexandria - Official Website",
+      "url": "https://arthurmurrayalexandria.com/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Arthur Murray Alexandria - Reviews Page",
+      "url": "https://arthurmurrayalexandria.com/arthur-murray-reviews/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "3 Best Dance Schools in Alexandria, VA - ThreeBestRated.com",
+      "url": "https://threebestrated.com/dance-schools-in-alexandria-va",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Alexandria Ballroom - Private Lessons Pricing",
+      "url": "https://www.alexandriaballroom.com/private-lessons",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Art of Ballroom Dance - Dance Lesson Rates (Alexandria VA)",
+      "url": "https://www.artofballroomdance.com/rates-for-dance-lessons",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Metropolitan School of the Arts - Adult Dance Pricing",
+      "url": "https://metropolitanarts.org/move/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Lessons.com - Best Dance Classes in Alexandria VA (2025)",
+      "url": "https://lessons.com/va/alexandria/dance-classes/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Dance Studio Lioudmila - Ballroom & Latin Dance Classes Alexandria VA",
+      "url": "https://www.dancestudiolioudmila.com/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "The Knot - Wedding Dance Lessons Alexandria VA",
+      "url": "https://www.theknot.com/marketplace/wedding-dance-lessons-alexandria-va",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Arthur Murray Dance Center - Indeed Employee Reviews",
+      "url": "https://www.indeed.com/cmp/Arthur-Murray-Dance-Center/reviews",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Arthur Murray Alexandria - Facebook Page",
+      "url": "https://www.facebook.com/ALEXANDRIAAMV/",
+      "accessed_for": "reputation"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "Google rating for the specific Alexandria location could not be confirmed from search results \u2014 Yelp shows 16 reviews but no aggregate star rating was returned in the snippet. The Yelp listing appears to reference an older address (6489 Little River Turnpike) while the official website and Arthur Murray corporate site now list 3223 Duke St Suite B1 \u2014 this address discrepancy may indicate a relocation and should be verified. Arthur Murray does not publish direct booking prices on its website (consistent with franchise norm of custom quoting), so direct price comparison is not possible and the $250 'original price' cannot be independently verified. Competitor prices cited are for individual/standalone lesson sessions, which is not a perfectly equivalent comparison to the Groupon bundle (2 private + 1 group + 1 practice), but they are the best available market benchmarks. The upsell dynamic is well-documented across multiple independent review sources and should be treated as confirmed."
+}

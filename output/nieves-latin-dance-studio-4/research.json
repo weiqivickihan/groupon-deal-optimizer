@@ -1,0 +1,243 @@
+{
+  "merchant_name": "Nieves Latin Dance Studio",
+  "city": "New York City",
+  "category": "activities",
+  "competitor_pricing": {
+    "low": 22.78,
+    "high": 120.0,
+    "currency": "USD",
+    "notes": "NYC salsa/bachata class pricing varies widely. Single drop-in group classes typically run $20\u2013$35; monthly unlimited memberships at comparable studios range from ~$100\u2013$175/month at retail. Ballet Hispanico charges $205 for a 9-class series (~$22.78/class). Nieves' own retail pricing implies ~$120/month for unlimited (averaging ~$30/week per their own site).",
+    "competitors": [
+      {
+        "name": "Ballet Hispanico Adult Classes",
+        "price_range": "$205 / 9 classes (~$22.78/class)",
+        "source": "https://www.ballethispanico.org/school/additional-learning/adult-classes",
+        "notes": "9-class Saturday series (salsa, flamenco, etc.) on the Upper West Side; professionally credentialed instructors including Broadway-level talent."
+      },
+      {
+        "name": "Salsa Salsa Dance Studio (Brooklyn)",
+        "price_range": "Not publicly listed; drop-in + monthly packages available",
+        "source": "https://www.salsasalsadancestudio.com/pricing",
+        "notes": "Downtown Brooklyn competitor with 21+ weekly classes in salsa, bachata, cha-cha, and hustle. Offers drop-in and monthly packages; couples and senior discounts. Exact prices not published on site."
+      },
+      {
+        "name": "BAILA Society NYC",
+        "price_range": "~$25\u2013$35/class drop-in (estimated from class-booking context)",
+        "source": "https://www.bailasociety.com/nyc-salsa-classes/",
+        "notes": "NYC-style (On2/mambo) salsa classes at multiple Manhattan venues (Peridance, Ailey Extension, Navatman). Pay-when-you-arrive or pre-register; led by instructor with 21+ years professional teaching experience."
+      },
+      {
+        "name": "Nieves Latin Dance Studio (direct/retail)",
+        "price_range": "~$120/month unlimited (implied from site: 'averages ~$30/week')",
+        "source": "https://nievesdancestudio.com/pricing/",
+        "notes": "Studio's own pricing page states unlimited classes average ~$30/week, implying ~$120/month retail. This is the benchmark for the Groupon 'original price' claim of $100 for unlimited."
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": 53,
+    "google_rating": null,
+    "google_review_count": null,
+    "positive_themes": [
+      "Welcoming, community-like atmosphere: Reviewers describe the studio as feeling like 'a community or a family,' with many students becoming repeat members. Staff and instructors are consistently praised for making all levels feel comfortable.",
+      "Instructor quality and patience: Instructors are described as passionate, helpful, and patient\u2014particularly praised for breaking down steps clearly. Specific instructor 'Kathy' is called out by name for clarity and patience.",
+      "No-partner-required format: Multiple sources highlight that classes are inclusive and do not require a partner, lowering the barrier to entry for solo attendees.",
+      "Strong value perception: Customers and review aggregators flag affordable pricing relative to quality, with reviews noting the 'value is incredible' even for group classes.",
+      "Social events and practice opportunities: The studio hosts weekly socials (e.g., Wednesday practice socials and Friday night events) that give students real-world practice outside of structured lessons."
+    ],
+    "negative_themes": [
+      "Slow pacing / lack of intensity: Multiple sources mention that classes can feel slow or too easy for those with some prior experience, particularly intermediate/advanced dancers.",
+      "Crowding during Groupon periods: At least one Groupon reviewer notes classes can feel 'slightly crowded as it's a group lesson,' suggesting voucher volume may affect class size and quality.",
+      "Organizational/management issues: A minority of reviews mention occasional organizational hiccups, disruptions during performances, and temporary negative impact from management changes."
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "From the front desk to the dance floor instructors; everyone in this studio were amazing. Patient with everyone and made me feel at home.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "Great deal on unlimited classes in multiple studios across the city.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "The instructor was clear, easy to follow, and kept things moving at a good pace.",
+        "source": "yelp"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Slightly crowded as it's a group lesson but value is incredible.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Really love the classes, though they can feel a bit slow at times.",
+        "source": "coursehorse"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 35.0,
+    "direct_booking_price": 120.0,
+    "competitor_avg_price": 100.0,
+    "is_good_deal": true,
+    "discount_vs_direct": 66.7,
+    "discount_vs_competitors": 60.0,
+    "original_price_credibility": "inflated",
+    "assessment": "The Groupon unlimited-month deal at $40 is a legitimate bargain relative to the NYC market, where comparable unlimited monthly memberships at dance studios typically run $100\u2013$175+. However, the stated 'original price' of $100 for unlimited classes is likely understated compared to Nieves' own site implying ~$120/month, making the true discount even deeper than advertised\u2014but it also raises a flag that the $100 'original' may be a promotional/introductory price rather than a true regular retail rate, which is a common Groupon pricing credibility issue. The 4-class package at $35 is strong value at ~$8.75/class vs. the NYC market average of $20\u2013$35/class drop-in. Overall, this is a genuinely competitive deal, but buyers should note the Groupon fine print includes a 'new students only' restriction on some related Nieves deals and a hard 30-day expiration window tied to class cycle start dates."
+  },
+  "content_gaps": [
+    {
+      "gap": "Exact studio location(s) covered by this specific voucher",
+      "why_it_matters": "Nieves operates 4\u20135 NYC locations (Brooklyn/Williamsburg, Bronx, Manhattan, Queens). The deal page does not specify which locations accept this voucher, which is critical for commuters making a purchase decision.",
+      "priority": "high"
+    },
+    {
+      "gap": "New-student-only restriction not clearly disclosed",
+      "why_it_matters": "Other Nieves Groupon deals (e.g., Bronx listing) explicitly state 'Offer valid only for new students with no prior class attendance.' This deal's fine print only says 'Limit 1 per person,' but the restriction likely applies. Omitting this misleads returning students who may purchase and be denied redemption.",
+      "priority": "high"
+    },
+    {
+      "gap": "Class cycle start date requirement",
+      "why_it_matters": "Related Nieves deals specify 'class cycles start the first week of each new month' and 'customers cannot use voucher in the middle of a class cycle.' If this applies, buyers purchasing mid-month could lose weeks of their paid month. This is not disclosed in the current fine print.",
+      "priority": "high"
+    },
+    {
+      "gap": "Instructor credentials and bios",
+      "why_it_matters": "Instructor quality is the #1 positive theme in reviews, yet the deal page provides zero information on who teaches, their backgrounds, or their experience level. This directly impacts purchase confidence.",
+      "priority": "high"
+    },
+    {
+      "gap": "Class schedule / days and times available",
+      "why_it_matters": "Buyers need to know if class times fit their schedule before purchasing. The deal references checking the 'online schedule' but does not embed or summarize it, adding friction and risk of post-purchase disappointment.",
+      "priority": "high"
+    },
+    {
+      "gap": "What to wear / what to bring",
+      "why_it_matters": "First-time dance class attendees commonly ask about footwear (dance shoes vs. sneakers), appropriate clothing, and whether any equipment or water is available. Absence of this info increases pre-class anxiety.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Parking and transit information",
+      "why_it_matters": "NYC visitors need to know subway/bus access and parking options near each location. Without an address even shown on the deal page, buyers must research independently.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Class size / student-to-instructor ratio",
+      "why_it_matters": "At least one reviewer flags crowding during Groupon periods. Transparency about typical class size (e.g., '10\u201320 students per session') helps set expectations and counters the crowding concern proactively.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Whether socials / practice events are included in the unlimited plan",
+      "why_it_matters": "The studio's own pricing page shows unlimited plans include socials (e.g., Wednesday practice social). If included in the Groupon deal, this significantly increases value\u2014but it is not mentioned anywhere on the deal page.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Before/after photos or short video of a class in action",
+      "why_it_matters": "The deal page lacks visual content showing actual class environment, floor space, and typical student experience. Visual social proof is a top conversion driver for activity-based deals.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Cancellation/rescheduling policy for individual classes",
+      "why_it_matters": "The fine print mentions 24-hour advance notice required on related deals. Buyers with unpredictable schedules need to know the penalty/flexibility for missing or changing a booked session.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Age range and whether the deal is adult-only",
+      "why_it_matters": "Related Nieves deals specify '13 or older.' This deal's highlights say 'for all experience levels' but omit age restrictions, which could mislead parents purchasing for younger children.",
+      "priority": "low"
+    },
+    {
+      "gap": "Waiver requirement",
+      "why_it_matters": "Other Nieves deals require signing a liability waiver before participation. Not disclosing this upfront can create friction at the studio and frustrate buyers expecting a frictionless first visit.",
+      "priority": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Nieves Latin Dance Studio \u2013 Pricing Page",
+      "url": "https://nievesdancestudio.com/pricing/",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Nieves Latin Dance Studio \u2013 Williamsburg Yelp Listing",
+      "url": "https://www.yelp.com/biz/nieves-latin-dance-studio-williamsburg",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Nieves Latin Dance Studio \u2013 Bronx Yelp Listing",
+      "url": "https://www.yelp.com/biz/nieves-latin-dance-studio-bronx",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Nieves Latin Dance Studio \u2013 Manhattan Yelp Listing",
+      "url": "https://www.yelp.com/biz/nieves-latin-dance-studio-new-york",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Nieves Latin Dance Studio \u2013 Wheree Aggregated Reviews",
+      "url": "https://nieves-latin-dance-studio.wheree.com/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Nieves Latin Dance Studio \u2013 Time Out NYC",
+      "url": "https://www.timeout.com/newyork/things-to-do/nieves-latin-dance-studio",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Nieves Latin Dance Studio \u2013 CareerCenters Overview",
+      "url": "https://www.careercenters.com/blog/nieves-latin-dance-studio",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Nieves Latin Dance Studio \u2013 Groupon Bronx Deal (comparable listing)",
+      "url": "https://www.groupon.com/deals/nieves-latin-dance-studio-bronx-6",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Nieves Latin Dance Studio \u2013 Groupon (main deal page reviewed)",
+      "url": "https://www.groupon.com/deals/nieves-latin-dance-studio-4",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Ballet Hispanico Adult Dance Classes",
+      "url": "https://www.ballethispanico.org/school/additional-learning/adult-classes",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Salsa Salsa Dance Studio \u2013 Pricing",
+      "url": "https://www.salsasalsadancestudio.com/pricing",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "BAILA Society NYC Salsa Classes",
+      "url": "https://www.bailasociety.com/nyc-salsa-classes/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "CourseHorse \u2013 Salsa Classes NYC",
+      "url": "https://coursehorse.com/nyc/classes/performing-arts/dance/salsa",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "CourseHorse \u2013 Nieves Latin Dance Studio School Page",
+      "url": "https://coursehorse.com/nyc/schools/kids/nieves-latin-dance-studio",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Nieves Latin Dance Studio \u2013 ClassPass Manhattan",
+      "url": "https://classpass.com/studios/nieves-latin-dance-studio-manhattan-new-york",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Free Salsa & Bachata in NYC 2026 \u2013 niredonahue.com",
+      "url": "https://niredonahue.com/free-salsa-bachata-classes-nyc/",
+      "accessed_for": "competitor"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "Yelp and Google numerical star ratings for Nieves could not be confirmed from search snippets \u2014 Yelp shows 53 reviews for the Williamsburg location but the aggregate star rating was not surfaced in results; Google rating similarly unavailable without direct scraping. Nieves' direct pricing page (nievesdancestudio.com/pricing) renders only a partial snippet ('averages ~$30/week') without itemized prices, making exact retail price verification difficult. Competitor pricing (Salsa Salsa Dance Studio) was also not fully published online and required estimation. The 'original price' of $100 for unlimited classes appears low relative to the studio's own ~$120/month implication, suggesting either a promotional baseline or intentional anchoring \u2014 flagged as 'inflated' accordingly. Note: some fine print details (new-student restriction, class cycle start dates, waiver requirement, age minimum) were sourced from other active Nieves Groupon listings and may or may not apply identically to this specific deal page; the deal team should verify with the merchant directly."
+}

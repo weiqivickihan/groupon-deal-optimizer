@@ -1,0 +1,204 @@
+{
+  "merchant_name": "Super Shine Car Wash",
+  "city": "Chicago",
+  "category": "automotive",
+  "competitor_pricing": {
+    "low": 25.0,
+    "high": 175.0,
+    "currency": "USD",
+    "notes": "Chicago-area hand car washes range from ~$25 for a basic exterior hand wash up to $75\u2013$175 for premium exterior detail on a sedan. Full interior+exterior detail packages typically run $150\u2013$300. Super Shine's Groupon wash prices ($31\u2013$45) sit near or slightly above the low end of the market for premium hand washes, while the exterior detail ($109 Groupon) is below the typical $150\u2013$175 market rate for comparable sedan detail services.",
+    "competitors": [
+      {
+        "name": "Chicago Shine Auto Detailing",
+        "price_range": "$25",
+        "source": "https://chicagoshine.com/car-wash/",
+        "notes": "Premium hand wash with tire dressing; exterior only, sedan pricing"
+      },
+      {
+        "name": "Milliren Mobile Detailing (Chicagoland)",
+        "price_range": "$75\u2013$95 (exterior wash), $150\u2013$195 (interior detail)",
+        "source": "https://www.millirenmobiledetailing.com/pricing",
+        "notes": "Mobile service; exterior car wash from $75, interior detailing from $150; prices vary by vehicle size; includes convenience premium for at-home service"
+      },
+      {
+        "name": "Panda Hub Mobile Detailing (Chicago)",
+        "price_range": "$80+ (full detail package)",
+        "source": "https://www.pandahub.com/car-detailing/chicago-il",
+        "notes": "Full car detailing starting at $80; includes exterior wash, vacuuming, interior wipe-down, windows; mobile service, vetted and insured detailers"
+      },
+      {
+        "name": "Logan Square Hand Car Wash & Detailing (Chicago, Groupon)",
+        "price_range": "$129+ (Groupon deal price)",
+        "source": "https://www.groupon.com/biz/chicago/logan-square-hand-car-wash-detailing",
+        "notes": "Comparable Chicago hand car wash & detail competitor on Groupon; interior+exterior detail, buff and wax, ceramic coating options available"
+      },
+      {
+        "name": "Illinois Market Average (exterior detail, sedan)",
+        "price_range": "$75\u2013$175",
+        "source": "https://www.pandahub.com/blog/average-cost-of-car-detailing-in-illinois",
+        "notes": "Exterior detailing in Illinois ranges $75\u2013$175 for a basic hand wash and wax on a sedan; Chicago-area providers typically at the higher end due to 15\u201330% urban cost premium"
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": null,
+    "google_rating": null,
+    "google_review_count": null,
+    "positive_themes": [
+      "Thorough cleaning \u2014 customer reviews on the Yelp search listing for the Bridgeview area describe the wash as highly thorough, covering interior and exterior nooks and crannies, with vacuuming and trash removal leaving cars smelling fresh",
+      "Fast and friendly service \u2014 the merchant's own website features a recent customer quote praising polite staff and fast turnaround; Facebook presence emphasizes 'fast, friendly, and efficient' service",
+      "Broad service range \u2014 the business specializes in hand washing, waxing, full auto detailing, paint correcting, polishing, ceramic coating, and exterior buffing, appealing to customers wanting a one-stop shop",
+      "Social media engagement \u2014 active TikTok presence with before/after content (e.g., full buff jobs on luxury vehicles like Mercedes) signals transparency and craftsmanship"
+    ],
+    "negative_themes": [
+      "Very low Groupon review volume \u2014 only 11 reviews on Groupon with a 3.8 rating signals limited verified customer feedback, making quality consistency hard to assess",
+      "Ambiguous establishment date \u2014 Yelp bio states 'Established in 2016' while the official website states 'Established in 2023,' creating a credibility inconsistency that may raise trust concerns",
+      "No publicly visible pricing on website \u2014 the merchant's website (supershinecarwashil.com) does not display a service menu or prices, which can frustrate customers trying to compare or verify Groupon deal value",
+      "Low social media following \u2014 Facebook page shows only 24 likes and 35 check-ins as of research date, indicating limited community presence and review depth"
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "Guys did a great job cleaning my car. Always polite and fast service!",
+        "source": "supershinecarwashil.com (website testimonial, Alina Kim, May 2026)"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "They were thorough!! They did the interior and exterior... really make sure they get every nook and cranny.",
+        "source": "yelp (Bridgeview area car wash search result, nearby Super Shine listing context)"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 31.0,
+    "direct_booking_price": null,
+    "competitor_avg_price": 87.5,
+    "is_good_deal": true,
+    "discount_vs_direct": null,
+    "discount_vs_competitors": 64.6,
+    "original_price_credibility": "credible",
+    "assessment": "The Groupon wash prices ($31\u2013$45) are below the typical Chicago-area premium hand wash range of $75\u2013$95 for mobile competitors and broadly in line with or below shop-based competitors, representing genuine value for a premium in/out wash. The exterior detail Groupon price of $109 for a sedan is well below the Chicago market range of $150\u2013$175 for comparable exterior-only detail services, making it a strong deal. The listed original prices ($39\u2013$149) appear credible against market benchmarks and are not obviously inflated \u2014 a $149 list price for an exterior sedan detail is consistent with the $75\u2013$175 Illinois market range, lending the stated discount percentages (28\u201334%) reasonable credibility."
+  },
+  "content_gaps": [
+    {
+      "gap": "No exact service inclusions listed for 'IN/OUT Premium Car Wash'",
+      "why_it_matters": "Customers cannot determine what 'IN/OUT' means (interior + exterior? specific steps?), what products are used, or how it differs from a basic wash. This ambiguity increases pre-purchase hesitation.",
+      "priority": "high"
+    },
+    {
+      "gap": "No before/after photos on the deal page",
+      "why_it_matters": "Visual proof of quality is the top conversion driver for detailing services. The merchant has TikTok before/after content but it is absent from the Groupon page where purchase decisions are made.",
+      "priority": "high"
+    },
+    {
+      "gap": "No mention of exact address or directions on the deal page",
+      "why_it_matters": "The merchant is located in Bridgeview, IL \u2014 a suburb about 12 miles southwest of downtown Chicago. Chicago-area Groupon shoppers may not realize the location is outside the city proper, leading to surprise or redemption drop-off.",
+      "priority": "high"
+    },
+    {
+      "gap": "No appointment/scheduling process explained",
+      "why_it_matters": "Customers need to know whether they must call, book online, or walk in \u2014 and what wait times to expect. Absence of this information is a top complaint category for car wash Groupon deals.",
+      "priority": "high"
+    },
+    {
+      "gap": "No cancellation or rescheduling policy",
+      "why_it_matters": "The 120-day repurchase restriction and 3-per-person limit suggests the deal has tight constraints, but no guidance is given for what happens if a customer needs to cancel or reschedule an appointment.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No clarification of what 'ceramic coating specialization' means in practice",
+      "why_it_matters": "The highlight mentions ceramic coating expertise, but the listed deals do not include a ceramic coating service option. This creates a disconnect \u2014 customers attracted by ceramic coating may be confused that it is not in the deal.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No staff credentials or training information",
+      "why_it_matters": "For a business emphasizing paint correction, ceramic coating, and premium finishes, customers want to know if technicians are certified (e.g., IDA-certified detailers). Lack of credentials reduces trust for higher-ticket upsell services.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No estimated service time or wait time listed",
+      "why_it_matters": "Customers need to plan their day around a car wash visit. Without estimated duration (e.g., 45 min for a wash, 2\u20133 hrs for a detail), customers cannot set expectations and may be dissatisfied by longer-than-expected waits.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No parking or drop-off instructions",
+      "why_it_matters": "First-time visitors to the Bridgeview location need to know lot size, whether they wait on-site, or if there is a shuttle/loaner option for longer detailing services.",
+      "priority": "low"
+    },
+    {
+      "gap": "No information on accepted payment methods or tipping norms",
+      "why_it_matters": "Customers often want to know if tips are expected and whether cash or card is accepted beyond Groupon redemption, especially for additional services purchased on-site.",
+      "priority": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "SUPER SHINE CAR WASH - Yelp (Bridgeview, IL)",
+      "url": "https://www.yelp.com/biz/super-shine-car-wash-bridgeview",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Super Shine Car Wash - Official Website",
+      "url": "https://supershinecarwashil.com/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Super Shine Car Wash - Facebook",
+      "url": "https://www.facebook.com/supershinecarwashil/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Super Shine Car Wash - TikTok",
+      "url": "https://www.tiktok.com/place/Super-Shine-Car-Wash-21568226288220630",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Car Wash Cost in Chicago, Illinois (2025) | USA Service Cost Directory",
+      "url": "https://citycostdata.com/city/chicago-illinois/car-wash/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "How Much Does Car Detailing Cost in Illinois? [2026 Price Guide] - Panda Hub",
+      "url": "https://www.pandahub.com/blog/average-cost-of-car-detailing-in-illinois",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Car Detailing Prices Chicago | Milliren Mobile Detailing",
+      "url": "https://www.millirenmobiledetailing.com/pricing",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Car Detailing Prices in Chicago: What to Expect in 2026 - Milliren",
+      "url": "https://www.millirenmobiledetailing.com/blog/car-detailing-prices-chicago",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Car Hand Wash \u2013 Chicago Shine Auto Detailing 2025",
+      "url": "https://chicagoshine.com/car-wash/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Logan Square Hand Car Wash & Detailing - Groupon Chicago",
+      "url": "https://www.groupon.com/biz/chicago/logan-square-hand-car-wash-detailing",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Premium Car Detailing In Chicago, IL: Detail With D",
+      "url": "https://detailwithd.net/",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Car Detailing Chicago, IL | Panda Hub",
+      "url": "https://www.pandahub.com/car-detailing/chicago-il",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Best Car Wash near Bridgeview, IL - Yelp",
+      "url": "https://www.yelp.com/search?cflt=carwash&find_loc=Bridgeview%2C+IL",
+      "accessed_for": "reputation"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "No numeric Yelp or Google star rating was surfaced for this specific Super Shine Car Wash (Bridgeview, IL) location \u2014 the Yelp page exists with 57 photos but the aggregate rating was not included in search snippets, and the Google rating could not be confirmed via search results. The Facebook page shows 'Not yet rated (1 Review)' as of research date. The Groupon rating of 3.8 (11 reviews) is the most reliable quantitative reputation signal available. Competitor pricing is based on 2025\u20132026 Chicagoland market data from multiple independent sources and is considered reliable for benchmarking. Direct booking prices from Super Shine's own website were not publicly listed, so discount-vs-direct could not be calculated. The establishment date discrepancy (2016 per Yelp bio vs. 2023 per official website) could not be resolved and warrants further investigation. All competitor price comparisons involve some service-type variability (mobile vs. shop-based) that may affect direct equivalency."
+}

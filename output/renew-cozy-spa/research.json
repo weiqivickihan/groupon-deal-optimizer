@@ -1,0 +1,245 @@
+{
+  "merchant_name": "Renew Cozy Spa",
+  "city": "New York, NY (Midtown Manhattan)",
+  "category": "spa/wellness",
+  "competitor_pricing": {
+    "low": 85.0,
+    "high": 200.0,
+    "currency": "USD",
+    "notes": "In Midtown Manhattan, 60-minute hot stone massages typically run $85\u2013$160 nationally, with NYC metro premium spas reaching $150\u2013$200. Nationally, large chains like Massage Envy charge $120\u2013$160 (non-member) and Hand & Stone charges $120\u2013$150 (non-member) for 60-minute hot stone sessions. CBD massage add-ons range from $10\u2013$40 extra at most spas.",
+    "competitors": [
+      {
+        "name": "Massage Envy (national chain, NYC locations)",
+        "price_range": "$120-$160",
+        "source": "https://thervo.com/costs/hot-stone-massage-cost",
+        "notes": "Non-member 60-min hot stone massage; members pay $90\u2013$140"
+      },
+      {
+        "name": "Hand & Stone (national chain)",
+        "price_range": "$120-$150",
+        "source": "https://thervo.com/costs/hot-stone-massage-cost",
+        "notes": "Non-member 60-min hot stone massage; members pay $90\u2013$130"
+      },
+      {
+        "name": "Viva Day Spa + Med Spa (comparable premium spa, non-NYC)",
+        "price_range": "$185-$245",
+        "source": "https://www.vivadayspa.com/treatments/massage/cbd-massage/",
+        "notes": "60-min CBD massage with hot stone spot treatment $185; 90-min $245 \u2014 indicates premium positioning for combined CBD+hot stone"
+      },
+      {
+        "name": "ZZ Day Spa (Midtown Manhattan, direct competitor)",
+        "price_range": "$120-$180 (est.)",
+        "source": "https://www.zzdayspa.com/hot-stone-massage-midtown-manhattan-ny",
+        "notes": "Highly-rated Midtown Manhattan spa (5 stars Yelp, 4.9 Google, 6,000+ reviews) offering hot stone and aromatherapy massages; exact menu price not publicly listed but positioned as a premium local competitor"
+      },
+      {
+        "name": "Bangkok Fortune Thai Massage & Waxing Spa (Midtown Manhattan)",
+        "price_range": "Not publicly listed",
+        "source": "https://bangkokfortune.com/hot-stone-massage-nyc/",
+        "notes": "Midtown Manhattan spa near Penn Station/Times Square offering hot stone massage with aromatherapy pairings; markets 'competitive pricing' but menu not indexed"
+      },
+      {
+        "name": "Dyanna Spa (Murray Hill / Midtown Manhattan)",
+        "price_range": "Not publicly listed",
+        "source": "https://dyannaspa.com/service/hot-stone-massage-manhattan-ny/",
+        "notes": "Two Manhattan locations offering hot stone massage; pricing not indexed online"
+      },
+      {
+        "name": "Market Benchmark \u2014 High-demand NYC metro spas (general)",
+        "price_range": "$150-$200",
+        "source": "https://sofia-health.com/c/hot-stone-massage-cost/",
+        "notes": "High-demand metro areas or luxury spas typically charge $150\u2013$200 per session for hot stone treatments"
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": 14,
+    "google_rating": null,
+    "google_review_count": null,
+    "positive_themes": [
+      "Clean, comfortable, and relaxing environment \u2014 reviewers note modern decor, private rooms, and a quiet calm atmosphere",
+      "Professional and skilled therapists \u2014 customers highlight therapist quality and technique (e.g., named therapist 'Mike' and 'Bella' praised by name on Groupon and Atly)",
+      "Friendly and caring staff \u2014 Groupon reviews note the team is welcoming and attentive",
+      "Reasonable pricing \u2014 Atly user reviews describe prices as fair for the service quality"
+    ],
+    "negative_themes": [
+      "Very limited public review footprint \u2014 only 14 Yelp reviews and no Google rating indexed, making reputation hard to verify independently outside Groupon's closed review system",
+      "No reviews on ClassPass or Setmore booking platform \u2014 suggests limited organic customer engagement beyond Groupon channel",
+      "Yelp page age and low review volume may indicate a relatively new or under-marketed business"
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "This place was professional, beautiful, clean and relaxing.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "The staff was friendly and caring. Mike gave the best massage.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "The technicians in this shop are all very professional.",
+        "source": "atly"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "Spa offers clean, modern decor with comfortable tables and chairs in private rooms.",
+        "source": "atly"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Be the first to review us and share insights about your experience.",
+        "source": "setmore (direct booking page \u2014 zero organic reviews posted)"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 65.0,
+    "direct_booking_price": null,
+    "competitor_avg_price": 130.0,
+    "is_good_deal": true,
+    "discount_vs_direct": null,
+    "discount_vs_competitors": 50.0,
+    "original_price_credibility": "credible",
+    "assessment": "At $65\u2013$90, the Groupon prices are meaningfully below the NYC metro market average of $120\u2013$160 for comparable 60\u201390 minute hot stone massages at national chains (Massage Envy, Hand & Stone), and well below the $150\u2013$200 range typical of Midtown Manhattan premium spas. The listed 'original prices' of $120\u2013$158 align closely with real market rates, lending them credibility \u2014 this does not appear to be a case of artificially inflated list prices. The deal represents genuine value, particularly for a Midtown Manhattan location, though the lack of a publicly accessible direct-booking price menu prevents a precise direct-booking discount calculation."
+  },
+  "content_gaps": [
+    {
+      "gap": "No Yelp or Google star rating displayed or linkable",
+      "why_it_matters": "With only 82 Groupon reviews (a closed, solicited system), buyers cannot independently verify reputation. Yelp shows only 14 reviews with no visible star rating; Google rating is not indexed. High-intent spa buyers routinely cross-check Google/Yelp before purchasing.",
+      "priority": "high"
+    },
+    {
+      "gap": "Exact street address and neighborhood context missing from deal highlights",
+      "why_it_matters": "The spa is at 34 W 36th St in Midtown Manhattan (near Herald Square/Empire State Building), but this is not called out in the deal copy. NYC buyers heavily weight proximity to transit and landmarks when choosing a spa.",
+      "priority": "high"
+    },
+    {
+      "gap": "No cancellation or rescheduling policy details on deal page",
+      "why_it_matters": "Competing Midtown spas (e.g., ZZ Day Spa) prominently publish '24-hour cancellation required; same-day appointments non-refundable' policies. Customers booking a Groupon need to know the rules before paying, especially since a 30-day repurchase restriction applies.",
+      "priority": "high"
+    },
+    {
+      "gap": "No therapist credentials or licensing information",
+      "why_it_matters": "For a CBD and hot stone service, buyers want to know if therapists are licensed massage therapists (LMTs). The deal page says nothing about staff qualifications. Competitors like Viva Day Spa explicitly note state certification for CBD treatments.",
+      "priority": "high"
+    },
+    {
+      "gap": "Service inclusions are vague \u2014 what exactly is included in each option?",
+      "why_it_matters": "The deal lists 'with Hot Stone' and 'with Aromatherapy' but does not clarify whether stones are used throughout or only as spot treatment, what CBD oil brand/concentration is used, and whether aromatherapy is a scent diffuser or applied oil. Customers comparison-shopping need specifics.",
+      "priority": "high"
+    },
+    {
+      "gap": "No before/after photos or interior spa photos on the deal page",
+      "why_it_matters": "The Yelp listing only has 13 photos and the deal page relies on stock-style imagery. Visual proof of the actual spa environment is a major trust signal for first-time buyers spending $65\u2013$90.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Tipping expectations not disclosed",
+      "why_it_matters": "Industry standard is 15\u201320% gratuity and it is typically not included in Groupon price. NYC spa customers \u2014 especially tourists \u2014 are often surprised. Proactive disclosure reduces post-visit negative reviews about hidden costs.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Parking and transit instructions absent",
+      "why_it_matters": "Midtown Manhattan has limited parking and heavy foot traffic. Customers \u2014 especially those visiting from outside NYC \u2014 benefit from knowing the nearest subway lines (B/D/F/M/N/Q/R/W at 34th St\u2013Herald Square) and any arrival/check-in instructions.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No information about what to bring, wear, or expect pre/post massage",
+      "why_it_matters": "First-time spa-goers and hot stone / CBD massage newcomers often ask about nudity, draping, whether to shower before/after, or water intake recommendations. This content reduces anxiety and improves experience perception.",
+      "priority": "medium"
+    },
+    {
+      "gap": "CBD product sourcing and FDA disclaimer buried in fine print",
+      "why_it_matters": "The Groupon page includes an FDA disclaimer ('not intended to diagnose, treat, cure or prevent any disease') but provides no detail on the CBD product used (brand, hemp-derived, THC-free status). Health-conscious buyers and those subject to drug testing need this information.",
+      "priority": "medium"
+    },
+    {
+      "gap": "No information on room type (private vs. shared) or spa amenities",
+      "why_it_matters": "Third-party review aggregators note the spa has private rooms, but this is not stated on the deal page. Private rooms are a meaningful differentiator vs. open-floor reflexology spas in NYC and should be highlighted.",
+      "priority": "low"
+    },
+    {
+      "gap": "No mention of booking lead time or availability constraints",
+      "why_it_matters": "With 820+ units sold, new buyers should know if same-day or next-day bookings are typically available, or if they need to plan weeks ahead. This manages post-purchase expectations and reduces negative reviews about scheduling difficulty.",
+      "priority": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "RENEW COZY SPA - Yelp (14 reviews, 34 W 36th St, New York)",
+      "url": "https://www.yelp.com/biz/renew-cozy-spa-new-york",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Renew Cozy Spa - Groupon Business Page",
+      "url": "https://www.groupon.com/biz/long-island-city-ny/renew-cozy-spa",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Renew Cozy Spa - Atly Review Aggregator",
+      "url": "https://www.atly.com/location/RenewCozySpa",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Renew Cozy Spa - Setmore Direct Booking Page",
+      "url": "https://renewcozyspa.setmore.com/",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Renew Cozy Spa - Official Website",
+      "url": "https://www.renewcozyspa.com/",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "How Much Does a Hot Stone Massage Cost? (2026) - Thervo",
+      "url": "https://thervo.com/costs/hot-stone-massage-cost",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "How Much Does a Massage Cost? (2026) - Thervo",
+      "url": "https://thervo.com/costs/massage-prices",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Average Hot Stone Massage Cost - Sofia Health",
+      "url": "https://sofia-health.com/c/hot-stone-massage-cost/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "CBD Massage Pricing - Viva Day Spa + Med Spa (Austin/Dallas TX)",
+      "url": "https://www.vivadayspa.com/treatments/massage/cbd-massage/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "ZZ Day Spa - Hot Stone Massage Midtown Manhattan",
+      "url": "https://www.zzdayspa.com/hot-stone-massage-midtown-manhattan-ny",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Bangkok Fortune Thai Massage & Waxing Spa - Hot Stone NYC",
+      "url": "https://bangkokfortune.com/hot-stone-massage-nyc/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Dyanna Spa - Hot Stone Massage Manhattan",
+      "url": "https://dyannaspa.com/service/hot-stone-massage-manhattan-ny/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "How Much Does a Hot Stone Massage Cost? - Blys",
+      "url": "https://getblys.com/us/blog/hot-stone-massage-cost-guide/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "ClassPass - Hot Stone Massage Manhattan",
+      "url": "https://classpass.com/search/manhattan/hot-stone-massage",
+      "accessed_for": "competitor"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "The city was not specified in the deal info ('the city'), but the merchant's address (34 W 36th St, Manhattan, NY 10018) was confirmed via Yelp, Setmore, and the Groupon business page \u2014 all research was conducted for New York City / Midtown Manhattan. Yelp shows 14 reviews but the star rating was not rendered in search snippets; a Yelp rating of null is used rather than guessing. Google rating was not found in any indexed source. The direct-booking price could not be confirmed as the merchant's Setmore page lists no prices and the official website (renewcozyspa.com) does not display a public menu. Competitor exact prices for closest Midtown Manhattan equivalents (ZZ Day Spa, Dyanna Spa, Bangkok Fortune) were not publicly listed in search results, so market benchmarks from Thervo (2026), Sofia Health (2026), and Blys (AMTA data) were used instead. Confidence is medium due to the absence of a verified direct-booking price, a confirmed Google rating, and exact competitor menu prices from the immediate Midtown market."
+}

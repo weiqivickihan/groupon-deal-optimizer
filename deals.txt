@@ -1,0 +1,52 @@
+# Groupon Deal URLs — one per line. Lines starting with # are ignored.
+# 20 deals · 3 cities (NYC, Chicago, DC) · 4 categories
+
+# ── NYC ───────────────────────────────────────────────────────────────────────
+
+# Spa/Wellness
+https://www.groupon.com/deals/renew-cozy-spa?redemptionLocationId=8a16b1fa-000a-b0c4-0d6c-0192fea79982
+https://www.groupon.com/deals/the-spa-club-3?redemptionLocationId=a7c29df9-0008-ba48-8804-018721a36a35
+
+# Health & Beauty
+https://www.groupon.com/deals/zeno-hair-studio-18?redemptionLocationId=ad821b03-7dba-b814-3038-01557978a261
+https://www.groupon.com/deals/harumi-salon-1-3?redemptionLocationId=a4ba30fc-6a40-bed3-9b7d-017427c148d6
+
+# Activities
+https://www.groupon.com/deals/nieves-latin-dance-studio-4?redemptionLocationId=fbcc74d5-0008-b145-9f9f-01902c66161c
+https://www.groupon.com/deals/body-pole-3?redemptionLocationId=5f742ff6-4780-b06a-747e-013a91351c0b
+
+# Automotive
+https://www.groupon.com/deals/merrick-tire-center-1?redemptionLocationId=0466c4f7-2776-bfd9-37c8-017531d48e0a
+
+# ── Chicago ───────────────────────────────────────────────────────────────────
+
+# Spa/Wellness
+https://www.groupon.com/deals/wu-couple-spa-1?redemptionLocationId=e13ebc35-1787-bfd9-37c8-016adb29536d
+https://www.groupon.com/deals/heavenly-massage-12?redemptionLocationId=acf4af41-1b49-bed3-9b7d-016d16c1cabb
+
+# Health & Beauty
+https://www.groupon.com/deals/salon-1181llc-5?redemptionLocationId=853c93fb-2a2e-b1fa-d5e8-01751e4a4599
+https://www.groupon.com/deals/xex-hair-gallery-11?redemptionLocationId=4fc6f7ff-5c26-b06a-9298-013addc5ae7e
+
+# Activities
+https://www.groupon.com/deals/latin-rhythms-dance?redemptionLocationId=664eab33-039e-b06a-9298-013a8fdf43ba
+https://www.groupon.com/deals/desarge-danceworld?redemptionLocationId=31e9d0fb-4cc1-b06a-768a-013f1ae893d4
+
+# Automotive (weak deal — bad reviews)
+https://www.groupon.com/deals/super-shine-car-wash-12?redemptionLocationId=a9b94dfc-000b-bb24-fc07-0195d913cfd9
+
+# ── Washington DC ─────────────────────────────────────────────────────────────
+
+# Spa/Wellness (weak deal — low ratings)
+https://www.groupon.com/deals/illa-spa-13-17?redemptionLocationId=52d613fa-3750-b06a-768b-0151c8845989
+
+# Health & Beauty
+https://www.groupon.com/deals/black-bella-dc-body-sculpting-24?redemptionLocationId=6487c9fb-0008-b38b-2c96-018c1287cbdc
+https://www.groupon.com/deals/refills-health-goods
+
+# Activities
+https://www.groupon.com/deals/climbzone-laurel?redemptionLocationId=ccffdefe-0008-bd7e-d441-018e81b228d6
+https://www.groupon.com/deals/arthur-murray-alexandria-7?redemptionLocationId=4f3371fa-0008-b36e-1516-018217224baa
+
+# Automotive
+https://www.groupon.com/deals/shine-my-ride-8?redemptionLocationId=437775fc-41eb-b06a-768b-014b836c2c7f

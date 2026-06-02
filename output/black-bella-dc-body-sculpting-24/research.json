@@ -1,0 +1,201 @@
+{
+  "merchant_name": "Black Bella Dc Body Sculpting",
+  "city": "Washington DC",
+  "category": "health & beauty",
+  "competitor_pricing": {
+    "low": 600.0,
+    "high": 1200.0,
+    "currency": "USD",
+    "notes": "Venus Bliss laser lipolysis treatments in the DC/MD/VA metro area range from approximately $600\u2013$1,200 per session at comparable medspas and body contouring centers. Epic MedSpa charges $1,200 for the first Venus Bliss session and $1,000 for additional sessions; LightRx Alexandria also offers Venus Bliss but does not publish flat per-session pricing publicly. The DC area market for non-invasive laser lipolysis is generally premium-priced.",
+    "competitors": [
+      {
+        "name": "Epic MedSpa",
+        "price_range": "$1,000\u2013$1,200",
+        "source": "https://www.epicmedspa.com/fat-reduction-emsculpt-neo-venus-bliss-exion-body",
+        "notes": "First Venus Bliss session $1,200/area (includes 2 complimentary Venus Legacy sessions); additional sessions $1,000 each. Includes skin tightening add-ons."
+      },
+      {
+        "name": "LightRx MedSpa (Alexandria, VA \u2014 serves DC metro)",
+        "price_range": "Not publicly listed; custom quotes",
+        "source": "https://www.lightrx.com/locations/alexandria/laser-lipo/",
+        "notes": "Offers Venus Bliss laser lipolysis; pricing requires consultation. Located minutes from Washington DC in Northern Virginia."
+      },
+      {
+        "name": "Capital Aesthetic + Laser Center (DC)",
+        "price_range": "$1,500\u2013$7,500",
+        "source": "https://capitalaestheticdc.com/laser-lipo-cost-in-dc-how-much-you-can-expect-to-pay/",
+        "notes": "DC-area laser lipolysis ranges broadly; non-surgical laser lipolysis in the DC market is cited at $1,500\u2013$7,500 depending on provider and treatment extent."
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": null,
+    "yelp_review_count": 14,
+    "google_rating": null,
+    "google_review_count": null,
+    "positive_themes": [
+      "Exceptional customer service and welcoming staff \u2014 Groupon reviewers frequently praise the warm, professional environment: 'The atmosphere is positive, the staff are professionals, and the sessions actually help you to accomplish your body goals.'",
+      "Visible results for body contouring \u2014 Clients report tangible physical improvements: 'I see the transformation in my stomach and booty. Just try it.'",
+      "High comfort level and knowledgeable practitioners \u2014 Reviewers note staff expertise and making clients feel at ease: 'Jo made me feel so comfortable. She's knowledgeable and is so friendly.'",
+      "Clean, modern, and luxurious facility \u2014 Multiple reviewers cite 'beautiful and relaxing environment' and praise the spa's aesthetics."
+    ],
+    "negative_themes": [
+      "Limited Yelp review volume \u2014 Only 14 Yelp reviews found, making it difficult to identify a strong pattern of complaints from that platform.",
+      "No-show/cancellation fee risk \u2014 Fine print and Groupon policy note that missed or non-cancelled appointments are counted as a full session or a fee is assessed, which has caused frustration for some customers per Groupon policy disclosures.",
+      "Location note \u2014 The spa is physically located in Lanham/Glenarden, MD (not Washington DC proper), which may surprise customers who search for DC-based services."
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "The experience was amazing and the customer service is top tier. Can't wait to go back.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "My second home away from home! The atmosphere is positive, the staff are professionals.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "They genuinely care about you here and make you feel welcome.",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Any missed or non-cancelled appointment will be counted as a full treatment session or fee will be assessed.",
+        "source": "groupon fine print"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 414.0,
+    "direct_booking_price": null,
+    "competitor_avg_price": 1100.0,
+    "is_good_deal": true,
+    "discount_vs_direct": null,
+    "discount_vs_competitors": 62.4,
+    "original_price_credibility": "credible",
+    "assessment": "The Groupon price of $414 per session (38% off $600) appears to be a genuinely competitive deal. The closest comparable Venus Bliss provider found (Epic MedSpa) charges $1,000\u2013$1,200 per session, making the Groupon price roughly 62% below market for equivalent technology. The stated original price of $600 is also realistic and credible relative to the DC/MD/VA market, suggesting the 'original price' is not artificially inflated \u2014 it falls at or below local competitors rather than above. The 2-session package at $599 (vs. $999 list) represents even stronger value at roughly $300/session."
+  },
+  "content_gaps": [
+    {
+      "gap": "Exact physical address and location clarity",
+      "why_it_matters": "The Groupon deal is listed under 'Washington DC' but the spa's actual address is in Lanham/Glenarden, MD (suburb). Customers may feel misled about distance and commute, especially those without a car.",
+      "priority": "high"
+    },
+    {
+      "gap": "Parking and transit information",
+      "why_it_matters": "Customers need to know how to get there. The merchant website mentions proximity to the New Carrollton Metro station and Purple Line, but this is absent from the Groupon page.",
+      "priority": "high"
+    },
+    {
+      "gap": "Number of areas/applicators included per session",
+      "why_it_matters": "Competitors like Epic MedSpa price per treatment area. Customers need to know if the $414 covers one area (e.g., abdomen only) or multiple areas (flanks + abdomen), as this significantly affects perceived value.",
+      "priority": "high"
+    },
+    {
+      "gap": "Staff credentials and training background",
+      "why_it_matters": "Venus Bliss MAX is a medical-grade device. Customers want assurance that practitioners are certified. The Groupon page does not mention practitioner credentials or certifications, which is especially important given the merchant also runs a body sculpting training academy.",
+      "priority": "high"
+    },
+    {
+      "gap": "Session duration and what to expect during the appointment",
+      "why_it_matters": "A standard Venus Bliss treatment takes approximately 25 minutes per area. The consultation may add time. Customers need realistic scheduling expectations, especially first-timers.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Before/after photos specific to Venus Bliss MAX results",
+      "why_it_matters": "Before/after imagery is among the top conversion drivers for body contouring deals. The merchant website mentions a 'Before & After Pics' page but this content is not surfaced on the Groupon deal page.",
+      "priority": "high"
+    },
+    {
+      "gap": "BMI eligibility and contraindications",
+      "why_it_matters": "Venus Bliss is FDA-cleared only for individuals with a BMI of 30 or less. The deal mentions a consultation and refund if ineligible, but does not explain WHY someone might be ineligible. This sets clearer expectations upfront and reduces wasted consultations.",
+      "priority": "high"
+    },
+    {
+      "gap": "Detailed cancellation and rescheduling policy",
+      "why_it_matters": "The fine print references a cancellation policy on the merchant's website and notes missed appointments count as used sessions \u2014 but the actual 24-hour cancellation window and fee amounts are not stated on the Groupon page, which may frustrate customers.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Recommended number of sessions for visible results",
+      "why_it_matters": "Clinical data shows results may improve for up to 6 months and multiple treatments are often recommended. Customers may not understand that one session may not be sufficient, leading to disappointment and negative reviews.",
+      "priority": "medium"
+    },
+    {
+      "gap": "What to wear/bring and pre-treatment prep instructions",
+      "why_it_matters": "Venus Bliss protocols require clean skin with no lotions, and cannot be performed over tattoos. Customers benefit from knowing what to avoid before their appointment to ensure the session proceeds as planned.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Post-treatment care instructions",
+      "why_it_matters": "Providers typically recommend massage of the treatment area 1\u20132x/day for 5\u201310 minutes post-session to maximize results. This aftercare guidance is absent from the deal page.",
+      "priority": "low"
+    },
+    {
+      "gap": "Mask/COVID policy transparency",
+      "why_it_matters": "The merchant website states masks are required, but this is not communicated on the Groupon page. Customers should be prepared.",
+      "priority": "low"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Black Bella DC Body Sculpting \u2014 Groupon Merchant Page",
+      "url": "https://www.groupon.com/biz/mitchellville-md/black-bella-dc-body-sculpting",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Black Bella DC \u2014 Groupon Deal (Other Listing)",
+      "url": "https://www.groupon.com/deals/black-bella-dc-body-sculpting-1",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Black Bella Spa & Wellness \u2014 Official Website",
+      "url": "https://blackbellaspa.com/",
+      "accessed_for": "reputation, pricing"
+    },
+    {
+      "title": "BLACK BELLA DC \u2014 Yelp Profile (Lanham, MD)",
+      "url": "https://www.yelp.com/biz/black-bella-dc-lanham-2",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Epic MedSpa \u2014 Venus Bliss Fat Reduction Pricing",
+      "url": "https://www.epicmedspa.com/fat-reduction-emsculpt-neo-venus-bliss-exion-body",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "LightRx MedSpa Alexandria \u2014 Laser Lipo (Venus Bliss)",
+      "url": "https://www.lightrx.com/locations/alexandria/laser-lipo/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Capital Aesthetic + Laser Center DC \u2014 Laser Lipo Cost",
+      "url": "https://capitalaestheticdc.com/laser-lipo-cost-in-dc-how-much-you-can-expect-to-pay/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Venus Treatments USA \u2014 Venus Bliss Fat Treatments",
+      "url": "https://www.venustreatments.com/en-us/venus-bliss.htm",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Venus.ai \u2014 Venus Bliss Non-Invasive Laser Lipolysis Machine",
+      "url": "https://www.venus.ai/venus-bliss",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Yelp \u2014 Best Body Contouring Washington DC 2025",
+      "url": "https://www.yelp.com/search?cflt=bodycontouring&find_loc=Washington,+DC",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Black Bella DC About Page \u2014 Location/Transit Info",
+      "url": "https://blackbellaspa.com/about",
+      "accessed_for": "reputation"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "Google rating and review count for Black Bella DC could not be confirmed from search results \u2014 no Google Business Profile data surfaced. Yelp shows only 14 reviews visible, which is very low relative to the 736 Groupon reviews, suggesting most review activity is Groupon-native. The merchant's direct booking price for Venus Bliss specifically was not publicly listed on their website during this research (pricing is available only via booking flow or consultation), so discount_vs_direct could not be calculated. Competitor pricing benchmarks are from real but non-DC-identical providers (Epic MedSpa location not confirmed as DC metro; Capital Aesthetic represents surgical laser lipo range). The merchant is physically located in Lanham/Glenarden, MD \u2014 not Washington DC proper \u2014 which is a meaningful geographic note. All Groupon reviews used are from verified purchasers per Groupon's stated policy."
+}

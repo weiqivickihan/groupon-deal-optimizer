@@ -1,0 +1,138 @@
+{
+  "url": "https://www.groupon.com/deals/salon-1181llc-5?redemptionLocationId=853c93fb-2a2e-b1fa-d5e8-01751e4a4599",
+  "title": "Women's Haircut, Blow-Dry, Conditioning, and Style (Up to55% Off)",
+  "subtitle": null,
+  "merchant_name": "Salon 1181llc",
+  "category_breadcrumbs": [
+    "local",
+    "beauty-and-spas",
+    "salons",
+    "v-hair-salons"
+  ],
+  "pricing_options": [
+    {
+      "label": "Women's Haircut, Blow-Dry, Conditioning Treatment and Style",
+      "original_price": 150.0,
+      "deal_price": 75.0,
+      "discount_pct": 55.0,
+      "limited_sale_price": 67.5,
+      "limited_sale_label": "Extra $7.50 off, today only",
+      "promo_price": 60.75,
+      "promo_code": "RELAX",
+      "sold_quantity": "140+",
+      "structured_fields": [
+        {
+          "label": "Number of people",
+          "value": "1 Person"
+        },
+        {
+          "label": "Expires",
+          "value": "120 days after purchase"
+        },
+        {
+          "label": "WHAT'S INCLUDED",
+          "value": [
+            "Women's haircut",
+            "Blow-dry",
+            "Conditioning treatment",
+            "Style"
+          ]
+        }
+      ]
+    }
+  ],
+  "highlights_html": "<p>Experience prime location convenience at this salon offering haircuts and highlights</p>",
+  "highlights_text": "Experience prime location convenience at this salon offering haircuts and highlights",
+  "about_deal_html": "<p>Looking for a fresh new look? A trip to the salon can be just what\u2019s needed. From cuts to colors, there are endless ways to express yourself. Get ready for compliments after visiting Downtown Hair Salon, where styling is made easy.</p>\n<h2>What We Offer</h2>\n<ul>\n<li>Women's Haircut, Blow-Dry, Conditioning Treatment, and Style</li>\n</ul>\n<p><strong>Valid with any stylist</strong></p>\n<p>Please see the below image for estimated lengths of short, medium, and long hair. <img loading=\"lazy\" src=\"https://img.grouponcdn.com/editorial/3NACgfSvjPjyUvUftd1V1RoLtzkY/3N-539x376\" alt=\"Hair Lengths\" style=\"width:1000px;height:600px;\"></p>\n<h2>Why You Should Grab the Offer</h2>\n<p>With its prime location on Michigan Avenue in Chicago's bustling center, this salon is easily accessible during shopping or dining outings. It boasts expertise recognized by notable media outlets, ensuring top-notch service quality. Personalized hair regimens provide clients the knowledge they need post-visit to confidently maintain their style at home. Every visit guarantees precision cutting by skilled technicians, creating looks tailored uniquely towards enhancing each client's features\u2014making it more than just another salon trip but rather an empowering experience promoting personal transformation.</p>",
+  "about_deal_text": "Looking for a fresh new look? A trip to the salon can be just what\u2019s needed. From cuts to colors, there are endless ways to express yourself. Get ready for compliments after visiting Downtown Hair Salon, where styling is made easy. \n What We Offer \n \n Women's Haircut, Blow-Dry, Conditioning Treatment, and Style \n \n  Valid with any stylist  \n Please see the below image for estimated lengths of short, medium, and long hair.   \n Why You Should Grab the Offer \n With its prime location on Michigan Avenue in Chicago's bustling center, this salon is easily accessible during shopping or dining outings. It boasts expertise recognized by notable media outlets, ensuring top-notch service quality. Personalized hair regimens provide clients the knowledge they need post-visit to confidently maintain their style at home. Every visit guarantees precision cutting by skilled technicians, creating looks tailored uniquely towards enhancing each client's features\u2014making it more than just another salon trip but rather an empowering experience promoting personal transformation.",
+  "highlights": [
+    "Appointment required."
+  ],
+  "fine_print": [],
+  "faqs": [],
+  "amenities": [
+    "Good for Groups",
+    "Takes Reservations",
+    "Walk-ins Welcome"
+  ],
+  "review_count": 174,
+  "avg_rating": 4.9,
+  "groupon_rating": 4.9,
+  "review_distribution": {
+    "five_star_pct": 96,
+    "four_star_pct": 1,
+    "three_star_pct": 1,
+    "two_star_pct": 0,
+    "one_star_pct": 2
+  },
+  "review_quotes": [
+    {
+      "rating": 5,
+      "text": "One of my best haircuts ever!!!",
+      "author": "Estella"
+    },
+    {
+      "rating": 5,
+      "text": "Zoe was amazing! I brought in pics that I liked and she cut and styled my hair exactly like them. I\u2019d recommend working with her! \ud83d\ude4c",
+      "author": "Alexandra"
+    },
+    {
+      "rating": 5,
+      "text": "I am pleasantly pleased with the results and would recommend to a friend",
+      "author": "Anna"
+    },
+    {
+      "rating": 5,
+      "text": "Love my cut! She made me feel comfortable right from the start. She was efficient yet thorough. Fantastic experience.",
+      "author": "Parul"
+    },
+    {
+      "rating": 5,
+      "text": "Zoe gave me the best haircut I have had in years.  She listened and cut it exactly how I wanted it.",
+      "author": "Kim"
+    }
+  ],
+  "badges": [
+    "Best Rated"
+  ],
+  "urgency_bought": "150+",
+  "urgency_message": "20+ viewed today",
+  "has_guarantee": false,
+  "is_giftable": true,
+  "image_count": 1,
+  "image_urls": [
+    "https://img.grouponcdn.com/iam/2VijQX1FWHDfpPtxXdUEL2W7GUVP/2V-2048x1229/v1/t600x362.webp"
+  ],
+  "has_videos": false,
+  "seo": {
+    "meta_title": "Salon 1181llc - From $67.50 - Chicago | Groupon",
+    "meta_description": "Women's Haircut, Blow-Dry, Conditioning, and Style (Up to55% Off)",
+    "h1": "Women's Haircut, Blow-Dry, Conditioning, and Style (Up to55% Off)",
+    "h2s": [
+      "Amenities",
+      "What We Offer",
+      "Why You Should Grab the Offer",
+      "What We Offer",
+      "Why You Should Grab the Offer",
+      "Need To Know Info",
+      "About Salon 1181llc",
+      "Where To Redeem",
+      "Customer Reviews",
+      "Explore more",
+      "Similar deals",
+      "Recommended deals"
+    ],
+    "schema_types": [
+      "WebSite",
+      "Organization",
+      "HairSalon",
+      "ProductGroup",
+      "BreadcrumbList",
+      "Review"
+    ],
+    "noindex": false,
+    "canonical_url": null
+  },
+  "script_count": 132,
+  "error": null
+}

@@ -1,0 +1,223 @@
+{
+  "merchant_name": "Illa Spa",
+  "city": "Washington DC",
+  "category": "spa/wellness",
+  "competitor_pricing": {
+    "low": 80.0,
+    "high": 155.0,
+    "currency": "USD",
+    "notes": "Comparable DC day spas charge $80\u2013$155 for a standalone 60-min Swedish massage. Mid-tier boutique competitors like Deluca Massage & Bodywork (directly across the street) charge $90\u2013$105 for a 60-min Swedish. Budget options like Qi Image Spa charge ~$80/60 min. Luxury hotel spas (Salamander, Spa at the Wharf) run $100\u2013$300. Illa's Groupon 'original price' of $105 for a single massage is roughly in line with the mid-market, though slightly below Deluca.",
+    "competitors": [
+      {
+        "name": "Deluca Massage & Bodywork",
+        "price_range": "$90\u2013$105",
+        "source": "https://www.delucamassage.com/home-2/",
+        "notes": "60-min Swedish massage $90; located directly across the street from Illa at 2030 P St NW, Dupont Circle. Established 2000; all licensed therapists. Deep tissue 60-min runs $120."
+      },
+      {
+        "name": "Qi Image Spa",
+        "price_range": "$80",
+        "source": "https://qispadc.com/",
+        "notes": "60-min Swedish/full body massage at $80. Budget-positioned competitor in DC."
+      },
+      {
+        "name": "Wat Massage",
+        "price_range": "$60\u2013$150",
+        "source": "https://www.spa-awards.com/awards/best-spa-washington-dc-2024",
+        "notes": "Average prices $60\u2013$150 for massage therapies including Swedish, deep tissue, and couples. Highly rated independent operation near Dupont Circle. Couples massage 60-min at $220."
+      },
+      {
+        "name": "Salamander Washington DC Spa",
+        "price_range": "$225\u2013$300+",
+        "source": "https://www.salamanderdc.com/spa/treatments/",
+        "notes": "Luxury hotel spa; 60-min signature massage from $225, couples 60-min from $450. Upper-bracket benchmark showing wide DC market range."
+      }
+    ]
+  },
+  "merchant_reputation": {
+    "yelp_rating": 3.0,
+    "yelp_review_count": 351,
+    "google_rating": 3.3,
+    "google_review_count": 426,
+    "positive_themes": [
+      "Skilled individual therapists (specific staff praised by name): Several reviewers on TripAdvisor, Yahoo Local, and Groupon specifically praise individual therapists like Alexis and Shuichi for excellent pressure and attentiveness.",
+      "Value and accessibility: Groupon customers frequently note the price-to-service ratio as acceptable, with same-day appointment availability praised as convenient.",
+      "European facial quality: Multiple Yelp reviewers mention the facial services specifically, with one noting 'the European facial was everything I expected and I left my face glowing.'"
+    ],
+    "negative_themes": [
+      "Therapist unprofessionalism \u2014 phone use during massage: Multiple TripAdvisor reviews (2019 and recurring) report therapists using phones during sessions, including one incident where a phone was placed on a client's back.",
+      "Billing disputes and unauthorized charges after Groupon use: BBB complaints and Yahoo/TripAdvisor reviews document incidents of unexpected charges appearing on cards after Groupon redemption, and aggressive follow-up harassment calls demanding extra payment.",
+      "Poor management responses and hostile owner behavior: The BBB rates the business an 'F' for failure to respond to 3 complaints. Owner/manager responses on Groupon and TripAdvisor are confrontational and dismissive, publicly questioning and insulting customers.",
+      "Facility cleanliness and environment: Multiple reviewers describe the space as 'dirty, smelly,' with 'dingy' decor and concerns about sanitary conditions.",
+      "Appointment scheduling and wait time chaos: Reviewers report long waits (up to 90 minutes past appointment time), booking system failures (paper-only tracking), and staff being unable to locate confirmed reservations."
+    ],
+    "representative_quotes": [
+      {
+        "sentiment": "positive",
+        "quote": "Perfect pressure and just the right touch everywhere my body and soul needed it.",
+        "source": "tripadvisor"
+      },
+      {
+        "sentiment": "positive",
+        "quote": "Very great value for the services provided!!",
+        "source": "groupon"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Management is incompetent at best and fraudulent at worst.",
+        "source": "bbb"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Booked thru Groupon and when I got there showed the coupon... a charge appeared on my card for $110.",
+        "source": "bbb"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Walked in a hot today to an even hotter office space that was dirty and dingy.",
+        "source": "tripadvisor"
+      },
+      {
+        "sentiment": "negative",
+        "quote": "Got 15 calls during work hours and multiple texts with threatening and harassment.",
+        "source": "yahoo_local"
+      }
+    ]
+  },
+  "deal_value": {
+    "groupon_price": 57.75,
+    "direct_booking_price": 105.0,
+    "competitor_avg_price": 95.0,
+    "is_good_deal": null,
+    "discount_vs_direct": 45.0,
+    "discount_vs_competitors": 39.2,
+    "original_price_credibility": "credible",
+    "assessment": "The Groupon 'original' price of $105 for a 60-min signature single massage is credible and consistent with mid-market DC day spa rates (Deluca charges $90\u2013$105 for the same duration, Qi Image Spa charges $80). At $57.75 post-discount, the Groupon price does beat direct competitors on cost alone. However, 'good deal' is highly conditional: the BBB 'F' rating, multiple documented billing disputes specifically involving Groupon vouchers (unauthorized charges, harassment), and a 3.3 Google / ~3.0 Yelp rating across hundreds of reviews introduce significant redemption risk that materially undermines the discount's appeal. Customers frequently report that the Groupon experience specifically triggers disputes that end up costing more than the deal saved."
+  },
+  "content_gaps": [
+    {
+      "gap": "Groupon-specific billing and redemption warnings",
+      "why_it_matters": "Multiple verified reviews across BBB, TripAdvisor, Yahoo, and Google document that Groupon customers have been charged additional unauthorized fees after redemption, including harassment via phone and text. Customers need explicit clarity on what is and isn't included, and that no additional charges will be levied.",
+      "priority": "high"
+    },
+    {
+      "gap": "Exact service inclusions per option (product brands, scrub type, facial steps)",
+      "why_it_matters": "The deal page does not specify what body scrub products are used, what a 'Signature Massage' includes vs. a standard Swedish, or what steps a 'European Facial' entails (cleanse, exfoliate, mask, extractions?). Without this, customers cannot evaluate quality or compare to competitors.",
+      "priority": "high"
+    },
+    {
+      "gap": "Therapist licensing and credential information",
+      "why_it_matters": "Several reviews question the skill level and training of therapists ('felt like the person watched 2 tutorials'). The deal page should state that all therapists are licensed massage therapists (LMTs) or estheticians, with relevant credentials, to counter this recurring concern.",
+      "priority": "high"
+    },
+    {
+      "gap": "Cancellation and no-show/rescheduling policy with Groupon voucher",
+      "why_it_matters": "The fine print only says 'merchant's standard cancellation policy applies.' Multiple reviewers report confusion and disputed charges when appointments were missed or the spa could not find their booking. Specific rules (e.g., 24-hour notice required, penalty amounts) must be spelled out.",
+      "priority": "high"
+    },
+    {
+      "gap": "Exact location details, floor access, and parking/transit instructions",
+      "why_it_matters": "The spa is on the 2nd floor of 2035 P St NW. The deal page mentions nothing about parking (the Yelp listing notes 'accessible parking near entrance'), transit (Dupont Circle Metro nearby), or how to find the entrance. First-time visitors often have difficulty locating 2nd-floor spa locations.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Appointment confirmation process \u2014 'PENDING' status warning",
+      "why_it_matters": "The merchant's own website prominently warns 'DO NOT come to the spa if your appointment says PENDING.' This critical operational note is entirely absent from the Groupon deal page, risking wasted trips and customer frustration.",
+      "priority": "high"
+    },
+    {
+      "gap": "Before/after care instructions and what to bring/wear",
+      "why_it_matters": "No guidance is given on what clients should do before (hydration, avoid eating, arrive early), what to wear, whether robes/towels are provided, or post-treatment care (e.g., hydrate after body scrub). This is standard for spa deal pages and reduces anxiety for first-timers.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Spa environment/amenity photos",
+      "why_it_matters": "Multiple reviews reference the facility as looking 'dingy' or 'dirty.' The deal page highlights are purely text-based. Real, current interior photos would allow customers to set realistic expectations and reduce negative surprise reviews.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Gratuity/tip expectations",
+      "why_it_matters": "Reviews explicitly mention pressure to tip at the front desk. Stating the tipping norm upfront (e.g., 'gratuity not included, 18\u201320% customary') prevents post-service disputes and manages expectations.",
+      "priority": "medium"
+    },
+    {
+      "gap": "Hours of operation and Monday closure",
+      "why_it_matters": "Illa Spa is closed on Mondays (Tue\u2013Sun open), which is not mentioned anywhere on the deal page. Customers booking a Monday appointment would be turned away or unable to redeem.",
+      "priority": "medium"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ILLA SPA - Yelp (Updated April 2026)",
+      "url": "https://www.yelp.com/biz/illa-spa-washington-2",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Illa Spa - TripAdvisor Reviews (2026)",
+      "url": "https://www.tripadvisor.com/Attraction_Review-g28970-d13431641-Reviews-Illa_Spa-Washington_DC_District_of_Columbia.html",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Illa Boutique Spa - BBB Business Profile (F Rating)",
+      "url": "https://www.bbb.org/us/dc/washington/profile/boutique/illa-boutique-spa-0241-236015787",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Illa Spa - Birdeye (3.3 stars, 414 reviews)",
+      "url": "https://reviews.birdeye.com/illa-spa-166981777711373",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Illa Spa - MedSpa Scout (Google Rating: 3.3, 426 reviews)",
+      "url": "https://medspascout.com/clinic/illa-spa-washington",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Illa Spa - Yahoo Local Reviews",
+      "url": "https://local.yahoo.com/info-195682000-illa-spa-washington/",
+      "accessed_for": "reputation"
+    },
+    {
+      "title": "Illa Spa Official Website",
+      "url": "https://illaspadc.com/",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Groupon - Illa Spa Deal Page",
+      "url": "https://www.groupon.com/deals/illa-spa-16",
+      "accessed_for": "pricing"
+    },
+    {
+      "title": "Deluca Massage & Bodywork - Services & Pricing",
+      "url": "https://www.delucamassage.com/home-2/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Qi Image Spa - Washington DC Pricing",
+      "url": "https://qispadc.com/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Wat Massage - Best Spa Washington DC 2024 (Spa Awards)",
+      "url": "https://www.spa-awards.com/awards/best-spa-washington-dc-2024",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "Salamander Washington DC Spa Treatment Menu",
+      "url": "https://www.salamanderdc.com/spa/treatments/",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "ThreeBestRated - Deluca & Wat Massage Pricing Detail",
+      "url": "https://threebestrated.com/massage-therapy-in-washington-dc",
+      "accessed_for": "competitor"
+    },
+    {
+      "title": "WanderDC - Best Spa in Washington DC Guide 2024",
+      "url": "https://www.wanderdc.com/best-spa-in-washington-dc-ultimate-guide/",
+      "accessed_for": "competitor"
+    }
+  ],
+  "research_confidence": "medium",
+  "research_notes": "Yelp review count (351) and Google review count (426) are current as of mid-2025/early 2026 per source metadata. The Yelp star rating (~3.0) is sourced from a third-party article (WUSA9, 2019) showing 3 stars at that time; current Yelp rating was not directly confirmed from the Yelp listing itself, though the Birdeye aggregate (3.3 across 414 multi-platform reviews) and Google (3.3/426) corroborate a consistent low-3s pattern. Direct pricing from illaspadc.com's booking page was not returned in search results \u2014 the $105 'original price' for a 60-min single massage is validated as credible based on competitor benchmarking rather than a confirmed direct-page price. The deal title says 'Up to 45% Off' but the pricing data provided shows 51% off across all options \u2014 this discrepancy should be flagged for copy accuracy. No confirmed Google Maps star rating was retrievable directly; the 3.3 figure comes from MedSpa Scout's Google-sourced aggregation. BBB 'F' rating is confirmed current."
+}
